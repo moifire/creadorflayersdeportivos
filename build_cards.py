@@ -163,7 +163,7 @@ def make_card(out_path: Path, group_title: str, tvg_name: str, title: str):
     pill_w = (pill_bbox[2] - pill_bbox[0]) + 48
     draw.rounded_rectangle((34, 30, 34 + pill_w, 86), radius=24, fill=(255,255,255,225))
     draw.text((58, 42), sport_label, font=font_label, fill=(0,0,0,255))
-
+    img.convert("RGB").save(out_path, format="PNG", optimize=True)
     # time pill
     if time_txt:
         time_bbox = draw.textbbox((0,0), time_txt, font=font_time)
