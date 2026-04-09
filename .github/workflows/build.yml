@@ -1,4 +1,4 @@
-name: Build ULTRA NEXT PLUS cards
+name: Build ULTRA NEXT COMPLETE
 
 on:
   workflow_dispatch:
@@ -23,15 +23,15 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Build cards and playlist
+      - name: Build cards, backdrops and playlist
         run: python build_cards.py
 
       - name: Commit generated files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add cards *.m3u channel_logos
-          git diff --cached --quiet || git commit -m "ULTRA NEXT PLUS update"
+          git add cards backdrops *.m3u channel_logos
+          git diff --cached --quiet || git commit -m "ULTRA NEXT COMPLETE update"
 
       - name: Push changes
         run: git push
