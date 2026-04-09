@@ -1,19 +1,13 @@
-AUTO GITHUB ULTRA DISEÑO
+ULTRA NEXT PLUS
 
-Qué mejora esta versión
-- texto del deporte en negro sobre pill blanco
-- diseño más premium y más legible en Stremio
-- color distinto por deporte
-- mantiene las categorías originales
-- GitHub Actions regenera cards y playlist al hacer push
+Incluye:
+- build_cards.py premium
+- logos oficiales PNG pequeños en lateral
+- fallback a badge de texto
+- workflow GitHub listo
 
-Uso
-1. Crea un repo en GitHub
-2. Edita github_config.json
-3. Sustituye eventos_acestream.m3u por tu lista actual
-4. Ejecuta subir_a_github.bat
-5. Activa GitHub Pages en main/root
-
-Resultado
-https://TU-USUARIO.github.io/TU-REPO/eventos_acestream_hosting_pro.m3u
-https://TU-USUARIO.github.io/TU-REPO/cards/*.png
+Pasos:
+1. Copia este pack al repo
+2. Sube tus logos PNG a channel_logos/
+3. Haz commit
+4. Run workflow

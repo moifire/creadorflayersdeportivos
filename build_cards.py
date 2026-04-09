@@ -10,64 +10,30 @@ ROOT = Path(__file__).resolve().parent
 CONFIG_FILE = ROOT / "github_config.json"
 SOURCE_M3U = ROOT / "eventos_acestream.m3u"
 CARDS_DIR = ROOT / "cards"
+CHANNEL_LOGOS_DIR = ROOT / "channel_logos"
 
 W, H = 700, 1050
 
 SPORT_STYLES = {
-    "futbol": {
-        "bg1": (7, 14, 28),
-        "bg2": (5, 54, 88),
-        "accent": (80, 235, 170),
-        "label": "FÚTBOL",
-    },
-    "baloncesto": {
-        "bg1": (20, 14, 33),
-        "bg2": (76, 42, 116),
-        "accent": (255, 150, 70),
-        "label": "BALONCESTO",
-    },
-    "tenis": {
-        "bg1": (12, 34, 29),
-        "bg2": (9, 83, 66),
-        "accent": (193, 255, 103),
-        "label": "TENIS",
-    },
-    "motor": {
-        "bg1": (28, 12, 16),
-        "bg2": (112, 24, 36),
-        "accent": (255, 92, 92),
-        "label": "MOTOR",
-    },
-    "ciclismo": {
-        "bg1": (33, 26, 9),
-        "bg2": (118, 89, 12),
-        "accent": (255, 214, 74),
-        "label": "CICLISMO",
-    },
-    "combate": {
-        "bg1": (28, 10, 22),
-        "bg2": (104, 20, 80),
-        "accent": (255, 113, 196),
-        "label": "COMBATE",
-    },
-    "default": {
-        "bg1": (12, 18, 38),
-        "bg2": (28, 40, 82),
-        "accent": (230, 236, 255),
-        "label": "DEPORTE",
-    },
+    "futbol": {"bg1": (7, 14, 28), "bg2": (5, 54, 88), "accent": (80, 235, 170), "label": "FÚTBOL"},
+    "baloncesto": {"bg1": (20, 14, 33), "bg2": (76, 42, 116), "accent": (255, 150, 70), "label": "BALONCESTO"},
+    "tenis": {"bg1": (12, 34, 29), "bg2": (9, 83, 66), "accent": (193, 255, 103), "label": "TENIS"},
+    "motor": {"bg1": (28, 12, 16), "bg2": (112, 24, 36), "accent": (255, 92, 92), "label": "MOTOR"},
+    "ciclismo": {"bg1": (33, 26, 9), "bg2": (118, 89, 12), "accent": (255, 214, 74), "label": "CICLISMO"},
+    "combate": {"bg1": (28, 10, 22), "bg2": (104, 20, 80), "accent": (255, 113, 196), "label": "COMBATE"},
+    "default": {"bg1": (12, 18, 38), "bg2": (28, 40, 82), "accent": (230, 236, 255), "label": "DEPORTE"},
 }
 
 CHANNEL_BADGES = [
-    {"match": ["dazn"], "text": "DAZN", "bg": (15, 15, 18), "fg": (255, 255, 255)},
-    {"match": ["movistar laliga", "m+ laliga"], "text": "M+ LALIGA", "bg": (20, 44, 96), "fg": (255, 255, 255)},
-    {"match": ["movistar liga", "m+ liga"], "text": "M+ LIGA", "bg": (24, 58, 118), "fg": (255, 255, 255)},
-    {"match": ["movistar deportes", "m+ deportes"], "text": "M DEPORTES", "bg": (31, 48, 88), "fg": (255, 255, 255)},
-    {"match": ["liga de campeones", "champions"], "text": "M CHAMP", "bg": (17, 33, 78), "fg": (255, 255, 255)},
-    {"match": ["eurosport"], "text": "EUROSPORT", "bg": (22, 39, 92), "fg": (255, 255, 255)},
-    {"match": ["nba tv"], "text": "NBA TV", "bg": (184, 28, 28), "fg": (255, 255, 255)},
-    {"match": ["teledeporte"], "text": "TDP", "bg": (37, 111, 176), "fg": (255, 255, 255)},
-    {"match": ["vamos"], "text": "VAMOS", "bg": (31, 87, 180), "fg": (255, 255, 255)},
+    {"match": ["dazn"], "text": "DAZN", "bg": (15, 15, 18), "fg": (255, 255, 255), "file": "dazn.png"},
+    {"match": ["movistar laliga", "m+ laliga"], "text": "M+ LALIGA", "bg": (20, 44, 96), "fg": (255, 255, 255), "file": "movistar_laliga.png"},
+    {"match": ["movistar liga", "m+ liga"], "text": "M+ LIGA", "bg": (24, 58, 118), "fg": (255, 255, 255), "file": "movistar_liga.png"},
+    {"match": ["movistar deportes", "m+ deportes"], "text": "M DEPORTES", "bg": (31, 48, 88), "fg": (255, 255, 255), "file": "movistar_deportes.png"},
+    {"match": ["liga de campeones", "champions"], "text": "M CHAMP", "bg": (17, 33, 78), "fg": (255, 255, 255), "file": "m_champ.png"},
+    {"match": ["eurosport"], "text": "EUROSPORT", "bg": (22, 39, 92), "fg": (255, 255, 255), "file": "eurosport.png"},
+    {"match": ["nba tv"], "text": "NBA TV", "bg": (184, 28, 28), "fg": (255, 255, 255), "file": "nba_tv.png"},
+    {"match": ["teledeporte"], "text": "TDP", "bg": (37, 111, 176), "fg": (255, 255, 255), "file": "teledeporte.png"},
+    {"match": ["vamos"], "text": "VAMOS", "bg": (31, 87, 180), "fg": (255, 255, 255), "file": "vamos.png"},
 ]
 
 def load_config():
@@ -75,7 +41,6 @@ def load_config():
 
 def infer_sport(group_title: str, tvg_name: str, title: str) -> str:
     blob = f"{group_title} {tvg_name} {title}".lower()
-
     if any(x in blob for x in ["nba", "euroliga", "euroleague", "baloncesto", "basket", "acb", "básquet"]):
         return "baloncesto"
     if any(x in blob for x in ["tenis", "atp", "wta", "wimbledon", "roland", "montecarlo", "masters", "us open"]):
@@ -88,7 +53,6 @@ def infer_sport(group_title: str, tvg_name: str, title: str) -> str:
         return "combate"
     if any(x in blob for x in ["liga", "champions", "premier", "futbol", "fútbol", "laliga", "bundesliga", "serie a", "1rfef", "copa"]):
         return "futbol"
-
     return "default"
 
 def normalize_channel(name: str) -> str:
@@ -108,16 +72,13 @@ def split_title(title: str):
 
 def clean_match_text(text: str) -> str:
     s = re.sub(r"\s+", " ", text or "").strip()
-    s = s.replace(" vs. ", " vs ")
-    s = s.replace(" Vs ", " vs ")
-    s = s.replace(" v ", " vs ")
+    s = s.replace(" vs. ", " vs ").replace(" Vs ", " vs ").replace(" v ", " vs ")
     return s
 
 def clean_group_text(text: str) -> str:
     s = re.sub(r"\s+", " ", text or "").strip()
     s = s.replace("TV · ", "").replace("TV . ", "").replace("TV·", "")
-    s = s.replace("Regular - TV channel", "Regular")
-    s = s.replace(" - TV channel", "")
+    s = s.replace("Regular - TV channel", "Regular").replace(" - TV channel", "")
     return s.strip()
 
 def hash_id(*parts: str) -> str:
@@ -216,7 +177,6 @@ def get_channel_badge(channel_txt):
     for item in CHANNEL_BADGES:
         if any(k in blob for k in item["match"]):
             return item
-
     cleaned = re.sub(r"[^A-Za-z0-9+ ]", "", channel_txt or "").upper().split()
     if not cleaned:
         text = "TV"
@@ -224,8 +184,7 @@ def get_channel_badge(channel_txt):
         text = cleaned[0][:10]
     else:
         text = " ".join(cleaned[:2])[:12]
-
-    return {"text": text, "bg": (255, 255, 255), "fg": (0, 0, 0)}
+    return {"text": text, "bg": (255, 255, 255), "fg": (0, 0, 0), "file": None}
 
 def draw_badge(draw, x, y, text, bg, fg, font, accent=None):
     bbox = draw.textbbox((0, 0), text, font=font)
@@ -241,10 +200,22 @@ def draw_badge(draw, x, y, text, bg, fg, font, accent=None):
         draw.rounded_rectangle((x + 10, y + h - 7, x + w - 10, y + h - 3), radius=2, fill=accent)
     return w, h
 
+def paste_channel_logo(base_img: Image.Image, logo_path: Path, x: int, y: int, box_w: int, box_h: int):
+    logo = Image.open(logo_path).convert("RGBA")
+    logo.thumbnail((box_w, box_h), Image.LANCZOS)
+    pad = 10
+    card = Image.new("RGBA", (box_w + pad * 2, box_h + pad * 2), (0, 0, 0, 0))
+    draw = ImageDraw.Draw(card)
+    draw.rounded_rectangle((0, 0, card.size[0], card.size[1]), radius=18, fill=(255, 255, 255, 235))
+    lx = (card.size[0] - logo.size[0]) // 2
+    ly = (card.size[1] - logo.size[1]) // 2
+    card.alpha_composite(logo, (lx, ly))
+    base_img.alpha_composite(card, (x, y))
+    return card.size[0], card.size[1]
+
 def make_card(out_path: Path, group_title: str, tvg_name: str, title: str):
     sport = infer_sport(group_title, tvg_name, title)
     style = SPORT_STYLES[sport]
-
     time_txt, match_txt, channel_txt = split_title(title)
     match_txt = clean_match_text(match_txt)
     group_txt = clean_group_text(group_title)
@@ -252,8 +223,6 @@ def make_card(out_path: Path, group_title: str, tvg_name: str, title: str):
     badge = get_channel_badge(channel_txt)
 
     img = Image.new("RGBA", (W, H), style["bg1"] + (255,))
-    draw = ImageDraw.Draw(img)
-
     overlay = rounded_gradient_background((W, H), style["bg1"], style["bg2"])
     overlay.putalpha(190)
     img.alpha_composite(overlay)
@@ -266,13 +235,12 @@ def make_card(out_path: Path, group_title: str, tvg_name: str, title: str):
     glow = glow.filter(ImageFilter.GaussianBlur(30))
     img.alpha_composite(glow)
 
-    vignette = Image.new("RGBA", (W, H), (0, 0, 0, 0))
-    vd = ImageDraw.Draw(vignette)
-    vd.rounded_rectangle((10, 10, W - 10, H - 10), radius=36, outline=(255, 255, 255, 42), width=2)
-    img.alpha_composite(vignette)
+    frame = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    fd = ImageDraw.Draw(frame)
+    fd.rounded_rectangle((10, 10, W - 10, H - 10), radius=36, outline=(255, 255, 255, 42), width=2)
+    img.alpha_composite(frame)
 
     draw = ImageDraw.Draw(img)
-
     font_label = get_font(26, True)
     font_time = get_font(30, True)
     font_title = get_font(64, True)
@@ -281,7 +249,6 @@ def make_card(out_path: Path, group_title: str, tvg_name: str, title: str):
     font_badge = get_font(22, True)
 
     draw.rounded_rectangle((56, 994, W - 56, 1008), radius=6, fill=tuple(style["accent"]))
-
     draw_badge(draw, 34, 30, style["label"], (255, 255, 255), (0, 0, 0), font_label)
 
     if time_txt:
@@ -290,31 +257,26 @@ def make_card(out_path: Path, group_title: str, tvg_name: str, title: str):
         tx = W - tw - 34
         draw_badge(draw, tx, 30, time_txt, (255, 255, 255), (0, 0, 0), font_time)
 
-    badge_text = badge["text"]
-    badge_w = max(120, min(220, draw.textbbox((0, 0), badge_text, font=font_badge)[2] + 36))
-    badge_x = W - badge_w - 50
-    draw_badge(draw, badge_x, 125, badge_text, tuple(badge["bg"]), tuple(badge["fg"]), font_badge, tuple(style["accent"]))
+    logo_done = False
+    if badge.get("file"):
+        logo_path = CHANNEL_LOGOS_DIR / badge["file"]
+        if logo_path.exists():
+            paste_channel_logo(img, logo_path, W - 190, 118, 120, 56)
+            logo_done = True
+
+    draw = ImageDraw.Draw(img)
+    if not logo_done:
+        badge_text = badge["text"]
+        badge_w = max(120, min(220, draw.textbbox((0, 0), badge_text, font=font_badge)[2] + 36))
+        badge_x = W - badge_w - 50
+        draw_badge(draw, badge_x, 125, badge_text, tuple(badge["bg"]), tuple(badge["fg"]), font_badge, tuple(style["accent"]))
 
     title_lines = fit_title_lines(draw, match_txt, font_title, max_width=W - 150, max_lines=3)
-    draw_centered_lines(
-        draw,
-        (72, 255, W - 72, 595),
-        title_lines,
-        font_title,
-        (248, 250, 255, 255),
-        line_spacing=4
-    )
+    draw_centered_lines(draw, (72, 255, W - 72, 595), title_lines, font_title, (248, 250, 255, 255), line_spacing=4)
 
     if group_txt:
         group_txt = ellipsize(draw, group_txt, font_group, W - 180)
-        draw_centered_lines(
-            draw,
-            (90, 650, W - 90, 735),
-            [group_txt],
-            font_group,
-            (214, 224, 245, 228),
-            line_spacing=4
-        )
+        draw_centered_lines(draw, (90, 650, W - 90, 735), [group_txt], font_group, (214, 224, 245, 228), line_spacing=4)
 
     channel_txt = ellipsize(draw, channel_txt, font_channel, 380)
     ch_bbox = draw.textbbox((0, 0), channel_txt, font=font_channel)
@@ -346,40 +308,30 @@ def build():
     cfg = load_config()
     base_url = cfg["base_url"].rstrip("/")
     playlist_name = cfg.get("playlist_name", "eventos_acestream_hosting_pro.m3u")
-
     raw = SOURCE_M3U.read_text(encoding="utf-8", errors="ignore").splitlines()
     out_lines = ["#EXTM3U"]
-
     CARDS_DIR.mkdir(parents=True, exist_ok=True)
 
     i = 0
     while i < len(raw):
         line = raw[i].rstrip("\n")
-
         if line.startswith("#EXTINF"):
             attrs = parse_attrs(line)
             display_name = line.split(",", 1)[1] if "," in line else ""
             group_title = attrs.get("group-title", "")
             tvg_name = attrs.get("tvg-name", "")
-
             uid = hash_id(group_title, tvg_name, display_name)
             filename = f"{uid}.png"
-
             make_card(CARDS_DIR / filename, group_title, tvg_name, display_name)
-
             attrs["tvg-id"] = attrs.get("tvg-id", normalize_channel(tvg_name).replace(" ", "."))
             attrs["tvg-logo"] = f"{base_url}/cards/{filename}"
-
             out_lines.append(rebuild_extinf(attrs, display_name))
-
             if i + 1 < len(raw):
                 out_lines.append(raw[i + 1].rstrip("\n"))
                 i += 2
                 continue
-
         elif line and line != "#EXTM3U":
             out_lines.append(line)
-
         i += 1
 
     (ROOT / playlist_name).write_text("\n".join(out_lines) + "\n", encoding="utf-8")
