@@ -479,3 +479,848 @@ http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=8546cff89e4ee8bf3ad3
 http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=9be118a64eb603b5eb62be6cf27631d3891b5174&api_password=moifire
 #EXTINF:-1 tvg-id="MOVISTAR.GOLF" tvg-name="▶ MOVISTAR GOLF" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/e62c5a83c6891530.png" group-title="Masters de Augusta",23:00 | Jornada 1 vs M+ Vamos (8 y 50)M+ #Vamos Bar (304)Movistar+ LiteMovistar Golf (M67) | ▶ MOVISTAR GOLF
 http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=872608e734992db636eb79426802cd08f4029afb&api_password=moifire
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[AFC Champions League] Svay Rieng vs Manila Digger (FAWA)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/bfeb356d9b36494b.png" group-title="Futbol" tvg-chno="1",[AFC Champions League] Svay Rieng vs Manila Digger (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2F195.178.110.2%2Fhls%2FNNNNQQQ.m3u8&h_referer=http%3A%2F%2Fwww.fawanews.sc%2F&h_origin=http%3A%2F%2Fwww.fawanews.sc%2F&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[AFL Aussie Rules] Adelaide Crows vs Carlton Blues (FAWA)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/d2b49e5ef62d7a22.png" group-title="Rugby / Aussie Rules" tvg-chno="2",[AFL Aussie Rules] Adelaide Crows vs Carlton Blues (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2F195.178.110.2%2Fhls%2FNNNNQ.m3u8&h_referer=http%3A%2F%2Fwww.fawanews.sc%2F&h_origin=http%3A%2F%2Fwww.fawanews.sc%2F&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Athletics Athletics at New York Yankees (STRMCNTR)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/e82e61e2a4906772.png" group-title="Beisbol" tvg-chno="3",[Baseball] Athletics Athletics at New York Yankees (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmainstreams.pro%2Fhls%2F16yuitzaerghbhc16.m3u8&h_referer=https%3A%2F%2Fstreamcenter.xyz&h_origin=https%3A%2F%2Fstreamcenter.xyz&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Cincinnati Reds at Miami Marlins (STRMCNTR)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/c92122812bd4f9f5.png" group-title="Beisbol" tvg-chno="4",[Baseball] Cincinnati Reds at Miami Marlins (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmainstreams.pro%2Fhls%2Fdazhfiach15.m3u8&h_referer=https%3A%2F%2Fstreamcenter.xyz&h_origin=https%3A%2F%2Fstreamcenter.xyz&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Detroit Tigers at Minnesota Twins (STRMCNTR)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/1a9a91a76aab7a50.png" group-title="Beisbol" tvg-chno="5",[Baseball] Detroit Tigers at Minnesota Twins (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmainstreams.pro%2Fhls%2Fihfazugfyjcazich17.m3u8&h_referer=https%3A%2F%2Fstreamcenter.xyz&h_origin=https%3A%2F%2Fstreamcenter.xyz&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Boston Celtics at New York Knicks (STRMCNTR)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/16f01cc7c51f4862.png" group-title="Baloncesto" tvg-chno="6",[Basketball] Boston Celtics at New York Knicks (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmainstreams.pro%2Fhls%2Fzayrtezafgvdv68.m3u8&h_referer=https%3A%2F%2Fstreamcenter.xyz&h_origin=https%3A%2F%2Fstreamcenter.xyz&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Chicago Bulls at Washington Wizards (STRMCNTR)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/4d5f6b02899a5791.png" group-title="Baloncesto" tvg-chno="7",[Basketball] Chicago Bulls at Washington Wizards (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmainstreams.pro%2Fhls%2Fwfazgsqtrezu66.m3u8&h_referer=https%3A%2F%2Fstreamcenter.xyz&h_origin=https%3A%2F%2Fstreamcenter.xyz&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Indiana Pacers at Brooklyn Nets (STRMCNTR)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/5abfaa76cd6f91ea.png" group-title="Baloncesto" tvg-chno="8",[Basketball] Indiana Pacers at Brooklyn Nets (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmainstreams.pro%2Fhls%2Fhfsdqtaxvb67.m3u8&h_referer=https%3A%2F%2Fstreamcenter.xyz&h_origin=https%3A%2F%2Fstreamcenter.xyz&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Los Angeles Lakers at Golden State Warriors (STRMCNTR)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/2c29530d26e64219.png" group-title="Baloncesto" tvg-chno="9",[Basketball] Los Angeles Lakers at Golden State Warriors (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmainstreams.pro%2Fhls%2Fbvnsqdfvgha70.m3u8&h_referer=https%3A%2F%2Fstreamcenter.xyz&h_origin=https%3A%2F%2Fstreamcenter.xyz&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Miami Heat at Toronto Raptors (STRMCNTR)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/70107f0f32855230.png" group-title="Baloncesto" tvg-chno="10",[Basketball] Miami Heat at Toronto Raptors (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmainstreams.pro%2Fhls%2Fmlkijfezag65.m3u8&h_referer=https%3A%2F%2Fstreamcenter.xyz&h_origin=https%3A%2F%2Fstreamcenter.xyz&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Philadelphia 76ers at Houston Rockets (STRMCNTR)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/3ac300437874b801.png" group-title="Baloncesto" tvg-chno="11",[Basketball] Philadelphia 76ers at Houston Rockets (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmainstreams.pro%2Fhls%2Fzeafwqvhfe69.m3u8&h_referer=https%3A%2F%2Fstreamcenter.xyz&h_origin=https%3A%2F%2Fstreamcenter.xyz&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[Bulgaria efbet League] Lokomotiv Sofia vs Beroe (FAWA)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/0fe36a8c07713450.png" group-title="Futbol" tvg-chno="12",[Bulgaria efbet League] Lokomotiv Sofia vs Beroe (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2F195.178.110.2%2Fhls%2FNNNNQQQQ.m3u8&h_referer=http%3A%2F%2Fwww.fawanews.sc%2F&h_origin=http%3A%2F%2Fwww.fawanews.sc%2F&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[Cricket IPL League] Kolkata Knight Riders vs Lucknow Super Giants (FAWA)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/9abe6d8a322716ef.png" group-title="Cricket" tvg-chno="13",[Cricket IPL League] Kolkata Knight Riders vs Lucknow Super Giants (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2F195.178.110.2%2Fhls%2FFFFFB.m3u8&h_referer=http%3A%2F%2Fwww.fawanews.sc%2F&h_origin=http%3A%2F%2Fwww.fawanews.sc%2F&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[Cricket Pakistan League] Islamabad United vs Lahore Qalandars (FAWA)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/bc56d576bf40bb58.png" group-title="Cricket" tvg-chno="14",[Cricket Pakistan League] Islamabad United vs Lahore Qalandars (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2F195.178.110.2%2Fhls%2FNNNN.m3u8&h_referer=http%3A%2F%2Fwww.fawanews.sc%2F&h_origin=http%3A%2F%2Fwww.fawanews.sc%2F&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[Cricket Pakistan League] Karachi Kings vs Peshawar Zalmi (FAWA)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/fce69f9808099f93.png" group-title="Cricket" tvg-chno="15",[Cricket Pakistan League] Karachi Kings vs Peshawar Zalmi (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2F195.178.110.2%2Fhls%2FNNNN.m3u8&h_referer=http%3A%2F%2Fwww.fawanews.sc%2F&h_origin=http%3A%2F%2Fwww.fawanews.sc%2F&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[Fighting] WWE Smackdown (ROXIE)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/27882650ab7c61f6.png" group-title="Combate" tvg-chno="16",[Fighting] WWE Smackdown (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2F602.shadow-ran.online%2Fwwe.m3u8&h_referer=https%3A%2F%2Froxiestreams.su&h_origin=https%3A%2F%2Froxiestreams.su&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[First Professional League] Lokomotiv Sofia vs Beroe (WATCHFTY)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/506d7051a35d1bad.png" group-title="Futbol" tvg-chno="17",[First Professional League] Lokomotiv Sofia vs Beroe (WATCHFTY)
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4539453/lokomotiv-sofia-beroe/regular/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-origin=https://sportsembed.su/embed/4539453/lokomotiv-sofia-beroe/regular/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Flb2.wfty.wtf%2Fplaylist%2Fregular%2Flokomotiv-sofia-beroe%2F1%2F4539453%2Fplaylist.m3u8%3Fhash%3De1ef5e9eb4a17319e3a5a4eb12981107%26t%3D1775739651537&h_referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4539453%2Flokomotiv-sofia-beroe%2Fregular%2F1%3Fplayer%3Dclappr%26autoplay%3Dtrue&h_origin=https%3A%2F%2Fsportsembed.su%2Fembed%2F4539453%2Flokomotiv-sofia-beroe%2Fregular%2F1%3Fplayer%3Dclappr%26autoplay%3Dtrue&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[Football - Bulgaria. First League] Lokomotiv Sofia - Beroe (LIVETVSX)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/4c1a903545f59f9c.png" group-title="Futbol" tvg-chno="18",[Football - Bulgaria. First League] Lokomotiv Sofia - Beroe (LIVETVSX)
+#EXTVLCOPT:http-referrer=https://livetv.sx/enx/
+#EXTVLCOPT:http-origin=https://livetv.sx/enx/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fa111.azplay31.me%2Fhls%2Fstreama253656%2Findex.m3u8%3Fcst%3Df8462afb14c8f2ecbc4e7bb90274524d&h_referer=https%3A%2F%2Flivetv.sx%2Fenx%2F&h_origin=https%3A%2F%2Flivetv.sx%2Fenx%2F&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[Football] AEK Athens at Rayo Vallecano (STRMCNTR)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/615590866718920f.png" group-title="Futbol" tvg-chno="19",[Football] AEK Athens at Rayo Vallecano (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmainstreams.pro%2Fhls%2Fsqdahach1ax.m3u8&h_referer=https%3A%2F%2Fstreamcenter.xyz&h_origin=https%3A%2F%2Fstreamcenter.xyz&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[Football] AZ Alkmaar at Shakhtar Donetsk (STRMCNTR)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/5a907f3caf411b93.png" group-title="Futbol" tvg-chno="20",[Football] AZ Alkmaar at Shakhtar Donetsk (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmainstreams.pro%2Fhls%2Fdza5z8f69.m3u8&h_referer=https%3A%2F%2Fstreamcenter.xyz&h_origin=https%3A%2F%2Fstreamcenter.xyz&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[Football] Aston Villa at Bologna (STRMCNTR)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/304dc2c5235a24df.png" group-title="Futbol" tvg-chno="21",[Football] Aston Villa at Bologna (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmainstreams.pro%2Fhls%2FeJmauBDCIf.m3u8&h_referer=https%3A%2F%2Fstreamcenter.xyz&h_origin=https%3A%2F%2Fstreamcenter.xyz&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[Football] Celta Vigo at SC Freiburg (STRMCNTR)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/e885110ccae7ada1.png" group-title="Futbol" tvg-chno="22",[Football] Celta Vigo at SC Freiburg (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmainstreams.pro%2Fhls%2Fsqdahach1ax.m3u8&h_referer=https%3A%2F%2Fstreamcenter.xyz&h_origin=https%3A%2F%2Fstreamcenter.xyz&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[Football] Fiorentina at Crystal Palace (STRMCNTR)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/bb288ae75a3d46b7.png" group-title="Futbol" tvg-chno="23",[Football] Fiorentina at Crystal Palace (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmainstreams.pro%2Fhls%2Fb0h5fNwDKH.m3u8&h_referer=https%3A%2F%2Fstreamcenter.xyz&h_origin=https%3A%2F%2Fstreamcenter.xyz&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[Football] Nottingham Forest at FC Porto (STRMCNTR)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/8f598ba810e37bb8.png" group-title="Futbol" tvg-chno="24",[Football] Nottingham Forest at FC Porto (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmainstreams.pro%2Fhls%2F24SDAZFcsqnj24.m3u8&h_referer=https%3A%2F%2Fstreamcenter.xyz&h_origin=https%3A%2F%2Fstreamcenter.xyz&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[Football] Strasbourg at Mainz (STRMCNTR)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/146c20d3fd98c81f.png" group-title="Futbol" tvg-chno="25",[Football] Strasbourg at Mainz (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmainstreams.pro%2Fhls%2Fueyeztrazb4.m3u8&h_referer=https%3A%2F%2Fstreamcenter.xyz&h_origin=https%3A%2F%2Fstreamcenter.xyz&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[Fútbol] Copa Libertadores: Platense vs Corinthians (STP)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/07409cd062d043f4.png" group-title="Futbol" tvg-chno="26",[Fútbol] Copa Libertadores: Platense vs Corinthians (STP)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/global1.php?stream=espn
+#EXTVLCOPT:http-origin=https://streamtpnew.com/global1.php?stream=espn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2F24a1.streameasthd.net%3A443%2Fglobal%2Fespn%2Findex.m3u8%3Ftoken%3Dacf770545a646bcc6312648e3e3d6cfb91557742-6f-1775784632-1775730632%26&h_referer=https%3A%2F%2Fstreamtpnew.com%2Fglobal1.php%3Fstream%3Despn&h_origin=https%3A%2F%2Fstreamtpnew.com%2Fglobal1.php%3Fstream%3Despn&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[Fútbol] Copa Libertadores: Rosario Central vs Independiente del Valle (STP)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/b3fc6387e040be10.png" group-title="Futbol" tvg-chno="27",[Fútbol] Copa Libertadores: Rosario Central vs Independiente del Valle (STP)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/global1.php?stream=espn5
+#EXTVLCOPT:http-origin=https://streamtpnew.com/global1.php?stream=espn5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2F51a1.streameasthd.net%3A443%2Fglobal%2Fespn5%2Findex.m3u8%3Ftoken%3D797bd02f939d1e773ae314df44b1589ae5b9399b-72-1775784631-1775730631%26&h_referer=https%3A%2F%2Fstreamtpnew.com%2Fglobal1.php%3Fstream%3Despn5&h_origin=https%3A%2F%2Fstreamtpnew.com%2Fglobal1.php%3Fstream%3Despn5&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[Fútbol] Copa Libertadores: Santa Fe vs Peñarol (STP)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/beb00dc04129b97f.png" group-title="Futbol" tvg-chno="28",[Fútbol] Copa Libertadores: Santa Fe vs Peñarol (STP)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/global1.php?stream=espn
+#EXTVLCOPT:http-origin=https://streamtpnew.com/global1.php?stream=espn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fdoc1.streameasthd.net%3A443%2Fglobal%2Fespn%2Findex.m3u8%3Ftoken%3Dcee9bc8e775a173299cf9047ba85c82602680b21-f8-1775784633-1775730633%26&h_referer=https%3A%2F%2Fstreamtpnew.com%2Fglobal1.php%3Fstream%3Despn&h_origin=https%3A%2F%2Fstreamtpnew.com%2Fglobal1.php%3Fstream%3Despn&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[Fútbol] Copa Libertadores: UCV vs Libertad (STP)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/83b36251e7d6c596.png" group-title="Futbol" tvg-chno="29",[Fútbol] Copa Libertadores: UCV vs Libertad (STP)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/global1.php?stream=espn
+#EXTVLCOPT:http-origin=https://streamtpnew.com/global1.php?stream=espn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2F98ca2.streameasthd.net%3A443%2Fglobal%2Fespn%2Findex.m3u8%3Ftoken%3D8a5f9e81c6beea01b4390828178632dd9f7c39a1-2c-1775784630-1775730630%26&h_referer=https%3A%2F%2Fstreamtpnew.com%2Fglobal1.php%3Fstream%3Despn&h_origin=https%3A%2F%2Fstreamtpnew.com%2Fglobal1.php%3Fstream%3Despn&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[Fútbol] UEFA Conference League: Crystal Palace vs Fiorentina (STP)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/a245ee05e91119d4.png" group-title="Futbol" tvg-chno="30",[Fútbol] UEFA Conference League: Crystal Palace vs Fiorentina (STP)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/global1.php?stream=disney6
+#EXTVLCOPT:http-origin=https://streamtpnew.com/global1.php?stream=disney6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fpecdl1.streameasthd.net%3A443%2Fglobal%2Fdisney6%2Findex.m3u8%3Ftoken%3Deb167860cbf3e61c3dd5b4d6bc1d08a61a42d2c3-73-1775784630-1775730630%26&h_referer=https%3A%2F%2Fstreamtpnew.com%2Fglobal1.php%3Fstream%3Ddisney6&h_origin=https%3A%2F%2Fstreamtpnew.com%2Fglobal1.php%3Fstream%3Ddisney6&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[Fútbol] UEFA Conference League: Mainz 05 vs Strasbourg (STP)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/32d9ac96804de414.png" group-title="Futbol" tvg-chno="31",[Fútbol] UEFA Conference League: Mainz 05 vs Strasbourg (STP)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/global1.php?stream=disney7
+#EXTVLCOPT:http-origin=https://streamtpnew.com/global1.php?stream=disney7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fpecdl1.streameasthd.net%3A443%2Fglobal%2Fdisney7%2Findex.m3u8%3Ftoken%3Dff491bb7516df979d3456f3ad34055e3b1023cc9-a2-1775784630-1775730630%26&h_referer=https%3A%2F%2Fstreamtpnew.com%2Fglobal1.php%3Fstream%3Ddisney7&h_origin=https%3A%2F%2Fstreamtpnew.com%2Fglobal1.php%3Fstream%3Ddisney7&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[Fútbol] UEFA Conference League: Rayo Vallecano vs AEK Athens (STP)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/99b7f4295b412d03.png" group-title="Futbol" tvg-chno="32",[Fútbol] UEFA Conference League: Rayo Vallecano vs AEK Athens (STP)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/global1.php?stream=paramount1
+#EXTVLCOPT:http-origin=https://streamtpnew.com/global1.php?stream=paramount1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2F8c51.streameasthd.net%3A443%2Fglobal%2Fparamount1%2Findex.m3u8%3Ftoken%3Dd7ab2821cccd7403a76ee26b44e4a7551d5aacac-6f-1775784628-1775730628%26&h_referer=https%3A%2F%2Fstreamtpnew.com%2Fglobal1.php%3Fstream%3Dparamount1&h_origin=https%3A%2F%2Fstreamtpnew.com%2Fglobal1.php%3Fstream%3Dparamount1&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[Fútbol] UEFA Conference League: Shakhtar Donetsk vs AZ (STP)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/1757e0998b23a93f.png" group-title="Futbol" tvg-chno="33",[Fútbol] UEFA Conference League: Shakhtar Donetsk vs AZ (STP)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/global1.php?stream=disney5
+#EXTVLCOPT:http-origin=https://streamtpnew.com/global1.php?stream=disney5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2F98ca2.streameasthd.net%3A443%2Fglobal%2Fdisney5%2Findex.m3u8%3Ftoken%3D3d6e1b24ad3237217d25ae881fcf2e3530e0ad13-83-1775784630-1775730630%26&h_referer=https%3A%2F%2Fstreamtpnew.com%2Fglobal1.php%3Fstream%3Ddisney5&h_origin=https%3A%2F%2Fstreamtpnew.com%2Fglobal1.php%3Fstream%3Ddisney5&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[Fútbol] UEFA Europa League: Bologna vs Aston Villa (STP)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/6f3856c1ca159612.png" group-title="Futbol" tvg-chno="34",[Fútbol] UEFA Europa League: Bologna vs Aston Villa (STP)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/global1.php?stream=paramount2
+#EXTVLCOPT:http-origin=https://streamtpnew.com/global1.php?stream=paramount2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fdoc1.streameasthd.net%3A443%2Fglobal%2Fparamount2%2Findex.m3u8%3Ftoken%3D8e2530e16036871753c98f83861c065f1a341fa5-14-1775784629-1775730629%26&h_referer=https%3A%2F%2Fstreamtpnew.com%2Fglobal1.php%3Fstream%3Dparamount2&h_origin=https%3A%2F%2Fstreamtpnew.com%2Fglobal1.php%3Fstream%3Dparamount2&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[Fútbol] UEFA Europa League: Freiburg vs Celta de Vigo (STP)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/17f41618ffbe9273.png" group-title="Futbol" tvg-chno="35",[Fútbol] UEFA Europa League: Freiburg vs Celta de Vigo (STP)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/global1.php?stream=paramount4
+#EXTVLCOPT:http-origin=https://streamtpnew.com/global1.php?stream=paramount4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2F14c51.streameasthd.net%3A443%2Fglobal%2Fparamount4%2Findex.m3u8%3Ftoken%3D22dd6f4f31c27d8434468835b0f4917b8626eaa2-1d-1775784630-1775730630%26&h_referer=https%3A%2F%2Fstreamtpnew.com%2Fglobal1.php%3Fstream%3Dparamount4&h_origin=https%3A%2F%2Fstreamtpnew.com%2Fglobal1.php%3Fstream%3Dparamount4&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[Fútbol] UEFA Europa League: Porto vs Nottingham Forest (STP)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/b15dfa703d557932.png" group-title="Futbol" tvg-chno="36",[Fútbol] UEFA Europa League: Porto vs Nottingham Forest (STP)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/global1.php?stream=paramount3
+#EXTVLCOPT:http-origin=https://streamtpnew.com/global1.php?stream=paramount3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2F8c51.streameasthd.net%3A443%2Fglobal%2Fparamount3%2Findex.m3u8%3Ftoken%3Ddbc0545dc64cd91013bc0086c1a57f76c6c08679-b3-1775784629-1775730629%26&h_referer=https%3A%2F%2Fstreamtpnew.com%2Fglobal1.php%3Fstream%3Dparamount3&h_origin=https%3A%2F%2Fstreamtpnew.com%2Fglobal1.php%3Fstream%3Dparamount3&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[Fútbol_cup] Copa Argentina: Gimnasia La Plata vs Deportivo Camioneros (STP)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/0e327bbf4551cb2f.png" group-title="Futbol" tvg-chno="37",[Fútbol_cup] Copa Argentina: Gimnasia La Plata vs Deportivo Camioneros (STP)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/global1.php?stream=tycsports
+#EXTVLCOPT:http-origin=https://streamtpnew.com/global1.php?stream=tycsports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2F14c51.streameasthd.net%3A443%2Fglobal%2Ftycsports%2Findex.m3u8%3Ftoken%3Db1c673cc86e26f5f53fedde26995e0133ac349e4-ff-1775784632-1775730632%26&h_referer=https%3A%2F%2Fstreamtpnew.com%2Fglobal1.php%3Fstream%3Dtycsports&h_origin=https%3A%2F%2Fstreamtpnew.com%2Fglobal1.php%3Fstream%3Dtycsports&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-name="[Golf] Golf The Masters (FAWA)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/945a6c583fc61a9e.png" group-title="Golf" tvg-chno="38",[Golf] Golf The Masters (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2F195.178.110.2%2Fhls%2FCCCC.m3u8&h_referer=http%3A%2F%2Fwww.fawanews.sc%2F&h_origin=http%3A%2F%2Fwww.fawanews.sc%2F&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-name="[Golf] Golf The Masters 4 5 6 (FAWA)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/551fae04f7a20e3b.png" group-title="Golf" tvg-chno="39",[Golf] Golf The Masters 4 5 6 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2F195.178.110.2%2Fhls%2FVAVAVA.m3u8&h_referer=http%3A%2F%2Fwww.fawanews.sc%2F&h_origin=http%3A%2F%2Fwww.fawanews.sc%2F&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-name="[Golf] Golf The Mastersured Groups (FAWA)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/2ce68781d90112cc.png" group-title="Golf" tvg-chno="40",[Golf] Golf The Mastersured Groups (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2F195.178.110.2%2Fhls%2FVAVAVAZ.m3u8&h_referer=http%3A%2F%2Fwww.fawanews.sc%2F&h_origin=http%3A%2F%2Fwww.fawanews.sc%2F&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Calgary Flames at Colorado Avalanche (STRMCNTR)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/b09f0555df457f14.png" group-title="Hockey" tvg-chno="41",[Hockey] Calgary Flames at Colorado Avalanche (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmainstreams.pro%2Fhls%2Fbvnzadfvyt59.m3u8&h_referer=https%3A%2F%2Fstreamcenter.xyz&h_origin=https%3A%2F%2Fstreamcenter.xyz&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Carolina Hurricanes at Chicago Blackhawks (STRMCNTR)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/3580c8b27db2c94a.png" group-title="Hockey" tvg-chno="42",[Hockey] Carolina Hurricanes at Chicago Blackhawks (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmainstreams.pro%2Fhls%2Frzavbdyua57.m3u8&h_referer=https%3A%2F%2Fstreamcenter.xyz&h_origin=https%3A%2F%2Fstreamcenter.xyz&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Columbus Blue Jackets at Buffalo Sabres (STRMCNTR)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/e40955acf55c91ef.png" group-title="Hockey" tvg-chno="43",[Hockey] Columbus Blue Jackets at Buffalo Sabres (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmainstreams.pro%2Fhls%2Fhjksgdfauzy51.m3u8&h_referer=https%3A%2F%2Fstreamcenter.xyz&h_origin=https%3A%2F%2Fstreamcenter.xyz&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Florida Panthers at Ottawa Senators (STRMCNTR)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/8bd158feca9d8e2b.png" group-title="Hockey" tvg-chno="44",[Hockey] Florida Panthers at Ottawa Senators (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmainstreams.pro%2Fhls%2Frtzaeyvhb53.m3u8&h_referer=https%3A%2F%2Fstreamcenter.xyz&h_origin=https%3A%2F%2Fstreamcenter.xyz&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Minnesota Wild at Dallas Stars (STRMCNTR)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/1497ad6c63a109a5.png" group-title="Hockey" tvg-chno="45",[Hockey] Minnesota Wild at Dallas Stars (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmainstreams.pro%2Fhls%2Fearzfddshg58.m3u8&h_referer=https%3A%2F%2Fstreamcenter.xyz&h_origin=https%3A%2F%2Fstreamcenter.xyz&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Nashville Predators at Utah Mammoth (STRMCNTR)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/0729684bfa14fe54.png" group-title="Hockey" tvg-chno="46",[Hockey] Nashville Predators at Utah Mammoth (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmainstreams.pro%2Fhls%2Fcwxvbnfghq60.m3u8&h_referer=https%3A%2F%2Fstreamcenter.xyz&h_origin=https%3A%2F%2Fstreamcenter.xyz&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Philadelphia Flyers at Detroit Red Wings (STRMCNTR)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/83c9d797392506e0.png" group-title="Hockey" tvg-chno="47",[Hockey] Philadelphia Flyers at Detroit Red Wings (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmainstreams.pro%2Fhls%2Fbnvcxwhfg54.m3u8&h_referer=https%3A%2F%2Fstreamcenter.xyz&h_origin=https%3A%2F%2Fstreamcenter.xyz&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Pittsburgh Penguins at New Jersey Devils (STRMCNTR)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/ca1da1567c8c24ed.png" group-title="Hockey" tvg-chno="48",[Hockey] Pittsburgh Penguins at New Jersey Devils (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmainstreams.pro%2Fhls%2Fsdezqfza55.m3u8&h_referer=https%3A%2F%2Fstreamcenter.xyz&h_origin=https%3A%2F%2Fstreamcenter.xyz&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] San Jose Sharks at Anaheim Ducks (STRMCNTR)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/b0d46b8f2cb0fd0a.png" group-title="Hockey" tvg-chno="49",[Hockey] San Jose Sharks at Anaheim Ducks (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmainstreams.pro%2Fhls%2Fgfhfgsqda61.m3u8&h_referer=https%3A%2F%2Fstreamcenter.xyz&h_origin=https%3A%2F%2Fstreamcenter.xyz&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Tampa Bay Lightning at Montreal Canadiens (STRMCNTR)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/168d9b38c0503a4f.png" group-title="Hockey" tvg-chno="50",[Hockey] Tampa Bay Lightning at Montreal Canadiens (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmainstreams.pro%2Fhls%2Flmdsjkfgv52.m3u8&h_referer=https%3A%2F%2Fstreamcenter.xyz&h_origin=https%3A%2F%2Fstreamcenter.xyz&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Toronto Maple Leafs at New York Islanders (STRMCNTR)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/bc4180a5418e616b.png" group-title="Hockey" tvg-chno="51",[Hockey] Toronto Maple Leafs at New York Islanders (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmainstreams.pro%2Fhls%2Fuyopzarf50.m3u8&h_referer=https%3A%2F%2Fstreamcenter.xyz&h_origin=https%3A%2F%2Fstreamcenter.xyz&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Vancouver Canucks at Los Angeles Kings (STRMCNTR)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/9bf1de254285f3fb.png" group-title="Hockey" tvg-chno="52",[Hockey] Vancouver Canucks at Los Angeles Kings (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmainstreams.pro%2Fhls%2Fwxcgfaiiog63.m3u8&h_referer=https%3A%2F%2Fstreamcenter.xyz&h_origin=https%3A%2F%2Fstreamcenter.xyz&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Vegas Golden Knights at Seattle Kraken (STRMCNTR)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/2fda5868c5dbb644.png" group-title="Hockey" tvg-chno="53",[Hockey] Vegas Golden Knights at Seattle Kraken (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmainstreams.pro%2Fhls%2Fwxdaztfhd62.m3u8&h_referer=https%3A%2F%2Fstreamcenter.xyz&h_origin=https%3A%2F%2Fstreamcenter.xyz&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Winnipeg Jets at St. Louis Blues (STRMCNTR)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/3c015a3a5d409dcf.png" group-title="Hockey" tvg-chno="54",[Hockey] Winnipeg Jets at St. Louis Blues (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fmainstreams.pro%2Fhls%2Fpoiryezafv56.m3u8&h_referer=https%3A%2F%2Fstreamcenter.xyz&h_origin=https%3A%2F%2Fstreamcenter.xyz&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 1 (FAWA)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/33af6009f26e4393.png" group-title="Carreras de Caballos" tvg-chno="55",[Horse Racing] Horse Racing 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2F195.178.110.2%2Fhls%2FEEEEQQQQ.m3u8&h_referer=http%3A%2F%2Fwww.fawanews.sc%2F&h_origin=http%3A%2F%2Fwww.fawanews.sc%2F&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 2 (FAWA)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/0cccf96af58c9845.png" group-title="Carreras de Caballos" tvg-chno="56",[Horse Racing] Horse Racing 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2F195.178.110.2%2Fhls%2FEEEEQQQ.m3u8&h_referer=http%3A%2F%2Fwww.fawanews.sc%2F&h_origin=http%3A%2F%2Fwww.fawanews.sc%2F&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[India ISL] Jamshedpur vs Mumbai City (FAWA)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/9202940436dad8b6.png" group-title="Futbol" tvg-chno="57",[India ISL] Jamshedpur vs Mumbai City (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2F195.178.110.2%2Fhls%2FFFFFBQ.m3u8&h_referer=http%3A%2F%2Fwww.fawanews.sc%2F&h_origin=http%3A%2F%2Fwww.fawanews.sc%2F&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[Live Event] Bologna vs Aston Villa (PAWA)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/694a428bc48e1369.png" group-title="Futbol" tvg-chno="58",[Live Event] Bologna vs Aston Villa (PAWA)
+#EXTVLCOPT:http-referrer=https://sports67.top/bologna-vs-aston-villa/102302/
+#EXTVLCOPT:http-origin=https://sports67.top/bologna-vs-aston-villa/102302/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Ftoocdn.top%2Fp1%2Findex.m3u8%3Ftoken%3D7064fe3f2b14d2203eaa9d6574d9ee128f6f6779-4044025f1dc3d7f31c0164bec0c1b430-1775750130-1775739330&h_referer=https%3A%2F%2Fsports67.top%2Fbologna-vs-aston-villa%2F102302%2F&h_origin=https%3A%2F%2Fsports67.top%2Fbologna-vs-aston-villa%2F102302%2F&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[Live Event] Copa Sudamericana: Botafogo vs Caracas (STP)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/e05f5bdab7759982.png" group-title="Futbol" tvg-chno="59",[Live Event] Copa Sudamericana: Botafogo vs Caracas (STP)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/global1.php?stream=dsportsplus
+#EXTVLCOPT:http-origin=https://streamtpnew.com/global1.php?stream=dsportsplus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fdoc1.streameasthd.net%3A443%2Fglobal%2Fdsportsplus%2Findex.m3u8%3Ftoken%3D5aaee322df693342ff6cf82e23fc7c0318ff8594-c9-1775784631-1775730631%26&h_referer=https%3A%2F%2Fstreamtpnew.com%2Fglobal1.php%3Fstream%3Ddsportsplus&h_origin=https%3A%2F%2Fstreamtpnew.com%2Fglobal1.php%3Fstream%3Ddsportsplus&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[Live Event] Copa Sudamericana: Carabobo vs RB Bragantino (STP)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/634c4b5c52fe1fab.png" group-title="Futbol" tvg-chno="60",[Live Event] Copa Sudamericana: Carabobo vs RB Bragantino (STP)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/global1.php?stream=espn2
+#EXTVLCOPT:http-origin=https://streamtpnew.com/global1.php?stream=espn2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2F98ca2.streameasthd.net%3A443%2Fglobal%2Fespn2%2Findex.m3u8%3Ftoken%3D0c7af311662839ed99c30acf5fbe3dd202087367-12-1775784633-1775730633%26&h_referer=https%3A%2F%2Fstreamtpnew.com%2Fglobal1.php%3Fstream%3Despn2&h_origin=https%3A%2F%2Fstreamtpnew.com%2Fglobal1.php%3Fstream%3Despn2&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[Live Event] Copa Sudamericana: Juventud vs Cienciano (STP)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/22cef3674ceb945c.png" group-title="Futbol" tvg-chno="61",[Live Event] Copa Sudamericana: Juventud vs Cienciano (STP)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/global1.php?stream=fanatiz4
+#EXTVLCOPT:http-origin=https://streamtpnew.com/global1.php?stream=fanatiz4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2F24a1.streameasthd.net%3A443%2Fglobal%2Ffanatiz4%2Findex.m3u8%3Ftoken%3D6609b08f5e8220706f581708cbddf47b79e44e71-30-1775784631-1775730631%26&h_referer=https%3A%2F%2Fstreamtpnew.com%2Fglobal1.php%3Fstream%3Dfanatiz4&h_origin=https%3A%2F%2Fstreamtpnew.com%2Fglobal1.php%3Fstream%3Dfanatiz4&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[Live Event] Copa Sudamericana: Macará vs América de Cali (STP)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/a14f4e65ad36f29e.png" group-title="Futbol" tvg-chno="62",[Live Event] Copa Sudamericana: Macará vs América de Cali (STP)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/global1.php?stream=fanatiz6
+#EXTVLCOPT:http-origin=https://streamtpnew.com/global1.php?stream=fanatiz6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fdoc1.streameasthd.net%3A443%2Fglobal%2Ffanatiz6%2Findex.m3u8%3Ftoken%3D7445a9454a2126de18ae89a2f1332859fcedc1d0-8d-1775784632-1775730632%26&h_referer=https%3A%2F%2Fstreamtpnew.com%2Fglobal1.php%3Fstream%3Dfanatiz6&h_origin=https%3A%2F%2Fstreamtpnew.com%2Fglobal1.php%3Fstream%3Dfanatiz6&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[Live Event] Crystal Palace vs Fiorentina (PAWA)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/b4b44b9b3457cade.png" group-title="Futbol" tvg-chno="63",[Live Event] Crystal Palace vs Fiorentina (PAWA)
+#EXTVLCOPT:http-referrer=https://sports67.top/crystal-palace-vs-fiorentina/102298/
+#EXTVLCOPT:http-origin=https://sports67.top/crystal-palace-vs-fiorentina/102298/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Ftoocdn.top%2Fs1%2Findex.m3u8%3Ftoken%3Db9e7d865e55c519c500be640980938fe260f4ea7-f9917b08e4f2191307bfacc6bbfe826b-1775750135-1775739335&h_referer=https%3A%2F%2Fsports67.top%2Fcrystal-palace-vs-fiorentina%2F102298%2F&h_origin=https%3A%2F%2Fsports67.top%2Fcrystal-palace-vs-fiorentina%2F102298%2F&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[Live Event] F1 Japanese GP (PAWA)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/bb59068c1a34a7f8.png" group-title="Futbol" tvg-chno="64",[Live Event] F1 Japanese GP (PAWA)
+#EXTVLCOPT:http-referrer=https://sports67.top/f1-japanese-gp/101817/
+#EXTVLCOPT:http-origin=https://sports67.top/f1-japanese-gp/101817/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Flb.buzztip.site%2F1%2Findex.m3u8%3Ftoken%3D839700cbfad99abe9fa7fdf82129a627dcd16c26-17ccf861de2d5679f5432ce879d51b7e-1775746543-1775735743&h_referer=https%3A%2F%2Fsports67.top%2Ff1-japanese-gp%2F101817%2F&h_origin=https%3A%2F%2Fsports67.top%2Ff1-japanese-gp%2F101817%2F&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[Live Event] F1 Japanese GP Race (PAWA)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/36da6739e6f2df14.png" group-title="Futbol" tvg-chno="65",[Live Event] F1 Japanese GP Race (PAWA)
+#EXTVLCOPT:http-referrer=https://sports67.top/f1-japanese-gp-race/101816/
+#EXTVLCOPT:http-origin=https://sports67.top/f1-japanese-gp-race/101816/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Flb.buzztip.site%2F1%2Findex.m3u8%3Ftoken%3D6a716b0c7e75e0a1e3090d57370bbf9ceb99c3d1-0ddaeb0a259b8f56b0a0b3adac7bfb90-1775746544-1775735744&h_referer=https%3A%2F%2Fsports67.top%2Ff1-japanese-gp-race%2F101816%2F&h_origin=https%3A%2F%2Fsports67.top%2Ff1-japanese-gp-race%2F101816%2F&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[Live Event] Freiburg vs Celta de Vigo (PAWA)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/47f6e2743989daf3.png" group-title="Futbol" tvg-chno="66",[Live Event] Freiburg vs Celta de Vigo (PAWA)
+#EXTVLCOPT:http-referrer=https://sports67.top/freiburg-vs-celta-de-vigo/102300/
+#EXTVLCOPT:http-origin=https://sports67.top/freiburg-vs-celta-de-vigo/102300/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Ftoocdn.top%2Fp3%2Findex.m3u8%3Ftoken%3D5cd022fac7f1f3250ac778851b688df85804ba08-e8173f950c2d9776e8c975f2658cb23e-1775750132-1775739332&h_referer=https%3A%2F%2Fsports67.top%2Ffreiburg-vs-celta-de-vigo%2F102300%2F&h_origin=https%3A%2F%2Fsports67.top%2Ffreiburg-vs-celta-de-vigo%2F102300%2F&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[Live Event] Liga Profesional Saudí: Damac vs Al Quadisiya (STP)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/1eadb12702f581f8.png" group-title="Futbol" tvg-chno="67",[Live Event] Liga Profesional Saudí: Damac vs Al Quadisiya (STP)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/global1.php?stream=fox_deportes_usa
+#EXTVLCOPT:http-origin=https://streamtpnew.com/global1.php?stream=fox_deportes_usa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2F24a1.streameasthd.net%3A443%2Fglobal%2Ffox_deportes_usa%2Findex.m3u8%3Ftoken%3D9485517aab7255cdc3b187f16b1b990193f91b48-58-1775784628-1775730628%26&h_referer=https%3A%2F%2Fstreamtpnew.com%2Fglobal1.php%3Fstream%3Dfox_deportes_usa&h_origin=https%3A%2F%2Fstreamtpnew.com%2Fglobal1.php%3Fstream%3Dfox_deportes_usa&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[Live Event] Mainz 05 vs Strasbourg (PAWA)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/11f0921cb77cf937.png" group-title="Futbol" tvg-chno="68",[Live Event] Mainz 05 vs Strasbourg (PAWA)
+#EXTVLCOPT:http-referrer=https://sports67.top/mainz-05-vs-strasbourg/102297/
+#EXTVLCOPT:http-origin=https://sports67.top/mainz-05-vs-strasbourg/102297/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Ftoocdn.top%2Fsf%2Findex.m3u8%3Ftoken%3D6087b355db9e77bc70cf51452d07e26f0f2d46f7-bb120174f3c8e78f32c1d288c6d9acf8-1775750136-1775739336&h_referer=https%3A%2F%2Fsports67.top%2Fmainz-05-vs-strasbourg%2F102297%2F&h_origin=https%3A%2F%2Fsports67.top%2Fmainz-05-vs-strasbourg%2F102297%2F&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[Live Event] Porto vs Nottingham Forest (PAWA)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/677f6bcae9abea81.png" group-title="Futbol" tvg-chno="69",[Live Event] Porto vs Nottingham Forest (PAWA)
+#EXTVLCOPT:http-referrer=https://sports67.top/porto-vs-nottingham-forest/102301/
+#EXTVLCOPT:http-origin=https://sports67.top/porto-vs-nottingham-forest/102301/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Ftoocdn.top%2Fp2%2Findex.m3u8%3Ftoken%3D5fc44dc3b3d3067aca6bd1fe6b48c01b79107c81-edf7b7ce287097d9e8e6aab415126cc1-1775750131-1775739331&h_referer=https%3A%2F%2Fsports67.top%2Fporto-vs-nottingham-forest%2F102301%2F&h_origin=https%3A%2F%2Fsports67.top%2Fporto-vs-nottingham-forest%2F102301%2F&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[Live Event] Rayo Vallecano vs AEK Athens (PAWA)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/b007cbee45bef9ae.png" group-title="Futbol" tvg-chno="70",[Live Event] Rayo Vallecano vs AEK Athens (PAWA)
+#EXTVLCOPT:http-referrer=https://sports67.top/rayo-vallecano-vs-aek-athens/102299/
+#EXTVLCOPT:http-origin=https://sports67.top/rayo-vallecano-vs-aek-athens/102299/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Ftoocdn.top%2Fp3%2Findex.m3u8%3Ftoken%3Db84d22490d3143831909da50eb00dd7e298f9ae0-17b83d75bd9785e37e188f2013271332-1775750133-1775739333&h_referer=https%3A%2F%2Fsports67.top%2Frayo-vallecano-vs-aek-athens%2F102299%2F&h_origin=https%3A%2F%2Fsports67.top%2Frayo-vallecano-vs-aek-athens%2F102299%2F&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[Live Event] Shakhtar Donetsk vs AZ (PAWA)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/0575b6a8568e6438.png" group-title="Futbol" tvg-chno="71",[Live Event] Shakhtar Donetsk vs AZ (PAWA)
+#EXTVLCOPT:http-referrer=https://sports67.top/shakhtar-donetsk-vs-az/102296/
+#EXTVLCOPT:http-origin=https://sports67.top/shakhtar-donetsk-vs-az/102296/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Ftoocdn.top%2Fc1%2Findex.m3u8%3Ftoken%3D06e4389f6333366a94753efdb31b96a18ef63b5e-b1e102f88568bef417a0b6ef382837d2-1775750137-1775739337&h_referer=https%3A%2F%2Fsports67.top%2Fshakhtar-donetsk-vs-az%2F102296%2F&h_origin=https%3A%2F%2Fsports67.top%2Fshakhtar-donetsk-vs-az%2F102296%2F&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Arizona Diamondbacks vs New York Mets (ROXIE)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/0de479def46fb9eb.png" group-title="Beisbol" tvg-chno="72",[MLB] Arizona Diamondbacks vs New York Mets (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2F602.shadow-ran.online%2Fmlb4.m3u8&h_referer=https%3A%2F%2Froxiestreams.su&h_origin=https%3A%2F%2Froxiestreams.su&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Arizona Diamondbacks vs New York Mets (TVAPP)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/9e8238f9520bf13e.png" group-title="Beisbol" tvg-chno="73",[MLB] Arizona Diamondbacks vs New York Mets (TVAPP)
+#EXTVLCOPT:http-referrer=https://thetvapp.to
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2Forigin.thetvapp.to%2Fhls%2Fmlb11%2Fmono.m3u8&h_referer=https%3A%2F%2Fthetvapp.to&h_origin=https%3A%2F%2Fthetvapp.to&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Astros vs Rockies (WEBCAST)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/0be981e2c1e0fc6d.png" group-title="Beisbol" tvg-chno="74",[MLB] Astros vs Rockies (WEBCAST)
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fwebcast-origin.b-cdn.net%2Fbcdn_token%3DdaSm8tK1NScOn2eUILjpgAn4yaa7Ky7KqRbwXl4rcug%26token_path%3D%252Fplay%252FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHCWstBNHwV90PfHdHBhH1U%252F%26expires%3D1775750444%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHCWstBNHwV90PfHdHBhH1U%2F119.m3u8&h_referer=https%3A%2F%2Fmlbwebcast.com&h_origin=https%3A%2F%2Fmlbwebcast.com&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Athletics vs New York Yankees (ROXIE)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/6cda52ab647cb407.png" group-title="Beisbol" tvg-chno="75",[MLB] Athletics vs New York Yankees (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2F602.simplyataide.boutique%2Fmlb2.m3u8&h_referer=https%3A%2F%2Froxiestreams.su&h_origin=https%3A%2F%2Froxiestreams.su&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Athletics vs New York Yankees (TVAPP)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/d2d6f7a13078a355.png" group-title="Beisbol" tvg-chno="76",[MLB] Athletics vs New York Yankees (TVAPP)
+#EXTVLCOPT:http-referrer=https://thetvapp.to
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2Forigin.thetvapp.to%2Fhls%2Fmlb14%2Fmono.m3u8&h_referer=https%3A%2F%2Fthetvapp.to&h_origin=https%3A%2F%2Fthetvapp.to&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Athletics vs Yankees (WEBCAST)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/a8f463deccea9934.png" group-title="Beisbol" tvg-chno="77",[MLB] Athletics vs Yankees (WEBCAST)
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fwebcast-origin.b-cdn.net%2Fbcdn_token%3DMzqAfYMn0EimlHlRXRi9Ek-_QnJUFEb0jTtEzhuUoy4%26token_path%3D%252Fplay%252FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFdY_2JwwLMXm_4wld0sOWG%252F%26expires%3D1775750446%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFdY_2JwwLMXm_4wld0sOWG%2F124.m3u8&h_referer=https%3A%2F%2Fmlbwebcast.com&h_origin=https%3A%2F%2Fmlbwebcast.com&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Atlanta Braves vs Los Angeles Angels (TVAPP)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/261ee4de344c0e77.png" group-title="Beisbol" tvg-chno="78",[MLB] Atlanta Braves vs Los Angeles Angels (TVAPP)
+#EXTVLCOPT:http-referrer=https://thetvapp.to
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2Forigin.thetvapp.to%2Fhls%2Fmlb10%2Fmono.m3u8&h_referer=https%3A%2F%2Fthetvapp.to&h_origin=https%3A%2F%2Fthetvapp.to&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Baltimore Orioles vs Chicago White Sox (TVAPP)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/5eab5a67a549320a.png" group-title="Beisbol" tvg-chno="79",[MLB] Baltimore Orioles vs Chicago White Sox (TVAPP)
+#EXTVLCOPT:http-referrer=https://thetvapp.to
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2Forigin.thetvapp.to%2Fhls%2Fmlb04%2Fmono.m3u8&h_referer=https%3A%2F%2Fthetvapp.to&h_origin=https%3A%2F%2Fthetvapp.to&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Braves vs Angels (WEBCAST)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/3272d6af2cbd8d2e.png" group-title="Beisbol" tvg-chno="80",[MLB] Braves vs Angels (WEBCAST)
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fwebcast-origin.b-cdn.net%2Fbcdn_token%3DnW0VM_LacfU9NtXXlDOZuITD2M33ytJ_MBMNkKzy0-I%26token_path%3D%252Fplay%252FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHxJMlG-DpB7o74IHhyl3Og%252F%26expires%3D1775750444%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHxJMlG-DpB7o74IHhyl3Og%2F106.m3u8&h_referer=https%3A%2F%2Fmlbwebcast.com&h_origin=https%3A%2F%2Fmlbwebcast.com&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-name="[MLB] Brewers vs Red Sox (WEBCAST)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/3f4d34df5acb66aa.png" group-title="Beisbol" tvg-chno="81",[MLB] Brewers vs Red Sox (WEBCAST)
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fwebcast-origin.b-cdn.net%2Fbcdn_token%3DGS9cujrQwZfefJi4Z5R7ApFuxmi095W3DlRu0zYE0fI%26token_path%3D%252Fplay%252FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFiJlbd6ytge2-CGnrhvukE%252F%26expires%3D1775750443%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFiJlbd6ytge2-CGnrhvukE%2F120.m3u8&h_referer=https%3A%2F%2Fmlbwebcast.com&h_origin=https%3A%2F%2Fmlbwebcast.com&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Cardinals vs Nationals (WEBCAST)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/9aad91d7bc7a7f4e.png" group-title="Beisbol" tvg-chno="82",[MLB] Cardinals vs Nationals (WEBCAST)
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fwebcast-origin.b-cdn.net%2Fbcdn_token%3DcxkCf_MkwhJq653pK368rA8LscEM2J3ZD6L0gH__Tag%26token_path%3D%252Fplay%252FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGadaoZ2oePMS_kIJ-SHl61%252F%26expires%3D1775750444%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGadaoZ2oePMS_kIJ-SHl61%2F112.m3u8&h_referer=https%3A%2F%2Fmlbwebcast.com&h_origin=https%3A%2F%2Fmlbwebcast.com&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Chicago Cubs vs Tampa Bay Rays (TVAPP)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/47e35d570e49fce4.png" group-title="Beisbol" tvg-chno="83",[MLB] Chicago Cubs vs Tampa Bay Rays (TVAPP)
+#EXTVLCOPT:http-referrer=https://thetvapp.to
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2Forigin.thetvapp.to%2Fhls%2Fmlb12%2Fmono.m3u8&h_referer=https%3A%2F%2Fthetvapp.to&h_origin=https%3A%2F%2Fthetvapp.to&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Chicago White Sox vs Kansas City Royals (ROXIE)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/05d0a58a06a74c06.png" group-title="Beisbol" tvg-chno="84",[MLB] Chicago White Sox vs Kansas City Royals (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2F602.premiumjh.shop%2Fmlb5.m3u8&h_referer=https%3A%2F%2Froxiestreams.su&h_origin=https%3A%2F%2Froxiestreams.su&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Cincinnati Reds vs Miami Marlins (ROXIE)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/56d4f71072530d14.png" group-title="Beisbol" tvg-chno="85",[MLB] Cincinnati Reds vs Miami Marlins (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2F602.premiumjh.shop%2Fmlb.m3u8&h_referer=https%3A%2F%2Froxiestreams.su&h_origin=https%3A%2F%2Froxiestreams.su&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Cincinnati Reds vs Miami Marlins (TVAPP)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/b7400cd9f6e91acd.png" group-title="Beisbol" tvg-chno="86",[MLB] Cincinnati Reds vs Miami Marlins (TVAPP)
+#EXTVLCOPT:http-referrer=https://thetvapp.to
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2Forigin.thetvapp.to%2Fhls%2Fmlb13%2Fmono.m3u8&h_referer=https%3A%2F%2Fthetvapp.to&h_origin=https%3A%2F%2Fthetvapp.to&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Colorado Rockies vs San Diego Padres (ROXIE)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/00648eb65c9bee58.png" group-title="Beisbol" tvg-chno="87",[MLB] Colorado Rockies vs San Diego Padres (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2F602.premiumjh.shop%2Fmlb6.m3u8&h_referer=https%3A%2F%2Froxiestreams.su&h_origin=https%3A%2F%2Froxiestreams.su&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Cubs vs Rays (WEBCAST)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/0aae11a3ce2cf081.png" group-title="Beisbol" tvg-chno="88",[MLB] Cubs vs Rays (WEBCAST)
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fwebcast-origin.b-cdn.net%2Fbcdn_token%3DFPLfrk80UA0xqKW88M-UmhGnEr8kK-s0cic8IG5XZB8%26token_path%3D%252Fplay%252FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEbtgIBRBXAqii0gVuz_9dr%252F%26expires%3D1775750445%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEbtgIBRBXAqii0gVuz_9dr%2F115.m3u8&h_referer=https%3A%2F%2Fmlbwebcast.com&h_origin=https%3A%2F%2Fmlbwebcast.com&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Detroit Tigers vs Minnesota Twins (ROXIE)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/f87385de7f93e50a.png" group-title="Beisbol" tvg-chno="89",[MLB] Detroit Tigers vs Minnesota Twins (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2F602.premiumjh.shop%2Fmlb3.m3u8&h_referer=https%3A%2F%2Froxiestreams.su&h_origin=https%3A%2F%2Froxiestreams.su&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Detroit Tigers vs Minnesota Twins (TVAPP)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/a34967896f4c3fee.png" group-title="Beisbol" tvg-chno="90",[MLB] Detroit Tigers vs Minnesota Twins (TVAPP)
+#EXTVLCOPT:http-referrer=https://thetvapp.to
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2Forigin.thetvapp.to%2Fhls%2Fmlb15%2Fmono.m3u8&h_referer=https%3A%2F%2Fthetvapp.to&h_origin=https%3A%2F%2Fthetvapp.to&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Diamondbacks vs Mets (WEBCAST)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/66d7c9c801bad850.png" group-title="Beisbol" tvg-chno="91",[MLB] Diamondbacks vs Mets (WEBCAST)
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fwebcast-origin.b-cdn.net%2Fbcdn_token%3DZdBdxDsCbTQ9knQC8X1NgIx5OHc96JZv3dp_Js1XwYo%26token_path%3D%252Fplay%252FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGWOw19Pjl0r-zEyqBv7Rjy%252F%26expires%3D1775750445%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGWOw19Pjl0r-zEyqBv7Rjy%2F109.m3u8&h_referer=https%3A%2F%2Fmlbwebcast.com&h_origin=https%3A%2F%2Fmlbwebcast.com&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Dodgers vs Jays (WEBCAST)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/ae2d26bd9f532740.png" group-title="Beisbol" tvg-chno="92",[MLB] Dodgers vs Jays (WEBCAST)
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fwebcast-origin.b-cdn.net%2Fbcdn_token%3DPRA1sjvZb_WK_fIGbf8FprGT0y2H9T57tREONlDJOAU%26token_path%3D%252Fplay%252FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGyy0UoRQ5GA75dwhLcsEg1%252F%26expires%3D1775750443%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGyy0UoRQ5GA75dwhLcsEg1%2F125.m3u8&h_referer=https%3A%2F%2Fmlbwebcast.com&h_origin=https%3A%2F%2Fmlbwebcast.com&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Houston Astros vs Colorado Rockies (TVAPP)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/e0ad9375edb4709b.png" group-title="Beisbol" tvg-chno="93",[MLB] Houston Astros vs Colorado Rockies (TVAPP)
+#EXTVLCOPT:http-referrer=https://thetvapp.to
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2Forigin.thetvapp.to%2Fhls%2Fmlb07%2Fmono.m3u8&h_referer=https%3A%2F%2Fthetvapp.to&h_origin=https%3A%2F%2Fthetvapp.to&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Kansas City Royals vs Cleveland Guardians (TVAPP)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/0efe329f9a3ea2b2.png" group-title="Beisbol" tvg-chno="94",[MLB] Kansas City Royals vs Cleveland Guardians (TVAPP)
+#EXTVLCOPT:http-referrer=https://thetvapp.to
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2Forigin.thetvapp.to%2Fhls%2Fmlb02%2Fmono.m3u8&h_referer=https%3A%2F%2Fthetvapp.to&h_origin=https%3A%2F%2Fthetvapp.to&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Los Angeles Dodgers vs Toronto Blue Jays (TVAPP)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/04d0d8cd5086607d.png" group-title="Beisbol" tvg-chno="95",[MLB] Los Angeles Dodgers vs Toronto Blue Jays (TVAPP)
+#EXTVLCOPT:http-referrer=https://thetvapp.to
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2Forigin.thetvapp.to%2Fhls%2Fmlb06%2Fmono.m3u8&h_referer=https%3A%2F%2Fthetvapp.to&h_origin=https%3A%2F%2Fthetvapp.to&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Mariners vs Rangers (WEBCAST)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/2adefdca871383be.png" group-title="Beisbol" tvg-chno="96",[MLB] Mariners vs Rangers (WEBCAST)
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fwebcast-origin.b-cdn.net%2Fbcdn_token%3DkuwdqHhXia6-E9BYWQs_wuOXY10q9WwVy1iH5y49BU8%26token_path%3D%252Fplay%252FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGR1oN0jL8cTYEJOIzY0nUn%252F%26expires%3D1775750443%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGR1oN0jL8cTYEJOIzY0nUn%2F118.m3u8&h_referer=https%3A%2F%2Fmlbwebcast.com&h_origin=https%3A%2F%2Fmlbwebcast.com&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Milwaukee Brewers vs Boston Red Sox (TVAPP)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/95eb12ead3e6b24d.png" group-title="Beisbol" tvg-chno="97",[MLB] Milwaukee Brewers vs Boston Red Sox (TVAPP)
+#EXTVLCOPT:http-referrer=https://thetvapp.to
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2Forigin.thetvapp.to%2Fhls%2Fmlb03%2Fmono.m3u8&h_referer=https%3A%2F%2Fthetvapp.to&h_origin=https%3A%2F%2Fthetvapp.to&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Orioles vs White Sox (WEBCAST)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/954eeb320f94f0fc.png" group-title="Beisbol" tvg-chno="98",[MLB] Orioles vs White Sox (WEBCAST)
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fwebcast-origin.b-cdn.net%2Fbcdn_token%3DUd-g7NuUBN2vRs0Oi8t_6z6yhNN33Gpa0lJZYtZU-t8%26token_path%3D%252Fplay%252FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGGuwvVZSFFwJHHQ2J4srsb%252F%26expires%3D1775750443%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGGuwvVZSFFwJHHQ2J4srsb%2F123.m3u8&h_referer=https%3A%2F%2Fmlbwebcast.com&h_origin=https%3A%2F%2Fmlbwebcast.com&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Padres vs Pirates (WEBCAST)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/1e993bf03ece86bc.png" group-title="Beisbol" tvg-chno="99",[MLB] Padres vs Pirates (WEBCAST)
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fwebcast-origin.b-cdn.net%2Fbcdn_token%3DEiv6HvHWcjwxA2fjOzhjeZ9xEnxbWRezAVxMmW_u5qE%26token_path%3D%252Fplay%252FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHz-WxkvvX0LpdnGa95Jb_D%252F%26expires%3D1775750442%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHz-WxkvvX0LpdnGa95Jb_D%2F113.m3u8&h_referer=https%3A%2F%2Fmlbwebcast.com&h_origin=https%3A%2F%2Fmlbwebcast.com&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Philadelphia Phillies vs San Francisco Giants (TVAPP)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/b42e51fff161df78.png" group-title="Beisbol" tvg-chno="100",[MLB] Philadelphia Phillies vs San Francisco Giants (TVAPP)
+#EXTVLCOPT:http-referrer=https://thetvapp.to
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2Forigin.thetvapp.to%2Fhls%2Fmlb08%2Fmono.m3u8&h_referer=https%3A%2F%2Fthetvapp.to&h_origin=https%3A%2F%2Fthetvapp.to&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Phillies vs Giants (WEBCAST)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/90097fc0dde954f0.png" group-title="Beisbol" tvg-chno="101",[MLB] Phillies vs Giants (WEBCAST)
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fwebcast-origin.b-cdn.net%2Fbcdn_token%3D8F6V7wsOiz4TwSiqVz5jOgpWsKJTpuzUb9URTGxG-8U%26token_path%3D%252Fplay%252FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHBC3RER0zO2Cgo16E4YHUq%252F%26expires%3D1775750444%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHBC3RER0zO2Cgo16E4YHUq%2F107.m3u8&h_referer=https%3A%2F%2Fmlbwebcast.com&h_origin=https%3A%2F%2Fmlbwebcast.com&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Reds vs Marlins (WEBCAST)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/81b5949d723d4b9c.png" group-title="Beisbol" tvg-chno="102",[MLB] Reds vs Marlins (WEBCAST)
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fwebcast-origin.b-cdn.net%2Fbcdn_token%3DN6DHf6YIGYI-ed1tAm7emzRl3Metc9GYdDySvjb9d1U%26token_path%3D%252Fplay%252FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHZsOlsmHS6VI7_9gCD4qaa%252F%26expires%3D1775750445%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHZsOlsmHS6VI7_9gCD4qaa%2F111.m3u8&h_referer=https%3A%2F%2Fmlbwebcast.com&h_origin=https%3A%2F%2Fmlbwebcast.com&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Royals vs Guardians (WEBCAST)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/8a5916fff7fa6767.png" group-title="Beisbol" tvg-chno="103",[MLB] Royals vs Guardians (WEBCAST)
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fwebcast-origin.b-cdn.net%2Fbcdn_token%3DrRGdrCAuAxOw3E0Ps08ioIucP5ZAAPB1zyL27kAzHTI%26token_path%3D%252Fplay%252FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEsXq6znQdZQ5HNs9x4iTxJ%252F%26expires%3D1775750442%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEsXq6znQdZQ5HNs9x4iTxJ%2F108.m3u8&h_referer=https%3A%2F%2Fmlbwebcast.com&h_origin=https%3A%2F%2Fmlbwebcast.com&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] San Diego Padres vs Pittsburgh Pirates (TVAPP)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/5132d0799085be81.png" group-title="Beisbol" tvg-chno="104",[MLB] San Diego Padres vs Pittsburgh Pirates (TVAPP)
+#EXTVLCOPT:http-referrer=https://thetvapp.to
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2Forigin.thetvapp.to%2Fhls%2Fmlb01%2Fmono.m3u8&h_referer=https%3A%2F%2Fthetvapp.to&h_origin=https%3A%2F%2Fthetvapp.to&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Seattle Mariners vs Texas Rangers (TVAPP)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/1f83b8020688f740.png" group-title="Beisbol" tvg-chno="105",[MLB] Seattle Mariners vs Texas Rangers (TVAPP)
+#EXTVLCOPT:http-referrer=https://thetvapp.to
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2Forigin.thetvapp.to%2Fhls%2Fmlb05%2Fmono.m3u8&h_referer=https%3A%2F%2Fthetvapp.to&h_origin=https%3A%2F%2Fthetvapp.to&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] St. Louis Cardinals vs Washington Nationals (TVAPP)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/72842a44b04d92bc.png" group-title="Beisbol" tvg-chno="106",[MLB] St. Louis Cardinals vs Washington Nationals (TVAPP)
+#EXTVLCOPT:http-referrer=https://thetvapp.to
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2Forigin.thetvapp.to%2Fhls%2Fmlb09%2Fmono.m3u8&h_referer=https%3A%2F%2Fthetvapp.to&h_origin=https%3A%2F%2Fthetvapp.to&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Tigers vs Twins (WEBCAST)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/43076315056f7ca5.png" group-title="Beisbol" tvg-chno="107",[MLB] Tigers vs Twins (WEBCAST)
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com
+#EXTVLCOPT:http-origin=https://mlbwebcast.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fwebcast-origin.b-cdn.net%2Fbcdn_token%3D5LS-xhxwvGQrx2Gj93nQGXHXjujMa6iMQLIhl25p1rc%26token_path%3D%252Fplay%252FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhE-kVPYAho_0IjgB4kSm2HD%252F%26expires%3D1775750446%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhE-kVPYAho_0IjgB4kSm2HD%2F121.m3u8&h_referer=https%3A%2F%2Fmlbwebcast.com&h_origin=https%3A%2F%2Fmlbwebcast.com&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[Monte Carlo - Round of 16] Felix Auger Aliassime vs Casper Ruud (WATCHFTY)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/0ec1fd2c69ee489a.png" group-title="Tenis" tvg-chno="108",[Monte Carlo - Round of 16] Felix Auger Aliassime vs Casper Ruud (WATCHFTY)
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4700258/felix-auger-aliassime-casper-ruud/easy/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-origin=https://sportsembed.su/embed/4700258/felix-auger-aliassime-casper-ruud/easy/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Flb7.wfty.wtf%2Fplaylist%2Feasy%2Ffelix-auger-aliassime-casper-ruud%2F1%2F4700258%2Fplaylist.m3u8%3Fhash%3D61d5efbeafbe66c70151390b65e0d564%26t%3D1775736121328&h_referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4700258%2Ffelix-auger-aliassime-casper-ruud%2Feasy%2F1%3Fplayer%3Dclappr%26autoplay%3Dtrue&h_origin=https%3A%2F%2Fsportsembed.su%2Fembed%2F4700258%2Ffelix-auger-aliassime-casper-ruud%2Feasy%2F1%3Fplayer%3Dclappr%26autoplay%3Dtrue&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[Monte Carlo - Round of 16] Tomas Machac vs Jannik Sinner (WATCHFTY)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/bfc9ccba4ce71abd.png" group-title="Tenis" tvg-chno="109",[Monte Carlo - Round of 16] Tomas Machac vs Jannik Sinner (WATCHFTY)
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4700243/tomas-machac-jannik-sinner/easy/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-origin=https://sportsembed.su/embed/4700243/tomas-machac-jannik-sinner/easy/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Flb3.wfty.wtf%2Fplaylist%2Feasy%2Ftomas-machac-jannik-sinner%2F1%2F4700243%2Fplaylist.m3u8%3Fhash%3D226205cd0ddf0ed35fbd8d8463e66904%26t%3D1775736119563&h_referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4700243%2Ftomas-machac-jannik-sinner%2Feasy%2F1%3Fplayer%3Dclappr%26autoplay%3Dtrue&h_origin=https%3A%2F%2Fsportsembed.su%2Fembed%2F4700243%2Ftomas-machac-jannik-sinner%2Feasy%2F1%3Fplayer%3Dclappr%26autoplay%3Dtrue&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Boston Celtics vs New York Knicks (ROXIE)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/7dad22f887cee1e0.png" group-title="Baloncesto" tvg-chno="110",[NBA] Boston Celtics vs New York Knicks (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fdaffodil.shadow-ran.online%2Fnba4.m3u8&h_referer=https%3A%2F%2Froxiestreams.su&h_origin=https%3A%2F%2Froxiestreams.su&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Chicago Bulls vs Washington Wizards (ROXIE)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/6bb97b6b20f8fd2e.png" group-title="Baloncesto" tvg-chno="111",[NBA] Chicago Bulls vs Washington Wizards (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fdaffodil.shadow-ran.online%2Fnba2.m3u8&h_referer=https%3A%2F%2Froxiestreams.su&h_origin=https%3A%2F%2Froxiestreams.su&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Cleveland Cavaliers vs Atlanta Hawks (TVAPP)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/dbb70fa940ada375.png" group-title="Baloncesto" tvg-chno="112",[NBA] Cleveland Cavaliers vs Atlanta Hawks (TVAPP)
+#EXTVLCOPT:http-referrer=https://thetvapp.to
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2Forigin.thetvapp.to%2Fhls%2Fnba01%2Fmono.m3u8&h_referer=https%3A%2F%2Fthetvapp.to&h_origin=https%3A%2F%2Fthetvapp.to&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Denver Nuggets vs Memphis Grizzlies (TVAPP)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/3148503e4958a9f3.png" group-title="Baloncesto" tvg-chno="113",[NBA] Denver Nuggets vs Memphis Grizzlies (TVAPP)
+#EXTVLCOPT:http-referrer=https://thetvapp.to
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2Forigin.thetvapp.to%2Fhls%2Fnba04%2Fmono.m3u8&h_referer=https%3A%2F%2Fthetvapp.to&h_origin=https%3A%2F%2Fthetvapp.to&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Detroit Pistons vs Milwaukee Bucks (TVAPP)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/d3f9a4c334409db0.png" group-title="Baloncesto" tvg-chno="114",[NBA] Detroit Pistons vs Milwaukee Bucks (TVAPP)
+#EXTVLCOPT:http-referrer=https://thetvapp.to
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2Forigin.thetvapp.to%2Fhls%2Fnba03%2Fmono.m3u8&h_referer=https%3A%2F%2Fthetvapp.to&h_origin=https%3A%2F%2Fthetvapp.to&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Indiana Pacers vs Brooklyn Nets (ROXIE)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/c7b1b0e6a82a2858.png" group-title="Baloncesto" tvg-chno="115",[NBA] Indiana Pacers vs Brooklyn Nets (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fdaffodil.shadow-ran.online%2Fnba3.m3u8&h_referer=https%3A%2F%2Froxiestreams.su&h_origin=https%3A%2F%2Froxiestreams.su&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] LA Clippers vs Oklahoma City Thunder (TVAPP)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/b475de125170be38.png" group-title="Baloncesto" tvg-chno="116",[NBA] LA Clippers vs Oklahoma City Thunder (TVAPP)
+#EXTVLCOPT:http-referrer=https://thetvapp.to
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2Forigin.thetvapp.to%2Fhls%2Fnba06%2Fmono.m3u8&h_referer=https%3A%2F%2Fthetvapp.to&h_origin=https%3A%2F%2Fthetvapp.to&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Los Angeles Lakers vs Golden State Warriors (ROXIE)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/27316535033ced78.png" group-title="Baloncesto" tvg-chno="117",[NBA] Los Angeles Lakers vs Golden State Warriors (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fdaffodil.shadow-ran.online%2Fnba6.m3u8&h_referer=https%3A%2F%2Froxiestreams.su&h_origin=https%3A%2F%2Froxiestreams.su&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Miami Heat vs Toronto Raptors (ROXIE)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/b100a3e02da4523e.png" group-title="Baloncesto" tvg-chno="118",[NBA] Miami Heat vs Toronto Raptors (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2F602.premiumjh.shop%2Fnba.m3u8&h_referer=https%3A%2F%2Froxiestreams.su&h_origin=https%3A%2F%2Froxiestreams.su&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Orlando Magic vs Minnesota Timberwolves (TVAPP)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/1929ef9ce1fb46b1.png" group-title="Baloncesto" tvg-chno="119",[NBA] Orlando Magic vs Minnesota Timberwolves (TVAPP)
+#EXTVLCOPT:http-referrer=https://thetvapp.to
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2Forigin.thetvapp.to%2Fhls%2Fnba02%2Fmono.m3u8&h_referer=https%3A%2F%2Fthetvapp.to&h_origin=https%3A%2F%2Fthetvapp.to&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Philadelphia 76ers vs Houston Rockets (ROXIE)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/688d740e22c27d91.png" group-title="Baloncesto" tvg-chno="120",[NBA] Philadelphia 76ers vs Houston Rockets (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2F602.premiumjh.shop%2Fnba.m3u8&h_referer=https%3A%2F%2Froxiestreams.su&h_origin=https%3A%2F%2Froxiestreams.su&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Phoenix Suns vs Dallas Mavericks (TVAPP)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/79357c4017cf60f7.png" group-title="Baloncesto" tvg-chno="121",[NBA] Phoenix Suns vs Dallas Mavericks (TVAPP)
+#EXTVLCOPT:http-referrer=https://thetvapp.to
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2Forigin.thetvapp.to%2Fhls%2Fnba07%2Fmono.m3u8&h_referer=https%3A%2F%2Fthetvapp.to&h_origin=https%3A%2F%2Fthetvapp.to&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] San Antonio Spurs vs Portland Trail Blazers (TVAPP)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/a87f17a7f19ffe05.png" group-title="Baloncesto" tvg-chno="122",[NBA] San Antonio Spurs vs Portland Trail Blazers (TVAPP)
+#EXTVLCOPT:http-referrer=https://thetvapp.to
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2Forigin.thetvapp.to%2Fhls%2Fnba05%2Fmono.m3u8&h_referer=https%3A%2F%2Fthetvapp.to&h_origin=https%3A%2F%2Fthetvapp.to&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Buffalo vs New York Rangers Available outside Sabres region (TVAPP)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/5503839cdf98f404.png" group-title="Hockey" tvg-chno="123",[NHL] Buffalo vs New York Rangers Available outside Sabres region (TVAPP)
+#EXTVLCOPT:http-referrer=https://thetvapp.to
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2Forigin.thetvapp.to%2Fhls%2Fnhl01%2Fmono.m3u8&h_referer=https%3A%2F%2Fthetvapp.to&h_origin=https%3A%2F%2Fthetvapp.to&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Calgary Flames vs Colorado Avalanche (ROXIE)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/edaba2c16e4fecb7.png" group-title="Hockey" tvg-chno="124",[NHL] Calgary Flames vs Colorado Avalanche (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2F602.premiumjh.shop%2Fnhl10.m3u8&h_referer=https%3A%2F%2Froxiestreams.su&h_origin=https%3A%2F%2Froxiestreams.su&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Capitals vs Maple Leafs (WEBCAST)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/2d7dd206a87738b0.png" group-title="Hockey" tvg-chno="125",[NHL] Capitals vs Maple Leafs (WEBCAST)
+#EXTVLCOPT:http-referrer=https://slapstreams.com
+#EXTVLCOPT:http-origin=https://slapstreams.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fwebcast-origin.b-cdn.net%2Fbcdn_token%3DfIyQD2P0Q4G1Zhh6rI3FNhAfG4TmnYIbMwf0SI3Gomk%26token_path%3D%252Fplay%252FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEA0t2dzgdIdAKOwuMcH845%252F%26expires%3D1775750446%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEA0t2dzgdIdAKOwuMcH845%2F167.m3u8&h_referer=https%3A%2F%2Fslapstreams.com&h_origin=https%3A%2F%2Fslapstreams.com&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Carolina Hurricanes vs Chicago Blackhawks (ROXIE)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/e4bd64546685ebf1.png" group-title="Hockey" tvg-chno="126",[NHL] Carolina Hurricanes vs Chicago Blackhawks (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2F602.premiumjh.shop%2Fnhl8.m3u8&h_referer=https%3A%2F%2Froxiestreams.su&h_origin=https%3A%2F%2Froxiestreams.su&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Columbus Blue Jackets vs Buffalo Sabres (ROXIE)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/8b39597b8ff687ff.png" group-title="Hockey" tvg-chno="127",[NHL] Columbus Blue Jackets vs Buffalo Sabres (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2F602.premiumjh.shop%2Fnhl2.m3u8&h_referer=https%3A%2F%2Froxiestreams.su&h_origin=https%3A%2F%2Froxiestreams.su&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Edmonton vs San Jose (TVAPP)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/363d0ef90135e145.png" group-title="Hockey" tvg-chno="128",[NHL] Edmonton vs San Jose (TVAPP)
+#EXTVLCOPT:http-referrer=https://thetvapp.to
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2Forigin.thetvapp.to%2Fhls%2Fnhl03%2Fmono.m3u8&h_referer=https%3A%2F%2Fthetvapp.to&h_origin=https%3A%2F%2Fthetvapp.to&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Florida Panthers vs Ottawa Senators (ROXIE)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/13f772ee5d592fac.png" group-title="Hockey" tvg-chno="129",[NHL] Florida Panthers vs Ottawa Senators (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2F602.premiumjh.shop%2Fnhl4.m3u8&h_referer=https%3A%2F%2Froxiestreams.su&h_origin=https%3A%2F%2Froxiestreams.su&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Minnesota Wild vs Dallas Stars (ROXIE)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/20edb3cb23cfc3b3.png" group-title="Hockey" tvg-chno="130",[NHL] Minnesota Wild vs Dallas Stars (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2F602.premiumjh.shop%2Fnhl9.m3u8&h_referer=https%3A%2F%2Froxiestreams.su&h_origin=https%3A%2F%2Froxiestreams.su&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Nashville Predators vs Utah Mammoth (ROXIE)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/8f64d590836c085b.png" group-title="Hockey" tvg-chno="131",[NHL] Nashville Predators vs Utah Mammoth (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2F602.premiumjh.shop%2Fnhl11.m3u8&h_referer=https%3A%2F%2Froxiestreams.su&h_origin=https%3A%2F%2Froxiestreams.su&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Oilers vs Sharks (WEBCAST)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/5fedd5a69da2458f.png" group-title="Hockey" tvg-chno="132",[NHL] Oilers vs Sharks (WEBCAST)
+#EXTVLCOPT:http-referrer=https://slapstreams.com
+#EXTVLCOPT:http-origin=https://slapstreams.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fwebcast-origin.b-cdn.net%2Fbcdn_token%3Da5s-UsHbRnMJZhfJD7xJ77VlWJxsy-kMasHYDLQA0RE%26token_path%3D%252Fplay%252FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGfDhVDA-nZk44I-shtei40%252F%26expires%3D1775750447%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGfDhVDA-nZk44I-shtei40%2F103.m3u8&h_referer=https%3A%2F%2Fslapstreams.com&h_origin=https%3A%2F%2Fslapstreams.com&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Philadelphia Flyers vs Detroit Red Wings (ROXIE)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/430d181670285ebe.png" group-title="Hockey" tvg-chno="133",[NHL] Philadelphia Flyers vs Detroit Red Wings (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2F602.premiumjh.shop%2Fnhl5.m3u8&h_referer=https%3A%2F%2Froxiestreams.su&h_origin=https%3A%2F%2Froxiestreams.su&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Pittsburgh Penguins vs New Jersey Devils (ROXIE)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/cfe447bb0a802a57.png" group-title="Hockey" tvg-chno="134",[NHL] Pittsburgh Penguins vs New Jersey Devils (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2F602.premiumjh.shop%2Fnhl6.m3u8&h_referer=https%3A%2F%2Froxiestreams.su&h_origin=https%3A%2F%2Froxiestreams.su&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Sabres vs Rangers (WEBCAST)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/e91495122e4eb9a0.png" group-title="Hockey" tvg-chno="135",[NHL] Sabres vs Rangers (WEBCAST)
+#EXTVLCOPT:http-referrer=https://slapstreams.com
+#EXTVLCOPT:http-origin=https://slapstreams.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fwebcast-origin.b-cdn.net%2Fbcdn_token%3DTnCgaf7KGlYimmpBU1bOS6luhp7mo_W2-Knpo90gvDQ%26token_path%3D%252Fplay%252FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGwuZWmyPa1CrRKhIeFNtjM%252F%26expires%3D1775750446%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGwuZWmyPa1CrRKhIeFNtjM%2F175.m3u8&h_referer=https%3A%2F%2Fslapstreams.com&h_origin=https%3A%2F%2Fslapstreams.com&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] San Jose Sharks vs Anaheim Ducks (ROXIE)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/c417479e4ccf2ec2.png" group-title="Hockey" tvg-chno="136",[NHL] San Jose Sharks vs Anaheim Ducks (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2F602.premiumjh.shop%2Fnhl12.m3u8&h_referer=https%3A%2F%2Froxiestreams.su&h_origin=https%3A%2F%2Froxiestreams.su&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Tampa Bay Lightning vs Montreal Canadiens (ROXIE)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/dc6f0dabbd8c0c47.png" group-title="Hockey" tvg-chno="137",[NHL] Tampa Bay Lightning vs Montreal Canadiens (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2F602.premiumjh.shop%2Fnhl3.m3u8&h_referer=https%3A%2F%2Froxiestreams.su&h_origin=https%3A%2F%2Froxiestreams.su&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Toronto Maple Leafs vs New York Islanders (ROXIE)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/c25c9b5955b22506.png" group-title="Hockey" tvg-chno="138",[NHL] Toronto Maple Leafs vs New York Islanders (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2F602.premiumjh.shop%2Fnhl.m3u8&h_referer=https%3A%2F%2Froxiestreams.su&h_origin=https%3A%2F%2Froxiestreams.su&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Vancouver Canucks vs Los Angeles Kings (ROXIE)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/afa92d16882743f8.png" group-title="Hockey" tvg-chno="139",[NHL] Vancouver Canucks vs Los Angeles Kings (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2F602.premiumjh.shop%2Fnhl14.m3u8&h_referer=https%3A%2F%2Froxiestreams.su&h_origin=https%3A%2F%2Froxiestreams.su&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Vegas Golden Knights vs Seattle Kraken (ROXIE)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/211d8cc0ad932bd4.png" group-title="Hockey" tvg-chno="140",[NHL] Vegas Golden Knights vs Seattle Kraken (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2F602.premiumjh.shop%2Fnhl13.m3u8&h_referer=https%3A%2F%2Froxiestreams.su&h_origin=https%3A%2F%2Froxiestreams.su&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Washington Capitals vs Toronto Maple Leafs (TVAPP)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/7562d146b3beb5cc.png" group-title="Hockey" tvg-chno="141",[NHL] Washington Capitals vs Toronto Maple Leafs (TVAPP)
+#EXTVLCOPT:http-referrer=https://thetvapp.to
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2Forigin.thetvapp.to%2Fhls%2Fnhl02%2Fmono.m3u8&h_referer=https%3A%2F%2Fthetvapp.to&h_origin=https%3A%2F%2Fthetvapp.to&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Winnipeg Jets vs St. Louis Blues (ROXIE)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/f97a4e6bde32b00b.png" group-title="Hockey" tvg-chno="142",[NHL] Winnipeg Jets vs St. Louis Blues (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2F602.premiumjh.shop%2Fnhl7.m3u8&h_referer=https%3A%2F%2Froxiestreams.su&h_origin=https%3A%2F%2Froxiestreams.su&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[NRL] Canterbury Bulldogs vs Penrith Panthers (FAWA)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/a75ca460491a8907.png" group-title="Rugby / Aussie Rules" tvg-chno="143",[NRL] Canterbury Bulldogs vs Penrith Panthers (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2F195.178.110.2%2Fhls%2FNNNNQQ.m3u8&h_referer=http%3A%2F%2Fwww.fawanews.sc%2F&h_origin=http%3A%2F%2Fwww.fawanews.sc%2F&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="[Racing] AMA Supercross (ROXIE)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/39b98c69ac6f21eb.png" group-title="Motor" tvg-chno="144",[Racing] AMA Supercross (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2F602.shdigital.site%2Fsx.m3u8&h_referer=https%3A%2F%2Froxiestreams.su&h_origin=https%3A%2F%2Froxiestreams.su&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="[Racing] Bathurst 6 Hour - Race (ROXIE)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/3daed2c5c2e35c72.png" group-title="Motor" tvg-chno="145",[Racing] Bathurst 6 Hour - Race (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2F602.shadow-ran.online%2Fsbs.m3u8&h_referer=https%3A%2F%2Froxiestreams.su&h_origin=https%3A%2F%2Froxiestreams.su&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[Snooker] Snooker World Championshipe 1 (FAWA)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/aa476fa8c39a0a4e.png" group-title="Snooker" tvg-chno="146",[Snooker] Snooker World Championshipe 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2F195.178.110.50%2Fhls%2FBNNNN.m3u8&h_referer=http%3A%2F%2Fwww.fawanews.sc%2F&h_origin=http%3A%2F%2Fwww.fawanews.sc%2F&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[Snooker] Snooker World Championshipe 2 (FAWA)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/e4906495d7ccb310.png" group-title="Snooker" tvg-chno="147",[Snooker] Snooker World Championshipe 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2F195.178.110.50%2Fhls%2FBNNNNX.m3u8&h_referer=http%3A%2F%2Fwww.fawanews.sc%2F&h_origin=http%3A%2F%2Fwww.fawanews.sc%2F&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[Snooker] Snooker World Championshipe 3 (FAWA)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/7ea20b910d34e1fb.png" group-title="Snooker" tvg-chno="148",[Snooker] Snooker World Championshipe 3 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2F195.178.110.50%2Fhls%2FBNNNNXZ.m3u8&h_referer=http%3A%2F%2Fwww.fawanews.sc%2F&h_origin=http%3A%2F%2Fwww.fawanews.sc%2F&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[Snooker] Snooker World Championshipe 4 (FAWA)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/d5c4a0cd1636b901.png" group-title="Snooker" tvg-chno="149",[Snooker] Snooker World Championshipe 4 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2F195.178.110.50%2Fhls%2FBNNNNXZZ.m3u8&h_referer=http%3A%2F%2Fwww.fawanews.sc%2F&h_origin=http%3A%2F%2Fwww.fawanews.sc%2F&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Bologna vs Aston Villa (ROXIE)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/de13dcc3fb747bd4.png" group-title="Futbol" tvg-chno="150",[Soccer] Bologna vs Aston Villa (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fdaffodil.shadow-ran.online%2Ftnt2.m3u8&h_referer=https%3A%2F%2Froxiestreams.su&h_origin=https%3A%2F%2Froxiestreams.su&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Carabobo vs Bragantino (ROXIE)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/62cb311ae3887ed1.png" group-title="Futbol" tvg-chno="151",[Soccer] Carabobo vs Bragantino (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fdaffodil.shadow-ran.online%2Fbeines.m3u8&h_referer=https%3A%2F%2Froxiestreams.su&h_origin=https%3A%2F%2Froxiestreams.su&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Crystal Palace vs Fiorentina (ROXIE)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/da6dcff4c2d5ed14.png" group-title="Futbol" tvg-chno="152",[Soccer] Crystal Palace vs Fiorentina (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fdaffodil.shadow-ran.online%2Ftnt3.m3u8&h_referer=https%3A%2F%2Froxiestreams.su&h_origin=https%3A%2F%2Froxiestreams.su&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Freiburg vs Celta Vigo (ROXIE)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/c7e0b10a4f53376d.png" group-title="Futbol" tvg-chno="153",[Soccer] Freiburg vs Celta Vigo (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fdaffodil.shadow-ran.online%2Ftnt4.m3u8&h_referer=https%3A%2F%2Froxiestreams.su&h_origin=https%3A%2F%2Froxiestreams.su&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Macara vs América De Cali (ROXIE)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/3e5caa8d94cfc2ab.png" group-title="Futbol" tvg-chno="154",[Soccer] Macara vs América De Cali (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2F602.premiumjh.shop%2Ffla.m3u8&h_referer=https%3A%2F%2Froxiestreams.su&h_origin=https%3A%2F%2Froxiestreams.su&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Platense vs Corinthians (ROXIE)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/469851f6892d658f.png" group-title="Futbol" tvg-chno="155",[Soccer] Platense vs Corinthians (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fdaffodil.shadow-ran.online%2Ftudn.m3u8&h_referer=https%3A%2F%2Froxiestreams.su&h_origin=https%3A%2F%2Froxiestreams.su&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Porto vs Nottingham Forest (ROXIE)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/052a47616f0da0fc.png" group-title="Futbol" tvg-chno="156",[Soccer] Porto vs Nottingham Forest (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2F602.shadow-ran.online%2Ftnt.m3u8&h_referer=https%3A%2F%2Froxiestreams.su&h_origin=https%3A%2F%2Froxiestreams.su&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Rayo Valecano vs AEK Athens (ROXIE)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/d64e91c32173daa1.png" group-title="Futbol" tvg-chno="157",[Soccer] Rayo Valecano vs AEK Athens (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fdaffodil.shadow-ran.online%2Ftnt4.m3u8&h_referer=https%3A%2F%2Froxiestreams.su&h_origin=https%3A%2F%2Froxiestreams.su&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Rosario Central vs Independiente Valle (ROXIE)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/e794ca337559b488.png" group-title="Futbol" tvg-chno="158",[Soccer] Rosario Central vs Independiente Valle (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2F602.premiumjh.shop%2Ffla.m3u8&h_referer=https%3A%2F%2Froxiestreams.su&h_origin=https%3A%2F%2Froxiestreams.su&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Santa Fe vs Penarol (ROXIE)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/28e99326d5b3961e.png" group-title="Futbol" tvg-chno="159",[Soccer] Santa Fe vs Penarol (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2F602.premiumjh.shop%2Ffla.m3u8&h_referer=https%3A%2F%2Froxiestreams.su&h_origin=https%3A%2F%2Froxiestreams.su&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] UCV vs Libertad (ROXIE)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/de326a77f96e1c2f.png" group-title="Futbol" tvg-chno="160",[Soccer] UCV vs Libertad (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fdaffodil.shadow-ran.online%2Fbeines.m3u8&h_referer=https%3A%2F%2Froxiestreams.su&h_origin=https%3A%2F%2Froxiestreams.su&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[Tanzania Ligi Kuu Bara] Mbeya City vs Azam (FAWA)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/0e739877435b2c3e.png" group-title="Futbol" tvg-chno="161",[Tanzania Ligi Kuu Bara] Mbeya City vs Azam (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2F195.178.110.25%2Fhls%2FLMMM.m3u8&h_referer=http%3A%2F%2Fwww.fawanews.sc%2F&h_origin=http%3A%2F%2Fwww.fawanews.sc%2F&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[Tanzania Ligi Kuu Bara] TRA United vs Simba (FAWA)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/1edbea47647c465b.png" group-title="Futbol" tvg-chno="162",[Tanzania Ligi Kuu Bara] TRA United vs Simba (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2F195.178.110.37%2Fhls%2FLMMMQ.m3u8&h_referer=http%3A%2F%2Fwww.fawanews.sc%2F&h_origin=http%3A%2F%2Fwww.fawanews.sc%2F&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[Tennis ATP] Tennis ATP Monte Carlo 1 (FAWA)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/39ba50770d465d2e.png" group-title="Tenis" tvg-chno="163",[Tennis ATP] Tennis ATP Monte Carlo 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2F195.178.110.2%2Fhls%2FAVVVVQQQQQ.m3u8&h_referer=http%3A%2F%2Fwww.fawanews.sc%2F&h_origin=http%3A%2F%2Fwww.fawanews.sc%2F&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[Tennis ATP] Tennis ATP Monte Carlo 2 (FAWA)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/18ba8208fb8ed969.png" group-title="Tenis" tvg-chno="164",[Tennis ATP] Tennis ATP Monte Carlo 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2F195.178.110.2%2Fhls%2FKKKK.m3u8&h_referer=http%3A%2F%2Fwww.fawanews.sc%2F&h_origin=http%3A%2F%2Fwww.fawanews.sc%2F&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[Tennis WTA] Tennis WTA Linz (FAWA)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/d7256e7efd2d0643.png" group-title="Tenis" tvg-chno="165",[Tennis WTA] Tennis WTA Linz (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2F195.178.110.2%2Fhls%2FNNNNQQQQQ.m3u8&h_referer=http%3A%2F%2Fwww.fawanews.sc%2F&h_origin=http%3A%2F%2Fwww.fawanews.sc%2F&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[Turkey Lig 1] Boluspor vs Sivasspor (FAWA)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/25fc62907e86ae47.png" group-title="Futbol" tvg-chno="166",[Turkey Lig 1] Boluspor vs Sivasspor (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2F195.178.110.2%2Fhls%2FFFFFBQQQQ.m3u8&h_referer=http%3A%2F%2Fwww.fawanews.sc%2F&h_origin=http%3A%2F%2Fwww.fawanews.sc%2F&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[UAE Premier League] Al Wahda vs Ittihad Kalba (FAWA)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/1614411f74c8d27d.png" group-title="Futbol" tvg-chno="167",[UAE Premier League] Al Wahda vs Ittihad Kalba (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2F195.178.110.2%2Fhls%2FNNNNQQQQQQ.m3u8&h_referer=http%3A%2F%2Fwww.fawanews.sc%2F&h_origin=http%3A%2F%2Fwww.fawanews.sc%2F&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[Uzbekistan Super League] Buxoro vs Qizilqum (FAWA)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/83cd5d078a76971d.png" group-title="Futbol" tvg-chno="168",[Uzbekistan Super League] Buxoro vs Qizilqum (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2F195.178.110.2%2Fhls%2FFFFFBQQQ.m3u8&h_referer=http%3A%2F%2Fwww.fawanews.sc%2F&h_origin=http%3A%2F%2Fwww.fawanews.sc%2F&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[Uzbekistan Super League] Neftchi Fargona vs Pakhtakor (FAWA)" tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/bdf62a807e92de63.png" group-title="Futbol" tvg-chno="169",[Uzbekistan Super League] Neftchi Fargona vs Pakhtakor (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://135.181.151.84:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2F195.178.110.2%2Fhls%2FFFFFBQQ.m3u8&h_referer=http%3A%2F%2Fwww.fawanews.sc%2F&h_origin=http%3A%2F%2Fwww.fawanews.sc%2F&h_user-agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0&api_password=moifire
