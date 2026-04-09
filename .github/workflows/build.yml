@@ -1,4 +1,4 @@
-name: Build ultra playlist and cards
+name: Build ULTRA NEXT PLUS cards
 
 on:
   workflow_dispatch:
@@ -23,16 +23,15 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Build ultra cards and playlist
+      - name: Build cards and playlist
         run: python build_cards.py
 
       - name: Commit generated files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add cards *.m3u
-          git diff --cached --quiet || git commit -m "Auto update ultra cards and playlist"
+          git add cards *.m3u channel_logos
+          git diff --cached --quiet || git commit -m "ULTRA NEXT PLUS update"
 
       - name: Push changes
         run: git push
-
