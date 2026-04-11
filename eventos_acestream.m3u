@@ -1,4 +1,580 @@
 #EXTM3U
+#EXTINF:-1 group-title="Billie Jean King CupFase de ClasificaciónPartido 3 (Dobles)" tvg-name="▶ TELEDEPORTE 720P **",11:00 | Eslovenia vs España | ▶ TELEDEPORTE 720P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=b0d1489c9f3239349665ad5ab423363f2b02e5ae&api_password=moifire
+#EXTINF:-1 group-title="Billie Jean King CupFase de ClasificaciónPartido 3 (Dobles)" tvg-name="▶ TELEDEPORTE 1080P **",11:00 | Eslovenia vs España | ▶ TELEDEPORTE 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=3b50a1dca0977e3761d016edd79314ab797f74f6&api_password=moifire
+#EXTINF:-1 group-title="Billie Jean King CupFase de ClasificaciónPartido 3 (Dobles)" tvg-name="▶ TELEDEPORTE 1080P **",11:00 | Eslovenia vs España | ▶ TELEDEPORTE 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=77cf022557c56cdf8d8115f50e61f846ad72ee05&api_password=moifire
+#EXTINF:-1 group-title="Billie Jean King CupFase de ClasificaciónPartido 3 (Dobles)" tvg-name="▶ TELEDEPORTE",11:00 | Eslovenia vs España | ▶ TELEDEPORTE
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=2d997da301573c5aba78f969d0d37eb6107941b2&api_password=moifire
+#EXTINF:-1 group-title="Billie Jean King CupFase de ClasificaciónPartido 3 (Dobles)" tvg-name="▶ TELEDEPORTE",11:00 | Eslovenia vs España | ▶ TELEDEPORTE
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=7d910d9480e023608d1fe77eaf47c2ed34592155&api_password=moifire
+#EXTINF:-1 group-title="Billie Jean King CupFase de ClasificaciónPartido 3 (Dobles)" tvg-name="▶ LA 1",11:00 | Eslovenia vs España | ▶ LA 1
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=dad5e0e0825cb3e410008f1c4252387b868e740c&api_password=moifire
+#EXTINF:-1 group-title="Primera Federación Femenina" tvg-name="▶ LA 1",11:00 | FSF O Castro vs At. Navalcarnero FS | ▶ LA 1
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=dad5e0e0825cb3e410008f1c4252387b868e740c&api_password=moifire
+#EXTINF:-1 group-title="WTA Open Comunidad MadridSemifinal 1WTA 125" tvg-name="▶ LA 1",11:00 | P. Kudermetova vs L. Pigato | ▶ LA 1
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=dad5e0e0825cb3e410008f1c4252387b868e740c&api_password=moifire
+#EXTINF:-1 group-title="Open Comunidad de MadridSemifinal 1ATP Challenger Tour" tvg-name="▶ LA 1",12:30 | T. Samuel vs Z. Piros | ▶ LA 1
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=dad5e0e0825cb3e410008f1c4252387b868e740c&api_password=moifire
+#EXTINF:-1 group-title="Billie Jean King CupFase de ClasificaciónPartido 4" tvg-name="▶ TELEDEPORTE 720P **",13:00 | Eslovenia vs España | ▶ TELEDEPORTE 720P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=b0d1489c9f3239349665ad5ab423363f2b02e5ae&api_password=moifire
+#EXTINF:-1 group-title="Billie Jean King CupFase de ClasificaciónPartido 4" tvg-name="▶ TELEDEPORTE 1080P **",13:00 | Eslovenia vs España | ▶ TELEDEPORTE 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=3b50a1dca0977e3761d016edd79314ab797f74f6&api_password=moifire
+#EXTINF:-1 group-title="Billie Jean King CupFase de ClasificaciónPartido 4" tvg-name="▶ TELEDEPORTE 1080P **",13:00 | Eslovenia vs España | ▶ TELEDEPORTE 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=77cf022557c56cdf8d8115f50e61f846ad72ee05&api_password=moifire
+#EXTINF:-1 group-title="Billie Jean King CupFase de ClasificaciónPartido 4" tvg-name="▶ TELEDEPORTE",13:00 | Eslovenia vs España | ▶ TELEDEPORTE
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=2d997da301573c5aba78f969d0d37eb6107941b2&api_password=moifire
+#EXTINF:-1 group-title="Billie Jean King CupFase de ClasificaciónPartido 4" tvg-name="▶ TELEDEPORTE",13:00 | Eslovenia vs España | ▶ TELEDEPORTE
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=7d910d9480e023608d1fe77eaf47c2ed34592155&api_password=moifire
+#EXTINF:-1 group-title="Billie Jean King CupFase de ClasificaciónPartido 4" tvg-name="▶ LA 1",13:00 | Eslovenia vs España | ▶ LA 1
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=dad5e0e0825cb3e410008f1c4252387b868e740c&api_password=moifire
+#EXTINF:-1 group-title="OK Liga Femenina" tvg-name="▶ LA 1",13:00 | HC Alpicat vs CP Mieres | ▶ LA 1
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=dad5e0e0825cb3e410008f1c4252387b868e740c&api_password=moifire
+#EXTINF:-1 group-title="6 Naciones Femenino" tvg-name="▶ M+ VAMOS 2 720P **",13:25 | Francia vs Italia | ▶ M+ VAMOS 2 720P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=4ee16a7f854219fa2974ef1468e6b2f8574189dd&api_password=moifire
+#EXTINF:-1 group-title="6 Naciones Femenino" tvg-name="▶ M+ VAMOS 2 1080P *",13:25 | Francia vs Italia | ▶ M+ VAMOS 2 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=5e310dbffed8c941d20ad819cb8ef43c34b07884&api_password=moifire
+#EXTINF:-1 group-title="Masters MontecarloSemifinal 1ATP Masters 1000" tvg-name="▶ M+ DEPORTES 2 720P **",13:30 | A. Zverev vs J. Sinner | ▶ M+ DEPORTES 2 720P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&api_password=moifire
+#EXTINF:-1 group-title="Masters MontecarloSemifinal 1ATP Masters 1000" tvg-name="▶ M+ DEPORTES 2 1080P **",13:30 | A. Zverev vs J. Sinner | ▶ M+ DEPORTES 2 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&api_password=moifire
+#EXTINF:-1 group-title="Masters MontecarloSemifinal 1ATP Masters 1000" tvg-name="▶ M+ DEPORTES 2 1080P **",13:30 | A. Zverev vs J. Sinner | ▶ M+ DEPORTES 2 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=890901fa742b19d8808cf49f19db2d3016437c56&api_password=moifire
+#EXTINF:-1 group-title="Masters MontecarloSemifinal 1ATP Masters 1000" tvg-name="▶ MOVISTAR DEPORTES 2",13:30 | A. Zverev vs J. Sinner | ▶ MOVISTAR DEPORTES 2
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=edd06f11e1cef292a1d795e15207ef2f580e298c&api_password=moifire
+#EXTINF:-1 group-title="Masters MontecarloSemifinal 1ATP Masters 1000" tvg-name="▶ MOVISTAR DEPORTES 2",13:30 | A. Zverev vs J. Sinner | ▶ MOVISTAR DEPORTES 2
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=6e212a916c83638268047dd2757c95b14f7d25a3&api_password=moifire
+#EXTINF:-1 group-title="Masters MontecarloSemifinal 1ATP Masters 1000" tvg-name="▶ MOVISTAR DEPORTES 2",13:30 | A. Zverev vs J. Sinner | ▶ MOVISTAR DEPORTES 2
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=3afe1af18f8ff78e9946856911b00c67477052b5&api_password=moifire
+#EXTINF:-1 group-title="Premier League" tvg-name="▶ DAZN 1 1080P *",13:30 | Arsenal vs Bournemouth | ▶ DAZN 1 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=dddff67edfa7061f643ec5ae0be110169850363d&api_password=moifire
+#EXTINF:-1 group-title="Premier League" tvg-name="▶ DAZN 1 **",13:30 | Arsenal vs Bournemouth | ▶ DAZN 1 **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=9afc89481b721ce6c326c85e47148676077b8e62&api_password=moifire
+#EXTINF:-1 group-title="Premier League" tvg-name="▶ DAZN 1 **",13:30 | Arsenal vs Bournemouth | ▶ DAZN 1 **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784&api_password=moifire
+#EXTINF:-1 group-title="Premier League" tvg-name="▶ DAZN 1",13:30 | Arsenal vs Bournemouth | ▶ DAZN 1
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=691739972eb3468cf16b25e84dafdeaa40dead6d&api_password=moifire
+#EXTINF:-1 group-title="Premier League" tvg-name="▶ DAZN 1",13:30 | Arsenal vs Bournemouth | ▶ DAZN 1
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=0560234787945a17522e284c4c22bb4df29f33b0&api_password=moifire
+#EXTINF:-1 group-title="Premier League" tvg-name="▶ DAZN 1",13:30 | Arsenal vs Bournemouth | ▶ DAZN 1
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151&api_password=moifire
+#EXTINF:-1 group-title="Premier League" tvg-name="▶ DAZN 1 BAR",13:30 | Arsenal vs Bournemouth | ▶ DAZN 1 BAR
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=1e7f5efc1913efaf7042a9b1a49d1f9adc5bc187&api_password=moifire
+#EXTINF:-1 group-title="Chinese Super League" tvg-name="▶ GOL PLAY",13:35 | Shanghai Shenhua vs Shanghai Port | ▶ GOL PLAY
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=9fb99c40a2c45d5c5342b30626eb56140f980612&api_password=moifire
+#EXTINF:-1 group-title="Chinese Super League" tvg-name="▶ GOL PLAY",13:35 | Shanghai Shenhua vs Shanghai Port | ▶ GOL PLAY
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=b2d560741c006fc5e4a42412bb52dbd25a6a4a3a&api_password=moifire
+#EXTINF:-1 group-title="Chinese Super League" tvg-name="▶ GOL PLAY",13:35 | Shanghai Shenhua vs Shanghai Port | ▶ GOL PLAY
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=73094658f0a3ed523c0e188de67a7a690c0d4f93&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ M+ LALIGA 720P *",14:00 | Real Sociedad vs Alavés | ▶ M+ LALIGA 720P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=3ace1463a7cad979c3a4002b245487e9982e9f1a&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ M+ LALIGA 720P *",14:00 | Real Sociedad vs Alavés | ▶ M+ LALIGA 720P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=f863873de9f7b2996dde19a0657dd89835af3007&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ M+ LALIGA 720P **",14:00 | Real Sociedad vs Alavés | ▶ M+ LALIGA 720P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ M+ LALIGA 1080P *",14:00 | Real Sociedad vs Alavés | ▶ M+ LALIGA 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=0febfb5cac3384f487d55c559bbfc877db2d0357&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ M+ LALIGA 1080P **",14:00 | Real Sociedad vs Alavés | ▶ M+ LALIGA 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ M+ LALIGA 1080P **",14:00 | Real Sociedad vs Alavés | ▶ M+ LALIGA 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=c9321006921967d6258df6945f1d598a5c0cbf1e&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ M+ LALIGA 1080P **",14:00 | Real Sociedad vs Alavés | ▶ M+ LALIGA 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=4b528d10eaad747ddf52251206177573ee3e9f74&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ M+ LALIGA 2 720P **",14:00 | Real Sociedad vs Alavés | ▶ M+ LALIGA 2 720P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ M+ LALIGA 2 1080P **",14:00 | Real Sociedad vs Alavés | ▶ M+ LALIGA 2 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=51b363b1c4d42724e05240ad068ad219df8042ec&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ M+ LALIGA 2 *",14:00 | Real Sociedad vs Alavés | ▶ M+ LALIGA 2 *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=2c01306506e268ba726f5c30222923b6168a5404&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ M+ LALIGA 2 *",14:00 | Real Sociedad vs Alavés | ▶ M+ LALIGA 2 *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=b45cfe568e106a7df65c950805d6f123c989ce84&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ SKY SPORTS LALIGA 1080P **",14:00 | Real Sociedad vs Alavés | ▶ SKY SPORTS LALIGA 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=e9975d38aaa4475ac0b1fa0faa541bbadd85a662&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ SKY SPORTS LALIGA SD **",14:00 | Real Sociedad vs Alavés | ▶ SKY SPORTS LALIGA SD **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=a9bddffdff085cdc18b34218d5dc1093b88e3c0a&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ M+ LALIGA",14:00 | Real Sociedad vs Alavés | ▶ M+ LALIGA
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=af458073c3096293a4dea9f369d4f308e7125bd6&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ M+ LALIGA",14:00 | Real Sociedad vs Alavés | ▶ M+ LALIGA
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=b3bdd6ef7f795c4f321a3ce5cf4907338f462929&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ M+ LALIGA",14:00 | Real Sociedad vs Alavés | ▶ M+ LALIGA
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ M+ LALIGA 2",14:00 | Real Sociedad vs Alavés | ▶ M+ LALIGA 2
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=caa631e8850e3eb5e7c039063dd8a339ccef1176&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ M+ LALIGA 2",14:00 | Real Sociedad vs Alavés | ▶ M+ LALIGA 2
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=b8eb9c9868d487402569bba2d97a8af113d033fe&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ M+ LALIGA 3",14:00 | Real Sociedad vs Alavés | ▶ M+ LALIGA 3
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=c9afaf4965ad627ea6983fec9f63e0c1e857028d&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ M+ LALIGA 3",14:00 | Real Sociedad vs Alavés | ▶ M+ LALIGA 3
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=571ce113b9d600a145766443d7417eccab2e1846&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ M+ LALIGA 4",14:00 | Real Sociedad vs Alavés | ▶ M+ LALIGA 4
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=22178d72e0f255dedd7e56f9474fea879289a6f1&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ SKY SPORTS LALIGA",14:00 | Real Sociedad vs Alavés | ▶ SKY SPORTS LALIGA
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=2fab80a8445e31cb98169c0907600e1545ea8557&api_password=moifire
+#EXTINF:-1 group-title="Primera FederaciónGrupo 2" tvg-name="▶ RFEF TV 1080P *",14:00 | Sevilla At. vs Sabadell | ▶ RFEF TV 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=7b742628b9f7e82902bdbc1ff92eba1988875cfc&api_password=moifire
+#EXTINF:-1 group-title="Primera FederaciónGrupo 2" tvg-name="▶ CANAL 1 (1RFEF) (SOLO EVENTOS)",14:00 | Sevilla At. vs Sabadell | ▶ CANAL 1 (1RFEF) (SOLO EVENTOS)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=c1ee6e1e0ef5928d8261f855c417de21794f437d&api_password=moifire
+#EXTINF:-1 group-title="Primera FederaciónGrupo 2" tvg-name="▶ CANAL 2 (1RFEF) (SOLO EVENTOS)",14:00 | Sevilla At. vs Sabadell | ▶ CANAL 2 (1RFEF) (SOLO EVENTOS)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=8677d339ecddd75165c0015025f598b6215974cf&api_password=moifire
+#EXTINF:-1 group-title="Vuelta al País Vasco" tvg-name="▶ EUROSPORT 1 720P **",15:00 | Etapa 6Antzuola › Bergara (135,2 km) vs HBO MAXDAZN (Ver en directo)ETB1 (País Vasco)Eurosport 1 | ▶ EUROSPORT 1 720P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=a7b42f9d65636d1b1d9316d3e91ebe12b192658c&api_password=moifire
+#EXTINF:-1 group-title="Vuelta al País Vasco" tvg-name="▶ EUROSPORT 1 1080P *",15:00 | Etapa 6Antzuola › Bergara (135,2 km) vs HBO MAXDAZN (Ver en directo)ETB1 (País Vasco)Eurosport 1 | ▶ EUROSPORT 1 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=48a589dbeab3544662fafd79888aada7d834cfe9&api_password=moifire
+#EXTINF:-1 group-title="Vuelta al País Vasco" tvg-name="▶ EUROSPORT 1 1080P **",15:00 | Etapa 6Antzuola › Bergara (135,2 km) vs HBO MAXDAZN (Ver en directo)ETB1 (País Vasco)Eurosport 1 | ▶ EUROSPORT 1 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=0db68ab752b50e6bb257eef22d102c1d29cd92ea&api_password=moifire
+#EXTINF:-1 group-title="Vuelta al País Vasco" tvg-name="▶ EUROSPORT 1",15:00 | Etapa 6Antzuola › Bergara (135,2 km) vs HBO MAXDAZN (Ver en directo)ETB1 (País Vasco)Eurosport 1 | ▶ EUROSPORT 1
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d&api_password=moifire
+#EXTINF:-1 group-title="Vuelta al País Vasco" tvg-name="▶ EUROSPORT 1",15:00 | Etapa 6Antzuola › Bergara (135,2 km) vs HBO MAXDAZN (Ver en directo)ETB1 (País Vasco)Eurosport 1 | ▶ EUROSPORT 1
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=547ab7146a86d6119c9332c011669544720124e3&api_password=moifire
+#EXTINF:-1 group-title="Vuelta al País Vasco" tvg-name="▶ EUROSPORT360 1 (DE)",15:00 | Etapa 6Antzuola › Bergara (135,2 km) vs HBO MAXDAZN (Ver en directo)ETB1 (País Vasco)Eurosport 1 | ▶ EUROSPORT360 1 (DE)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=22df9a5fae8cae52fec925c2bb44b74f96a4200c&api_password=moifire
+#EXTINF:-1 group-title="Vuelta al País Vasco" tvg-name="▶ EUROSPORT360 2 (DE)",15:00 | Etapa 6Antzuola › Bergara (135,2 km) vs HBO MAXDAZN (Ver en directo)ETB1 (País Vasco)Eurosport 1 | ▶ EUROSPORT360 2 (DE)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=57f95543ac41656d473b1a27123fc413388a728c&api_password=moifire
+#EXTINF:-1 group-title="Vuelta al País Vasco" tvg-name="▶ EUROSPORT360 3 (DE)",15:00 | Etapa 6Antzuola › Bergara (135,2 km) vs HBO MAXDAZN (Ver en directo)ETB1 (País Vasco)Eurosport 1 | ▶ EUROSPORT360 3 (DE)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=7adbca42657ace1fe228142d351d0896974bbe0c&api_password=moifire
+#EXTINF:-1 group-title="Vuelta al País Vasco" tvg-name="▶ EUROSPORT360 4 (DE)",15:00 | Etapa 6Antzuola › Bergara (135,2 km) vs HBO MAXDAZN (Ver en directo)ETB1 (País Vasco)Eurosport 1 | ▶ EUROSPORT360 4 (DE)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=1b6b6c0ddc0534236b3bae78f41d2bc27cd11f64&api_password=moifire
+#EXTINF:-1 group-title="Vuelta al País Vasco" tvg-name="▶ EUROSPORT360 5 (DE)",15:00 | Etapa 6Antzuola › Bergara (135,2 km) vs HBO MAXDAZN (Ver en directo)ETB1 (País Vasco)Eurosport 1 | ▶ EUROSPORT360 5 (DE)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=148921c4dda96df445e253d6f26c4d092bf85809&api_password=moifire
+#EXTINF:-1 group-title="Vuelta al País Vasco" tvg-name="▶ EUROSPORT360 6 (DE)",15:00 | Etapa 6Antzuola › Bergara (135,2 km) vs HBO MAXDAZN (Ver en directo)ETB1 (País Vasco)Eurosport 1 | ▶ EUROSPORT360 6 (DE)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=005ac522315699bd93bbf743329eb2f3c347dc3f&api_password=moifire
+#EXTINF:-1 group-title="Vuelta al País Vasco" tvg-name="▶ EUROSPORT360 7 (DE)",15:00 | Etapa 6Antzuola › Bergara (135,2 km) vs HBO MAXDAZN (Ver en directo)ETB1 (País Vasco)Eurosport 1 | ▶ EUROSPORT360 7 (DE)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=b18657f64507cc859cd7edef1aef90feb053e791&api_password=moifire
+#EXTINF:-1 group-title="Vuelta al País Vasco" tvg-name="▶ EUROSPORT360 8 (DE)",15:00 | Etapa 6Antzuola › Bergara (135,2 km) vs HBO MAXDAZN (Ver en directo)ETB1 (País Vasco)Eurosport 1 | ▶ EUROSPORT360 8 (DE)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=8f4f572005ca2557743474087aa622693ba9b5fe&api_password=moifire
+#EXTINF:-1 group-title="Vuelta al País Vasco" tvg-name="▶ EUROSPORT 1 (DE)",15:00 | Etapa 6Antzuola › Bergara (135,2 km) vs HBO MAXDAZN (Ver en directo)ETB1 (País Vasco)Eurosport 1 | ▶ EUROSPORT 1 (DE)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766&api_password=moifire
+#EXTINF:-1 group-title="Vuelta al País Vasco" tvg-name="▶ EUROSPORT 1 (RU)",15:00 | Etapa 6Antzuola › Bergara (135,2 km) vs HBO MAXDAZN (Ver en directo)ETB1 (País Vasco)Eurosport 1 | ▶ EUROSPORT 1 (RU)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=1b0bc4d4dcd609d3c092712e721392b199f50a62&api_password=moifire
+#EXTINF:-1 group-title="Vuelta al País Vasco" tvg-name="▶ EUROSPORT (PL)",15:00 | Etapa 6Antzuola › Bergara (135,2 km) vs HBO MAXDAZN (Ver en directo)ETB1 (País Vasco)Eurosport 1 | ▶ EUROSPORT (PL)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=314eb626864faf52e01624361bd6906b5406127f&api_password=moifire
+#EXTINF:-1 group-title="6 Naciones Femenino" tvg-name="▶ M+ VAMOS 3 720P **",15:25 | Inglaterra vs Irlanda | ▶ M+ VAMOS 3 720P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=837883625d40e1eb5566eefaf74811046491f53a&api_password=moifire
+#EXTINF:-1 group-title="6 Naciones Femenino" tvg-name="▶ M+ VAMOS 3 1080P *",15:25 | Inglaterra vs Irlanda | ▶ M+ VAMOS 3 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=a9299052e9a16e5e2924e1fdd00b877c374f9e96&api_password=moifire
+#EXTINF:-1 group-title="6 Naciones Femenino" tvg-name="▶ M+ VAMOS 3 1080P *",15:25 | Inglaterra vs Irlanda | ▶ M+ VAMOS 3 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=b46a524780cf0ac5e533491fe79389d6198acf2c&api_password=moifire
+#EXTINF:-1 group-title="6 Naciones Femenino" tvg-name="▶ M+ VAMOS 3 1080P **",15:25 | Inglaterra vs Irlanda | ▶ M+ VAMOS 3 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=b7b1c1eeb4be09c63fbc2f319c9760851c274455&api_password=moifire
+#EXTINF:-1 group-title="Bundesliga" tvg-name="▶ M+ VAMOS 1080P *",15:30 | Borussia Dortmund vs Bayer Leverkusen | ▶ M+ VAMOS 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc&api_password=moifire
+#EXTINF:-1 group-title="Bundesliga" tvg-name="▶ M+ LIGA DE CAMPEONES 1080P **",15:30 | Borussia Dortmund vs Bayer Leverkusen | ▶ M+ LIGA DE CAMPEONES 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=9db029dff6a9c637d1f670e78dbc1a479b9b406e&api_password=moifire
+#EXTINF:-1 group-title="Bundesliga" tvg-name="▶ M+ LIGA DE CAMPEONES 1080P **",15:30 | Borussia Dortmund vs Bayer Leverkusen | ▶ M+ LIGA DE CAMPEONES 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=97df5b7824948972d041d8ca2a4d29c90b641bc9&api_password=moifire
+#EXTINF:-1 group-title="Bundesliga" tvg-name="▶ LIGA DE CAMPEONES",15:30 | Borussia Dortmund vs Bayer Leverkusen | ▶ LIGA DE CAMPEONES
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc&api_password=moifire
+#EXTINF:-1 group-title="Bundesliga" tvg-name="▶ LIGA DE CAMPEONES",15:30 | Borussia Dortmund vs Bayer Leverkusen | ▶ LIGA DE CAMPEONES
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a&api_password=moifire
+#EXTINF:-1 group-title="Bundesliga" tvg-name="▶ LIGA DE CAMPEONES",15:30 | Borussia Dortmund vs Bayer Leverkusen | ▶ LIGA DE CAMPEONES
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=afbf2a479c5a5072698139f0f556ef3e77a99bd0&api_password=moifire
+#EXTINF:-1 group-title="Bundesliga" tvg-name="▶ LIGA DE CAMPEONES",15:30 | Borussia Dortmund vs Bayer Leverkusen | ▶ LIGA DE CAMPEONES
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=afbf1ef8812e7b0a0977fa3a0a2d3a6d3cbd6c6f&api_password=moifire
+#EXTINF:-1 group-title="Bundesliga" tvg-name="▶ LIGA DE CAMPEONES",15:30 | Borussia Dortmund vs Bayer Leverkusen | ▶ LIGA DE CAMPEONES
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=d2b681aae903a3a278c25bae2d94d7609617766b&api_password=moifire
+#EXTINF:-1 group-title="Bundesliga" tvg-name="▶ LIGA DE CAMPEONES",15:30 | Borussia Dortmund vs Bayer Leverkusen | ▶ LIGA DE CAMPEONES
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=e572a5178ff72eed7d1d751a18b4b3419699f370&api_password=moifire
+#EXTINF:-1 group-title="Bundesliga" tvg-name="▶ LIGA DE CAMPEONES 11",15:30 | Borussia Dortmund vs Bayer Leverkusen | ▶ LIGA DE CAMPEONES 11
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=6e12a5849a4edea248ed9c8689e58bd66fc9f8fa&api_password=moifire
+#EXTINF:-1 group-title="Bundesliga" tvg-name="▶ LIGA DE CAMPEONES 12",15:30 | Borussia Dortmund vs Bayer Leverkusen | ▶ LIGA DE CAMPEONES 12
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=130d37f9a68bd8f29f0d636dcde522a1e91d1cb7&api_password=moifire
+#EXTINF:-1 group-title="Masters MontecarloSemifinal 2ATP Masters 1000" tvg-name="▶ M+ DEPORTES 2 720P **",15:30 | C. Alcaraz vs V. Vacherot | ▶ M+ DEPORTES 2 720P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&api_password=moifire
+#EXTINF:-1 group-title="Masters MontecarloSemifinal 2ATP Masters 1000" tvg-name="▶ M+ DEPORTES 2 1080P **",15:30 | C. Alcaraz vs V. Vacherot | ▶ M+ DEPORTES 2 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&api_password=moifire
+#EXTINF:-1 group-title="Masters MontecarloSemifinal 2ATP Masters 1000" tvg-name="▶ M+ DEPORTES 2 1080P **",15:30 | C. Alcaraz vs V. Vacherot | ▶ M+ DEPORTES 2 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=890901fa742b19d8808cf49f19db2d3016437c56&api_password=moifire
+#EXTINF:-1 group-title="Masters MontecarloSemifinal 2ATP Masters 1000" tvg-name="▶ MOVISTAR DEPORTES 2",15:30 | C. Alcaraz vs V. Vacherot | ▶ MOVISTAR DEPORTES 2
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=edd06f11e1cef292a1d795e15207ef2f580e298c&api_password=moifire
+#EXTINF:-1 group-title="Masters MontecarloSemifinal 2ATP Masters 1000" tvg-name="▶ MOVISTAR DEPORTES 2",15:30 | C. Alcaraz vs V. Vacherot | ▶ MOVISTAR DEPORTES 2
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=6e212a916c83638268047dd2757c95b14f7d25a3&api_password=moifire
+#EXTINF:-1 group-title="Masters MontecarloSemifinal 2ATP Masters 1000" tvg-name="▶ MOVISTAR DEPORTES 2",15:30 | C. Alcaraz vs V. Vacherot | ▶ MOVISTAR DEPORTES 2
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=3afe1af18f8ff78e9946856911b00c67477052b5&api_password=moifire
+#EXTINF:-1 group-title="Premier League" tvg-name="▶ DAZN 1 1080P *",16:00 | Brentford vs Everton | ▶ DAZN 1 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=dddff67edfa7061f643ec5ae0be110169850363d&api_password=moifire
+#EXTINF:-1 group-title="Premier League" tvg-name="▶ DAZN 1 **",16:00 | Brentford vs Everton | ▶ DAZN 1 **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=9afc89481b721ce6c326c85e47148676077b8e62&api_password=moifire
+#EXTINF:-1 group-title="Premier League" tvg-name="▶ DAZN 1 **",16:00 | Brentford vs Everton | ▶ DAZN 1 **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784&api_password=moifire
+#EXTINF:-1 group-title="Premier League" tvg-name="▶ DAZN 1",16:00 | Brentford vs Everton | ▶ DAZN 1
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=691739972eb3468cf16b25e84dafdeaa40dead6d&api_password=moifire
+#EXTINF:-1 group-title="Premier League" tvg-name="▶ DAZN 1",16:00 | Brentford vs Everton | ▶ DAZN 1
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=0560234787945a17522e284c4c22bb4df29f33b0&api_password=moifire
+#EXTINF:-1 group-title="Premier League" tvg-name="▶ DAZN 1",16:00 | Brentford vs Everton | ▶ DAZN 1
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151&api_password=moifire
+#EXTINF:-1 group-title="Premier League" tvg-name="▶ DAZN 1 BAR",16:00 | Brentford vs Everton | ▶ DAZN 1 BAR
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=1e7f5efc1913efaf7042a9b1a49d1f9adc5bc187&api_password=moifire
+#EXTINF:-1 group-title="Premier League" tvg-name="▶ DAZN 2 1080P **",16:00 | Burnley vs Brighton | ▶ DAZN 2 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=13a16a0630ae87bd97d6ba4165963c201c9a2e9c&api_password=moifire
+#EXTINF:-1 group-title="Premier League" tvg-name="▶ DAZN 2 1080P **",16:00 | Burnley vs Brighton | ▶ DAZN 2 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=d60b8c154828cb990b7bb1570764b215bd979e74&api_password=moifire
+#EXTINF:-1 group-title="Premier League" tvg-name="▶ DAZN 2",16:00 | Burnley vs Brighton | ▶ DAZN 2
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35&api_password=moifire
+#EXTINF:-1 group-title="Premier League" tvg-name="▶ DAZN 2",16:00 | Burnley vs Brighton | ▶ DAZN 2
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=fb2dd566824658eeab27aae19a01c09430f1a97d&api_password=moifire
+#EXTINF:-1 group-title="Premier League" tvg-name="▶ DAZN 2",16:00 | Burnley vs Brighton | ▶ DAZN 2
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=c93a0d4914713db942fbb210bac467b0224c63a6&api_password=moifire
+#EXTINF:-1 group-title="Premier League" tvg-name="▶ DAZN 2",16:00 | Burnley vs Brighton | ▶ DAZN 2
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=b0eabe0fdd02fdd165896236765a9b753a2ff516&api_password=moifire
+#EXTINF:-1 group-title="Premier League" tvg-name="▶ DAZN 2 BAR",16:00 | Burnley vs Brighton | ▶ DAZN 2 BAR
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=2f9211669499f413dab1a490198afab2a9b4b57c&api_password=moifire
+#EXTINF:-1 group-title="Champions Cup" tvg-name="▶ M+ DEPORTES 3 1080P *",16:00 | Glasgow Warriors vs RC Toulon | ▶ M+ DEPORTES 3 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=f4d9011721fad5098febbe4d7c078a582e176a01&api_password=moifire
+#EXTINF:-1 group-title="Champions Cup" tvg-name="▶ M+ DEPORTES 3 1080P **",16:00 | Glasgow Warriors vs RC Toulon | ▶ M+ DEPORTES 3 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903&api_password=moifire
+#EXTINF:-1 group-title="Champions Cup" tvg-name="▶ MOVISTAR DEPORTES 3",16:00 | Glasgow Warriors vs RC Toulon | ▶ MOVISTAR DEPORTES 3
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=39fefdecfc953dcf6e7c589739bf486c2e605ed0&api_password=moifire
+#EXTINF:-1 group-title="LaLiga Hypermotion" tvg-name="▶ LALIGA TV HYPERMOTION 720P *",16:15 | Burgos CF vs Sporting Gijón | ▶ LALIGA TV HYPERMOTION 720P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=1f75d92098580443857caa95a719103cb83781b0&api_password=moifire
+#EXTINF:-1 group-title="LaLiga Hypermotion" tvg-name="▶ LALIGA TV HYPERMOTION 720P **",16:15 | Burgos CF vs Sporting Gijón | ▶ LALIGA TV HYPERMOTION 720P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=a4f072c9b614323ac1258a175f868a909ea3c8cd&api_password=moifire
+#EXTINF:-1 group-title="LaLiga Hypermotion" tvg-name="▶ LALIGA TV HYPERMOTION 1080P *",16:15 | Burgos CF vs Sporting Gijón | ▶ LALIGA TV HYPERMOTION 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=4636ed75106cb00e9c70cc2029edf0a4df7ad73f&api_password=moifire
+#EXTINF:-1 group-title="LaLiga Hypermotion" tvg-name="▶ LALIGA TV HYPERMOTION 1080P **",16:15 | Burgos CF vs Sporting Gijón | ▶ LALIGA TV HYPERMOTION 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0&api_password=moifire
+#EXTINF:-1 group-title="LaLiga Hypermotion" tvg-name="▶ HYPERMOTION",16:15 | Burgos CF vs Sporting Gijón | ▶ HYPERMOTION
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=58b1c4b8cb65d648505b035a04e879672fcd8e3f&api_password=moifire
+#EXTINF:-1 group-title="LaLiga Hypermotion" tvg-name="▶ HYPERMOTION",16:15 | Burgos CF vs Sporting Gijón | ▶ HYPERMOTION
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=fc129b39c253b887563c3f0dce5fca7e699c3047&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ DAZN LALIGA 2 720P **",16:15 | Elche vs Valencia CF | ▶ DAZN LALIGA 2 720P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=c976c7b37964322752db562b4ad65515509c8d36&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ DAZN LALIGA 2 1080P **",16:15 | Elche vs Valencia CF | ▶ DAZN LALIGA 2 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ DAZN LA LIGA 2",16:15 | Elche vs Valencia CF | ▶ DAZN LA LIGA 2
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=635b61c1f240449163260cd914d10d886a54fee3&api_password=moifire
+#EXTINF:-1 group-title="LaLiga Hypermotion" tvg-name="▶ LALIGA TV HYPERMOTION 2 720P *",16:15 | Leganés vs Albacete | ▶ LALIGA TV HYPERMOTION 2 720P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=3a21e651c0bffe810cfc8537065cb81f5ed68a55&api_password=moifire
+#EXTINF:-1 group-title="LaLiga Hypermotion" tvg-name="▶ LALIGA TV HYPERMOTION 2 1080P *",16:15 | Leganés vs Albacete | ▶ LALIGA TV HYPERMOTION 2 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=a5b9d834ad92bfb80fe01bf89cc20bd68be199fb&api_password=moifire
+#EXTINF:-1 group-title="LaLiga Hypermotion" tvg-name="▶ LALIGA TV HYPERMOTION 2 1080P **",16:15 | Leganés vs Albacete | ▶ LALIGA TV HYPERMOTION 2 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=709075831bf5c41ed0a20dfbd640aab6c28971f8&api_password=moifire
+#EXTINF:-1 group-title="Primera FederaciónGrupo 1" tvg-name="▶ RFEF TV 1080P *",16:15 | Osasuna Promesas vs Real Avilés | ▶ RFEF TV 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=7b742628b9f7e82902bdbc1ff92eba1988875cfc&api_password=moifire
+#EXTINF:-1 group-title="Primera FederaciónGrupo 1" tvg-name="▶ CANAL 1 (1RFEF) (SOLO EVENTOS)",16:15 | Osasuna Promesas vs Real Avilés | ▶ CANAL 1 (1RFEF) (SOLO EVENTOS)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=c1ee6e1e0ef5928d8261f855c417de21794f437d&api_password=moifire
+#EXTINF:-1 group-title="Primera FederaciónGrupo 1" tvg-name="▶ CANAL 2 (1RFEF) (SOLO EVENTOS)",16:15 | Osasuna Promesas vs Real Avilés | ▶ CANAL 2 (1RFEF) (SOLO EVENTOS)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=8677d339ecddd75165c0015025f598b6215974cf&api_password=moifire
+#EXTINF:-1 group-title="Primera FederaciónGrupo 1" tvg-name="▶ RFEF TV 1080P *",16:15 | Ourense CF vs Lugo | ▶ RFEF TV 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=7b742628b9f7e82902bdbc1ff92eba1988875cfc&api_password=moifire
+#EXTINF:-1 group-title="Primera FederaciónGrupo 1" tvg-name="▶ CANAL 1 (1RFEF) (SOLO EVENTOS)",16:15 | Ourense CF vs Lugo | ▶ CANAL 1 (1RFEF) (SOLO EVENTOS)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=c1ee6e1e0ef5928d8261f855c417de21794f437d&api_password=moifire
+#EXTINF:-1 group-title="Primera FederaciónGrupo 1" tvg-name="▶ CANAL 2 (1RFEF) (SOLO EVENTOS)",16:15 | Ourense CF vs Lugo | ▶ CANAL 2 (1RFEF) (SOLO EVENTOS)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=8677d339ecddd75165c0015025f598b6215974cf&api_password=moifire
+#EXTINF:-1 group-title="Primera FederaciónGrupo 2" tvg-name="▶ RFEF TV 1080P *",16:15 | Tarazona vs Alcorcón | ▶ RFEF TV 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=7b742628b9f7e82902bdbc1ff92eba1988875cfc&api_password=moifire
+#EXTINF:-1 group-title="Primera FederaciónGrupo 2" tvg-name="▶ CANAL 1 (1RFEF) (SOLO EVENTOS)",16:15 | Tarazona vs Alcorcón | ▶ CANAL 1 (1RFEF) (SOLO EVENTOS)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=c1ee6e1e0ef5928d8261f855c417de21794f437d&api_password=moifire
+#EXTINF:-1 group-title="Primera FederaciónGrupo 2" tvg-name="▶ CANAL 2 (1RFEF) (SOLO EVENTOS)",16:15 | Tarazona vs Alcorcón | ▶ CANAL 2 (1RFEF) (SOLO EVENTOS)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=8677d339ecddd75165c0015025f598b6215974cf&api_password=moifire
+#EXTINF:-1 group-title="Liga ASOBAL" tvg-name="▶ RFEF TV 1080P *",16:30 | BM Torrelavega vs Balonmano Caserío Ciudad Real | ▶ RFEF TV 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=7b742628b9f7e82902bdbc1ff92eba1988875cfc&api_password=moifire
+#EXTINF:-1 group-title="Liga ASOBAL" tvg-name="▶ CANAL 1 (1RFEF) (SOLO EVENTOS)",16:30 | BM Torrelavega vs Balonmano Caserío Ciudad Real | ▶ CANAL 1 (1RFEF) (SOLO EVENTOS)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=c1ee6e1e0ef5928d8261f855c417de21794f437d&api_password=moifire
+#EXTINF:-1 group-title="Liga ASOBAL" tvg-name="▶ CANAL 2 (1RFEF) (SOLO EVENTOS)",16:30 | BM Torrelavega vs Balonmano Caserío Ciudad Real | ▶ CANAL 2 (1RFEF) (SOLO EVENTOS)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=8677d339ecddd75165c0015025f598b6215974cf&api_password=moifire
+#EXTINF:-1 group-title="Liga ASOBAL" tvg-name="▶ RFEF TV 1080P *",17:00 | EÓN Balonmano Alicante vs BM Granollers | ▶ RFEF TV 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=7b742628b9f7e82902bdbc1ff92eba1988875cfc&api_password=moifire
+#EXTINF:-1 group-title="Liga ASOBAL" tvg-name="▶ CANAL 1 (1RFEF) (SOLO EVENTOS)",17:00 | EÓN Balonmano Alicante vs BM Granollers | ▶ CANAL 1 (1RFEF) (SOLO EVENTOS)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=c1ee6e1e0ef5928d8261f855c417de21794f437d&api_password=moifire
+#EXTINF:-1 group-title="Liga ASOBAL" tvg-name="▶ CANAL 2 (1RFEF) (SOLO EVENTOS)",17:00 | EÓN Balonmano Alicante vs BM Granollers | ▶ CANAL 2 (1RFEF) (SOLO EVENTOS)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=8677d339ecddd75165c0015025f598b6215974cf&api_password=moifire
+#EXTINF:-1 group-title="Women's Rugby Europe Championship" tvg-name="▶ LA 1",17:00 | Portugal vs España | ▶ LA 1
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=dad5e0e0825cb3e410008f1c4252387b868e740c&api_password=moifire
+#EXTINF:-1 group-title="6 Naciones Femenino" tvg-name="▶ M+ DEPORTES 4 1080P *",17:40 | Gales vs Escocia | ▶ M+ DEPORTES 4 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=4abe06c5cce7cb3c6bef2c3bccaafefd3299794f&api_password=moifire
+#EXTINF:-1 group-title="6 Naciones Femenino" tvg-name="▶ M+ DEPORTES 4 **",17:40 | Gales vs Escocia | ▶ M+ DEPORTES 4 **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=590a1f4546e3a0d5d419b62b8177b44d6ce0339f&api_password=moifire
+#EXTINF:-1 group-title="6 Naciones Femenino" tvg-name="▶ MOVISTAR DEPORTES 4",17:40 | Gales vs Escocia | ▶ MOVISTAR DEPORTES 4
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=58a4c880ab18486d914751db32a12760e74b75a4&api_password=moifire
+#EXTINF:-1 group-title="6 Naciones Femenino" tvg-name="▶ MOVISTAR DEPORTES 4",17:40 | Gales vs Escocia | ▶ MOVISTAR DEPORTES 4
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=3f97bafa133b10cfe5c62311e11501326d886a53&api_password=moifire
+#EXTINF:-1 group-title="6 Naciones Femenino" tvg-name="▶ MOVISTAR DEPORTES 4",17:40 | Gales vs Escocia | ▶ MOVISTAR DEPORTES 4
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=8b5f9d967384afab226dd759e6e9dfaee9993869&api_password=moifire
+#EXTINF:-1 group-title="Serie A Italiana" tvg-name="▶ CALCIO EVENTOS",18:00 | AC Milan vs Udinese | ▶ CALCIO EVENTOS
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=1e045b7e16a5c2c3e5a8c0c0176efa26b63d7955&api_password=moifire
+#EXTINF:-1 group-title="Liga EndesaLiga Regular" tvg-name="▶ ACB EVENTO 01 720P **",18:00 | Casademont Zaragoza vs Força Lleida | ▶ ACB EVENTO 01 720P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=23bee556c002d0726c1f0cac98a1901cff0a9239&api_password=moifire
+#EXTINF:-1 group-title="Liga Femenina EndesaLiga Regular" tvg-name="▶ RFEF TV 1080P *",18:00 | IDK Euskotren vs Valencia Basket | ▶ RFEF TV 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=7b742628b9f7e82902bdbc1ff92eba1988875cfc&api_password=moifire
+#EXTINF:-1 group-title="Liga Femenina EndesaLiga Regular" tvg-name="▶ CANAL 1 (1RFEF) (SOLO EVENTOS)",18:00 | IDK Euskotren vs Valencia Basket | ▶ CANAL 1 (1RFEF) (SOLO EVENTOS)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=c1ee6e1e0ef5928d8261f855c417de21794f437d&api_password=moifire
+#EXTINF:-1 group-title="Liga Femenina EndesaLiga Regular" tvg-name="▶ CANAL 2 (1RFEF) (SOLO EVENTOS)",18:00 | IDK Euskotren vs Valencia Basket | ▶ CANAL 2 (1RFEF) (SOLO EVENTOS)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=8677d339ecddd75165c0015025f598b6215974cf&api_password=moifire
+#EXTINF:-1 group-title="Masters de Augusta" tvg-name="▶ M+ GOLF 720P *",18:00 | Jornada 3 vs Movistar Golf (M67) | ▶ M+ GOLF 720P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=f60535a458b3c114283e2f433379144345beddd6&api_password=moifire
+#EXTINF:-1 group-title="Masters de Augusta" tvg-name="▶ M+ GOLF 1080P **",18:00 | Jornada 3 vs Movistar Golf (M67) | ▶ M+ GOLF 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=8121478d3d3e563ad6b98018bc1c0aeb2f6166eb&api_password=moifire
+#EXTINF:-1 group-title="Masters de Augusta" tvg-name="▶ M+ GOLF 2 *",18:00 | Jornada 3 vs Movistar Golf (M67) | ▶ M+ GOLF 2 *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=ac321484243571f59e077f2a2521e648dc0c7b03&api_password=moifire
+#EXTINF:-1 group-title="Masters de Augusta" tvg-name="▶ MOVISTAR GOLF",18:00 | Jornada 3 vs Movistar Golf (M67) | ▶ MOVISTAR GOLF
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=8546cff89e4ee8bf3ad31cf6457c3bc2c4341031&api_password=moifire
+#EXTINF:-1 group-title="Masters de Augusta" tvg-name="▶ MOVISTAR GOLF",18:00 | Jornada 3 vs Movistar Golf (M67) | ▶ MOVISTAR GOLF
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=9be118a64eb603b5eb62be6cf27631d3891b5174&api_password=moifire
+#EXTINF:-1 group-title="Masters de Augusta" tvg-name="▶ MOVISTAR GOLF",18:00 | Jornada 3 vs Movistar Golf (M67) | ▶ MOVISTAR GOLF
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=872608e734992db636eb79426802cd08f4029afb&api_password=moifire
+#EXTINF:-1 group-title="Velada" tvg-name="▶ M+ DEPORTES 1080P *",18:00 | WOW 29Roig Arena (Valencia) vs M+ Deportes (63) | ▶ M+ DEPORTES 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=c6a824a81b36f6c3529826477caf2ad94b45776d&api_password=moifire
+#EXTINF:-1 group-title="Velada" tvg-name="▶ M+ DEPORTES 1080P **",18:00 | WOW 29Roig Arena (Valencia) vs M+ Deportes (63) | ▶ M+ DEPORTES 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=ebca4a63ce3bfda7b272964a1acc5227218184a4&api_password=moifire
+#EXTINF:-1 group-title="Primera FederaciónGrupo 2" tvg-name="▶ RFEF TV 1080P *",18:30 | Betis Deportivo vs Eldense | ▶ RFEF TV 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=7b742628b9f7e82902bdbc1ff92eba1988875cfc&api_password=moifire
+#EXTINF:-1 group-title="Primera FederaciónGrupo 2" tvg-name="▶ CANAL 1 (1RFEF) (SOLO EVENTOS)",18:30 | Betis Deportivo vs Eldense | ▶ CANAL 1 (1RFEF) (SOLO EVENTOS)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=c1ee6e1e0ef5928d8261f855c417de21794f437d&api_password=moifire
+#EXTINF:-1 group-title="Primera FederaciónGrupo 2" tvg-name="▶ CANAL 2 (1RFEF) (SOLO EVENTOS)",18:30 | Betis Deportivo vs Eldense | ▶ CANAL 2 (1RFEF) (SOLO EVENTOS)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=8677d339ecddd75165c0015025f598b6215974cf&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ DAZN LALIGA 720P **",18:30 | FC Barcelona vs Espanyol | ▶ DAZN LALIGA 720P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ DAZN LALIGA 1080P **",18:30 | FC Barcelona vs Espanyol | ▶ DAZN LALIGA 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ DAZN LALIGA 2 720P **",18:30 | FC Barcelona vs Espanyol | ▶ DAZN LALIGA 2 720P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=c976c7b37964322752db562b4ad65515509c8d36&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ DAZN LALIGA 2 1080P **",18:30 | FC Barcelona vs Espanyol | ▶ DAZN LALIGA 2 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ DAZN LA LIGA 1",18:30 | FC Barcelona vs Espanyol | ▶ DAZN LA LIGA 1
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=19f28f60c908f987b1a03da078e63320d7bf29e8&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ DAZN LA LIGA 1",18:30 | FC Barcelona vs Espanyol | ▶ DAZN LA LIGA 1
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=d1596a3988b84a4d2711fd380eb8a53256ad74ae&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ DAZN LA LIGA 1",18:30 | FC Barcelona vs Espanyol | ▶ DAZN LA LIGA 1
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=71cb5e2567a8b39f5bdc4fa791992781b052f0bc&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ DAZN LA LIGA 1",18:30 | FC Barcelona vs Espanyol | ▶ DAZN LA LIGA 1
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=cc108ae39f92c48f6c946763047bd1c9b7b7d889&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ DAZN LA LIGA 1",18:30 | FC Barcelona vs Espanyol | ▶ DAZN LA LIGA 1
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=9c75f1d190c518cfe0f236415b8dccc1f676ef3b&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ DAZN LA LIGA 1",18:30 | FC Barcelona vs Espanyol | ▶ DAZN LA LIGA 1
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=8a25653a2f774f4ae1062d38a30dcd714d304a3a&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ DAZN LA LIGA 1",18:30 | FC Barcelona vs Espanyol | ▶ DAZN LA LIGA 1
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ DAZN LA LIGA 2",18:30 | FC Barcelona vs Espanyol | ▶ DAZN LA LIGA 2
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=635b61c1f240449163260cd914d10d886a54fee3&api_password=moifire
+#EXTINF:-1 group-title="Primera FederaciónGrupo 2" tvg-name="▶ RFEF TV 1080P *",18:30 | FC Cartagena vs Antequera | ▶ RFEF TV 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=7b742628b9f7e82902bdbc1ff92eba1988875cfc&api_password=moifire
+#EXTINF:-1 group-title="Primera FederaciónGrupo 2" tvg-name="▶ CANAL 1 (1RFEF) (SOLO EVENTOS)",18:30 | FC Cartagena vs Antequera | ▶ CANAL 1 (1RFEF) (SOLO EVENTOS)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=c1ee6e1e0ef5928d8261f855c417de21794f437d&api_password=moifire
+#EXTINF:-1 group-title="Primera FederaciónGrupo 2" tvg-name="▶ CANAL 2 (1RFEF) (SOLO EVENTOS)",18:30 | FC Cartagena vs Antequera | ▶ CANAL 2 (1RFEF) (SOLO EVENTOS)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=8677d339ecddd75165c0015025f598b6215974cf&api_password=moifire
+#EXTINF:-1 group-title="Champions Cup" tvg-name="▶ M+ VAMOS 1080P *",18:30 | Leinster Rugby vs Sale Sharks | ▶ M+ VAMOS 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc&api_password=moifire
+#EXTINF:-1 group-title="Champions Cup" tvg-name="▶ M+ DEPORTES 3 1080P *",18:30 | Leinster Rugby vs Sale Sharks | ▶ M+ DEPORTES 3 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=f4d9011721fad5098febbe4d7c078a582e176a01&api_password=moifire
+#EXTINF:-1 group-title="Champions Cup" tvg-name="▶ M+ DEPORTES 3 1080P **",18:30 | Leinster Rugby vs Sale Sharks | ▶ M+ DEPORTES 3 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903&api_password=moifire
+#EXTINF:-1 group-title="Champions Cup" tvg-name="▶ MOVISTAR DEPORTES 3",18:30 | Leinster Rugby vs Sale Sharks | ▶ MOVISTAR DEPORTES 3
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=39fefdecfc953dcf6e7c589739bf486c2e605ed0&api_password=moifire
+#EXTINF:-1 group-title="Premier League" tvg-name="▶ DAZN 1 1080P *",18:30 | Liverpool vs Fulham | ▶ DAZN 1 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=dddff67edfa7061f643ec5ae0be110169850363d&api_password=moifire
+#EXTINF:-1 group-title="Premier League" tvg-name="▶ DAZN 1 **",18:30 | Liverpool vs Fulham | ▶ DAZN 1 **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=9afc89481b721ce6c326c85e47148676077b8e62&api_password=moifire
+#EXTINF:-1 group-title="Premier League" tvg-name="▶ DAZN 1 **",18:30 | Liverpool vs Fulham | ▶ DAZN 1 **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784&api_password=moifire
+#EXTINF:-1 group-title="Premier League" tvg-name="▶ DAZN 1",18:30 | Liverpool vs Fulham | ▶ DAZN 1
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=691739972eb3468cf16b25e84dafdeaa40dead6d&api_password=moifire
+#EXTINF:-1 group-title="Premier League" tvg-name="▶ DAZN 1",18:30 | Liverpool vs Fulham | ▶ DAZN 1
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=0560234787945a17522e284c4c22bb4df29f33b0&api_password=moifire
+#EXTINF:-1 group-title="Premier League" tvg-name="▶ DAZN 1",18:30 | Liverpool vs Fulham | ▶ DAZN 1
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151&api_password=moifire
+#EXTINF:-1 group-title="Premier League" tvg-name="▶ DAZN 1 BAR",18:30 | Liverpool vs Fulham | ▶ DAZN 1 BAR
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=1e7f5efc1913efaf7042a9b1a49d1f9adc5bc187&api_password=moifire
+#EXTINF:-1 group-title="LaLiga Hypermotion" tvg-name="▶ LALIGA TV HYPERMOTION 720P *",18:30 | Málaga vs UD Las Palmas | ▶ LALIGA TV HYPERMOTION 720P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=1f75d92098580443857caa95a719103cb83781b0&api_password=moifire
+#EXTINF:-1 group-title="LaLiga Hypermotion" tvg-name="▶ LALIGA TV HYPERMOTION 720P **",18:30 | Málaga vs UD Las Palmas | ▶ LALIGA TV HYPERMOTION 720P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=a4f072c9b614323ac1258a175f868a909ea3c8cd&api_password=moifire
+#EXTINF:-1 group-title="LaLiga Hypermotion" tvg-name="▶ LALIGA TV HYPERMOTION 1080P *",18:30 | Málaga vs UD Las Palmas | ▶ LALIGA TV HYPERMOTION 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=4636ed75106cb00e9c70cc2029edf0a4df7ad73f&api_password=moifire
+#EXTINF:-1 group-title="LaLiga Hypermotion" tvg-name="▶ LALIGA TV HYPERMOTION 1080P **",18:30 | Málaga vs UD Las Palmas | ▶ LALIGA TV HYPERMOTION 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0&api_password=moifire
+#EXTINF:-1 group-title="LaLiga Hypermotion" tvg-name="▶ HYPERMOTION",18:30 | Málaga vs UD Las Palmas | ▶ HYPERMOTION
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=58b1c4b8cb65d648505b035a04e879672fcd8e3f&api_password=moifire
+#EXTINF:-1 group-title="LaLiga Hypermotion" tvg-name="▶ HYPERMOTION",18:30 | Málaga vs UD Las Palmas | ▶ HYPERMOTION
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=fc129b39c253b887563c3f0dce5fca7e699c3047&api_password=moifire
+#EXTINF:-1 group-title="Primera FederaciónGrupo 2" tvg-name="▶ RFEF TV 1080P *",18:30 | Nástic Tarragona vs Real Murcia | ▶ RFEF TV 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=7b742628b9f7e82902bdbc1ff92eba1988875cfc&api_password=moifire
+#EXTINF:-1 group-title="Primera FederaciónGrupo 2" tvg-name="▶ CANAL 1 (1RFEF) (SOLO EVENTOS)",18:30 | Nástic Tarragona vs Real Murcia | ▶ CANAL 1 (1RFEF) (SOLO EVENTOS)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=c1ee6e1e0ef5928d8261f855c417de21794f437d&api_password=moifire
+#EXTINF:-1 group-title="Primera FederaciónGrupo 2" tvg-name="▶ CANAL 2 (1RFEF) (SOLO EVENTOS)",18:30 | Nástic Tarragona vs Real Murcia | ▶ CANAL 2 (1RFEF) (SOLO EVENTOS)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=8677d339ecddd75165c0015025f598b6215974cf&api_password=moifire
+#EXTINF:-1 group-title="Primera FEBLiga Regular" tvg-name="▶ RFEF TV 1080P *",19:00 | Básquet Coruña vs Monbus Obradoiro | ▶ RFEF TV 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=7b742628b9f7e82902bdbc1ff92eba1988875cfc&api_password=moifire
+#EXTINF:-1 group-title="Primera FEBLiga Regular" tvg-name="▶ CANAL 1 (1RFEF) (SOLO EVENTOS)",19:00 | Básquet Coruña vs Monbus Obradoiro | ▶ CANAL 1 (1RFEF) (SOLO EVENTOS)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=c1ee6e1e0ef5928d8261f855c417de21794f437d&api_password=moifire
+#EXTINF:-1 group-title="Primera FEBLiga Regular" tvg-name="▶ CANAL 2 (1RFEF) (SOLO EVENTOS)",19:00 | Básquet Coruña vs Monbus Obradoiro | ▶ CANAL 2 (1RFEF) (SOLO EVENTOS)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=8677d339ecddd75165c0015025f598b6215974cf&api_password=moifire
+#EXTINF:-1 group-title="Primera FEBLiga Regular" tvg-name="▶ RFEF TV 1080P *",19:00 | Club Ourense Baloncesto vs GA Cantabria | ▶ RFEF TV 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=7b742628b9f7e82902bdbc1ff92eba1988875cfc&api_password=moifire
+#EXTINF:-1 group-title="Primera FEBLiga Regular" tvg-name="▶ CANAL 1 (1RFEF) (SOLO EVENTOS)",19:00 | Club Ourense Baloncesto vs GA Cantabria | ▶ CANAL 1 (1RFEF) (SOLO EVENTOS)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=c1ee6e1e0ef5928d8261f855c417de21794f437d&api_password=moifire
+#EXTINF:-1 group-title="Primera FEBLiga Regular" tvg-name="▶ CANAL 2 (1RFEF) (SOLO EVENTOS)",19:00 | Club Ourense Baloncesto vs GA Cantabria | ▶ CANAL 2 (1RFEF) (SOLO EVENTOS)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=8677d339ecddd75165c0015025f598b6215974cf&api_password=moifire
+#EXTINF:-1 group-title="Primera FEBLiga Regular" tvg-name="▶ RFEF TV 1080P *",19:00 | HLA Alicante vs Gipuzkoa Basket | ▶ RFEF TV 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=7b742628b9f7e82902bdbc1ff92eba1988875cfc&api_password=moifire
+#EXTINF:-1 group-title="Primera FEBLiga Regular" tvg-name="▶ CANAL 1 (1RFEF) (SOLO EVENTOS)",19:00 | HLA Alicante vs Gipuzkoa Basket | ▶ CANAL 1 (1RFEF) (SOLO EVENTOS)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=c1ee6e1e0ef5928d8261f855c417de21794f437d&api_password=moifire
+#EXTINF:-1 group-title="Primera FEBLiga Regular" tvg-name="▶ CANAL 2 (1RFEF) (SOLO EVENTOS)",19:00 | HLA Alicante vs Gipuzkoa Basket | ▶ CANAL 2 (1RFEF) (SOLO EVENTOS)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=8677d339ecddd75165c0015025f598b6215974cf&api_password=moifire
+#EXTINF:-1 group-title="Primera FEBLiga Regular" tvg-name="▶ RFEF TV 1080P *",19:00 | Oviedo Baloncesto vs Baloncesto Fuenlabrada | ▶ RFEF TV 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=7b742628b9f7e82902bdbc1ff92eba1988875cfc&api_password=moifire
+#EXTINF:-1 group-title="Primera FEBLiga Regular" tvg-name="▶ CANAL 1 (1RFEF) (SOLO EVENTOS)",19:00 | Oviedo Baloncesto vs Baloncesto Fuenlabrada | ▶ CANAL 1 (1RFEF) (SOLO EVENTOS)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=c1ee6e1e0ef5928d8261f855c417de21794f437d&api_password=moifire
+#EXTINF:-1 group-title="Primera FEBLiga Regular" tvg-name="▶ CANAL 2 (1RFEF) (SOLO EVENTOS)",19:00 | Oviedo Baloncesto vs Baloncesto Fuenlabrada | ▶ CANAL 2 (1RFEF) (SOLO EVENTOS)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=8677d339ecddd75165c0015025f598b6215974cf&api_password=moifire
+#EXTINF:-1 group-title="Liga EndesaLiga Regular" tvg-name="▶ ACB EVENTO 01 720P **",19:00 | Río Breogán vs MoraBanc Andorra | ▶ ACB EVENTO 01 720P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=23bee556c002d0726c1f0cac98a1901cff0a9239&api_password=moifire
+#EXTINF:-1 group-title="Liga ASOBAL" tvg-name="▶ RFEF TV 1080P *",19:30 | BM Logroño La Rioja vs Bidasoa Irún | ▶ RFEF TV 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=7b742628b9f7e82902bdbc1ff92eba1988875cfc&api_password=moifire
+#EXTINF:-1 group-title="Liga ASOBAL" tvg-name="▶ CANAL 1 (1RFEF) (SOLO EVENTOS)",19:30 | BM Logroño La Rioja vs Bidasoa Irún | ▶ CANAL 1 (1RFEF) (SOLO EVENTOS)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=c1ee6e1e0ef5928d8261f855c417de21794f437d&api_password=moifire
+#EXTINF:-1 group-title="Liga ASOBAL" tvg-name="▶ CANAL 2 (1RFEF) (SOLO EVENTOS)",19:30 | BM Logroño La Rioja vs Bidasoa Irún | ▶ CANAL 2 (1RFEF) (SOLO EVENTOS)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=8677d339ecddd75165c0015025f598b6215974cf&api_password=moifire
+#EXTINF:-1 group-title="Primera FEBLiga Regular" tvg-name="▶ RFEF TV 1080P *",19:30 | CB Zamora vs Fibwi Palma | ▶ RFEF TV 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=7b742628b9f7e82902bdbc1ff92eba1988875cfc&api_password=moifire
+#EXTINF:-1 group-title="Primera FEBLiga Regular" tvg-name="▶ CANAL 1 (1RFEF) (SOLO EVENTOS)",19:30 | CB Zamora vs Fibwi Palma | ▶ CANAL 1 (1RFEF) (SOLO EVENTOS)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=c1ee6e1e0ef5928d8261f855c417de21794f437d&api_password=moifire
+#EXTINF:-1 group-title="Primera FEBLiga Regular" tvg-name="▶ CANAL 2 (1RFEF) (SOLO EVENTOS)",19:30 | CB Zamora vs Fibwi Palma | ▶ CANAL 2 (1RFEF) (SOLO EVENTOS)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=8677d339ecddd75165c0015025f598b6215974cf&api_password=moifire
+#EXTINF:-1 group-title="Liga Femenina EndesaLiga Regular" tvg-name="▶ RFEF TV 1080P *",19:30 | Movistar Estudiantes vs Perfumerías Avenida | ▶ RFEF TV 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=7b742628b9f7e82902bdbc1ff92eba1988875cfc&api_password=moifire
+#EXTINF:-1 group-title="Liga Femenina EndesaLiga Regular" tvg-name="▶ CANAL 1 (1RFEF) (SOLO EVENTOS)",19:30 | Movistar Estudiantes vs Perfumerías Avenida | ▶ CANAL 1 (1RFEF) (SOLO EVENTOS)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=c1ee6e1e0ef5928d8261f855c417de21794f437d&api_password=moifire
+#EXTINF:-1 group-title="Liga Femenina EndesaLiga Regular" tvg-name="▶ CANAL 2 (1RFEF) (SOLO EVENTOS)",19:30 | Movistar Estudiantes vs Perfumerías Avenida | ▶ CANAL 2 (1RFEF) (SOLO EVENTOS)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=8677d339ecddd75165c0015025f598b6215974cf&api_password=moifire
+#EXTINF:-1 group-title="Saudi Pro League" tvg-name="▶ M+ VAMOS 3 720P **",20:00 | Al Akhdoud vs Al Nassr | ▶ M+ VAMOS 3 720P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=837883625d40e1eb5566eefaf74811046491f53a&api_password=moifire
+#EXTINF:-1 group-title="Saudi Pro League" tvg-name="▶ M+ VAMOS 3 1080P *",20:00 | Al Akhdoud vs Al Nassr | ▶ M+ VAMOS 3 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=a9299052e9a16e5e2924e1fdd00b877c374f9e96&api_password=moifire
+#EXTINF:-1 group-title="Saudi Pro League" tvg-name="▶ M+ VAMOS 3 1080P *",20:00 | Al Akhdoud vs Al Nassr | ▶ M+ VAMOS 3 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=b46a524780cf0ac5e533491fe79389d6198acf2c&api_password=moifire
+#EXTINF:-1 group-title="Saudi Pro League" tvg-name="▶ M+ VAMOS 3 1080P **",20:00 | Al Akhdoud vs Al Nassr | ▶ M+ VAMOS 3 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=b7b1c1eeb4be09c63fbc2f319c9760851c274455&api_password=moifire
+#EXTINF:-1 group-title="Saudi Pro League" tvg-name="▶ M+ LIGA DE CAMPEONES 2 1080P *",20:00 | Al Akhdoud vs Al Nassr | ▶ M+ LIGA DE CAMPEONES 2 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=8156912ae14f6174a19c8a4efcf36a06e847f632&api_password=moifire
+#EXTINF:-1 group-title="Saudi Pro League" tvg-name="▶ LIGA DE CAMPEONES 2",20:00 | Al Akhdoud vs Al Nassr | ▶ LIGA DE CAMPEONES 2
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb&api_password=moifire
+#EXTINF:-1 group-title="Saudi Pro League" tvg-name="▶ LIGA DE CAMPEONES 2",20:00 | Al Akhdoud vs Al Nassr | ▶ LIGA DE CAMPEONES 2
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=4fc6d0331830ad8743abab2fe2473b63bdfbc49f&api_password=moifire
+#EXTINF:-1 group-title="Saudi Pro League" tvg-name="▶ LIGA DE CAMPEONES 2",20:00 | Al Akhdoud vs Al Nassr | ▶ LIGA DE CAMPEONES 2
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=498c56bd00f535e440c392de5af992421a31355c&api_password=moifire
+#EXTINF:-1 group-title="Saudi Pro League" tvg-name="▶ LIGA DE CAMPEONES 2",20:00 | Al Akhdoud vs Al Nassr | ▶ LIGA DE CAMPEONES 2
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=4b18a3b32df5960ed950fa907f8d509b1ad2a188&api_password=moifire
+#EXTINF:-1 group-title="Saudi Pro League" tvg-name="▶ LIGA DE CAMPEONES 2",20:00 | Al Akhdoud vs Al Nassr | ▶ LIGA DE CAMPEONES 2
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=ea03cc51980996ba6f2da49e30eee1de8a66ae54&api_password=moifire
+#EXTINF:-1 group-title="Saudi Pro League" tvg-name="▶ LIGA DE CAMPEONES 2",20:00 | Al Akhdoud vs Al Nassr | ▶ LIGA DE CAMPEONES 2
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea&api_password=moifire
+#EXTINF:-1 group-title="Liga EndesaLiga Regular" tvg-name="▶ ACB EVENTO 01 720P **",20:00 | La Laguna Tenerife vs Basquet Girona | ▶ ACB EVENTO 01 720P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=23bee556c002d0726c1f0cac98a1901cff0a9239&api_password=moifire
+#EXTINF:-1 group-title="Primera FEBLiga Regular" tvg-name="▶ RFEF TV 1080P *",20:30 | FC Cartagena CB vs Basquet Menorca | ▶ RFEF TV 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=7b742628b9f7e82902bdbc1ff92eba1988875cfc&api_password=moifire
+#EXTINF:-1 group-title="Primera FEBLiga Regular" tvg-name="▶ CANAL 1 (1RFEF) (SOLO EVENTOS)",20:30 | FC Cartagena CB vs Basquet Menorca | ▶ CANAL 1 (1RFEF) (SOLO EVENTOS)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=c1ee6e1e0ef5928d8261f855c417de21794f437d&api_password=moifire
+#EXTINF:-1 group-title="Primera FEBLiga Regular" tvg-name="▶ CANAL 2 (1RFEF) (SOLO EVENTOS)",20:30 | FC Cartagena CB vs Basquet Menorca | ▶ CANAL 2 (1RFEF) (SOLO EVENTOS)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=8677d339ecddd75165c0015025f598b6215974cf&api_password=moifire
+#EXTINF:-1 group-title="Liga ASOBAL" tvg-name="▶ RFEF TV 1080P *",20:30 | Recoletas At. Valladolid vs BM Cangas | ▶ RFEF TV 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=7b742628b9f7e82902bdbc1ff92eba1988875cfc&api_password=moifire
+#EXTINF:-1 group-title="Liga ASOBAL" tvg-name="▶ CANAL 1 (1RFEF) (SOLO EVENTOS)",20:30 | Recoletas At. Valladolid vs BM Cangas | ▶ CANAL 1 (1RFEF) (SOLO EVENTOS)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=c1ee6e1e0ef5928d8261f855c417de21794f437d&api_password=moifire
+#EXTINF:-1 group-title="Liga ASOBAL" tvg-name="▶ CANAL 2 (1RFEF) (SOLO EVENTOS)",20:30 | Recoletas At. Valladolid vs BM Cangas | ▶ CANAL 2 (1RFEF) (SOLO EVENTOS)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=8677d339ecddd75165c0015025f598b6215974cf&api_password=moifire
+#EXTINF:-1 group-title="Serie A Italiana" tvg-name="▶ CALCIO EVENTOS",20:45 | Atalanta vs Juventus | ▶ CALCIO EVENTOS
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=1e045b7e16a5c2c3e5a8c0c0176efa26b63d7955&api_password=moifire
+#EXTINF:-1 group-title="LaLiga Hypermotion" tvg-name="▶ LALIGA TV HYPERMOTION 720P *",21:00 | Córdoba vs Real Zaragoza | ▶ LALIGA TV HYPERMOTION 720P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=1f75d92098580443857caa95a719103cb83781b0&api_password=moifire
+#EXTINF:-1 group-title="LaLiga Hypermotion" tvg-name="▶ LALIGA TV HYPERMOTION 720P **",21:00 | Córdoba vs Real Zaragoza | ▶ LALIGA TV HYPERMOTION 720P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=a4f072c9b614323ac1258a175f868a909ea3c8cd&api_password=moifire
+#EXTINF:-1 group-title="LaLiga Hypermotion" tvg-name="▶ LALIGA TV HYPERMOTION 1080P *",21:00 | Córdoba vs Real Zaragoza | ▶ LALIGA TV HYPERMOTION 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=4636ed75106cb00e9c70cc2029edf0a4df7ad73f&api_password=moifire
+#EXTINF:-1 group-title="LaLiga Hypermotion" tvg-name="▶ LALIGA TV HYPERMOTION 1080P **",21:00 | Córdoba vs Real Zaragoza | ▶ LALIGA TV HYPERMOTION 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0&api_password=moifire
+#EXTINF:-1 group-title="LaLiga Hypermotion" tvg-name="▶ HYPERMOTION",21:00 | Córdoba vs Real Zaragoza | ▶ HYPERMOTION
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=58b1c4b8cb65d648505b035a04e879672fcd8e3f&api_password=moifire
+#EXTINF:-1 group-title="LaLiga Hypermotion" tvg-name="▶ HYPERMOTION",21:00 | Córdoba vs Real Zaragoza | ▶ HYPERMOTION
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=fc129b39c253b887563c3f0dce5fca7e699c3047&api_password=moifire
+#EXTINF:-1 group-title="Primera FederaciónGrupo 1" tvg-name="▶ RFEF TV 1080P *",21:00 | Racing Ferrol vs RM Castilla | ▶ RFEF TV 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=7b742628b9f7e82902bdbc1ff92eba1988875cfc&api_password=moifire
+#EXTINF:-1 group-title="Primera FederaciónGrupo 1" tvg-name="▶ CANAL 1 (1RFEF) (SOLO EVENTOS)",21:00 | Racing Ferrol vs RM Castilla | ▶ CANAL 1 (1RFEF) (SOLO EVENTOS)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=c1ee6e1e0ef5928d8261f855c417de21794f437d&api_password=moifire
+#EXTINF:-1 group-title="Primera FederaciónGrupo 1" tvg-name="▶ CANAL 2 (1RFEF) (SOLO EVENTOS)",21:00 | Racing Ferrol vs RM Castilla | ▶ CANAL 2 (1RFEF) (SOLO EVENTOS)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=8677d339ecddd75165c0015025f598b6215974cf&api_password=moifire
+#EXTINF:-1 group-title="Primera FederaciónGrupo 1" tvg-name="▶ TELEDEPORTE 720P **",21:00 | Racing Ferrol vs RM Castilla | ▶ TELEDEPORTE 720P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=b0d1489c9f3239349665ad5ab423363f2b02e5ae&api_password=moifire
+#EXTINF:-1 group-title="Primera FederaciónGrupo 1" tvg-name="▶ TELEDEPORTE 1080P **",21:00 | Racing Ferrol vs RM Castilla | ▶ TELEDEPORTE 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=3b50a1dca0977e3761d016edd79314ab797f74f6&api_password=moifire
+#EXTINF:-1 group-title="Primera FederaciónGrupo 1" tvg-name="▶ TELEDEPORTE 1080P **",21:00 | Racing Ferrol vs RM Castilla | ▶ TELEDEPORTE 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=77cf022557c56cdf8d8115f50e61f846ad72ee05&api_password=moifire
+#EXTINF:-1 group-title="Primera FederaciónGrupo 1" tvg-name="▶ TELEDEPORTE",21:00 | Racing Ferrol vs RM Castilla | ▶ TELEDEPORTE
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=2d997da301573c5aba78f969d0d37eb6107941b2&api_password=moifire
+#EXTINF:-1 group-title="Primera FederaciónGrupo 1" tvg-name="▶ TELEDEPORTE",21:00 | Racing Ferrol vs RM Castilla | ▶ TELEDEPORTE
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=7d910d9480e023608d1fe77eaf47c2ed34592155&api_password=moifire
+#EXTINF:-1 group-title="Primera FederaciónGrupo 1" tvg-name="▶ LA 1",21:00 | Racing Ferrol vs RM Castilla | ▶ LA 1
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=dad5e0e0825cb3e410008f1c4252387b868e740c&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ M+ LALIGA 720P *",21:00 | Sevilla FC vs At. Madrid | ▶ M+ LALIGA 720P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=3ace1463a7cad979c3a4002b245487e9982e9f1a&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ M+ LALIGA 720P *",21:00 | Sevilla FC vs At. Madrid | ▶ M+ LALIGA 720P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=f863873de9f7b2996dde19a0657dd89835af3007&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ M+ LALIGA 720P **",21:00 | Sevilla FC vs At. Madrid | ▶ M+ LALIGA 720P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ M+ LALIGA 1080P *",21:00 | Sevilla FC vs At. Madrid | ▶ M+ LALIGA 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=0febfb5cac3384f487d55c559bbfc877db2d0357&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ M+ LALIGA 1080P **",21:00 | Sevilla FC vs At. Madrid | ▶ M+ LALIGA 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ M+ LALIGA 1080P **",21:00 | Sevilla FC vs At. Madrid | ▶ M+ LALIGA 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=c9321006921967d6258df6945f1d598a5c0cbf1e&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ M+ LALIGA 1080P **",21:00 | Sevilla FC vs At. Madrid | ▶ M+ LALIGA 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=4b528d10eaad747ddf52251206177573ee3e9f74&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ M+ LALIGA 2 720P **",21:00 | Sevilla FC vs At. Madrid | ▶ M+ LALIGA 2 720P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ M+ LALIGA 2 1080P **",21:00 | Sevilla FC vs At. Madrid | ▶ M+ LALIGA 2 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=51b363b1c4d42724e05240ad068ad219df8042ec&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ M+ LALIGA 2 *",21:00 | Sevilla FC vs At. Madrid | ▶ M+ LALIGA 2 *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=2c01306506e268ba726f5c30222923b6168a5404&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ M+ LALIGA 2 *",21:00 | Sevilla FC vs At. Madrid | ▶ M+ LALIGA 2 *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=b45cfe568e106a7df65c950805d6f123c989ce84&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ SKY SPORTS LALIGA 1080P **",21:00 | Sevilla FC vs At. Madrid | ▶ SKY SPORTS LALIGA 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=e9975d38aaa4475ac0b1fa0faa541bbadd85a662&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ SKY SPORTS LALIGA SD **",21:00 | Sevilla FC vs At. Madrid | ▶ SKY SPORTS LALIGA SD **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=a9bddffdff085cdc18b34218d5dc1093b88e3c0a&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ M+ LALIGA",21:00 | Sevilla FC vs At. Madrid | ▶ M+ LALIGA
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=af458073c3096293a4dea9f369d4f308e7125bd6&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ M+ LALIGA",21:00 | Sevilla FC vs At. Madrid | ▶ M+ LALIGA
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=b3bdd6ef7f795c4f321a3ce5cf4907338f462929&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ M+ LALIGA",21:00 | Sevilla FC vs At. Madrid | ▶ M+ LALIGA
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ M+ LALIGA 2",21:00 | Sevilla FC vs At. Madrid | ▶ M+ LALIGA 2
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=caa631e8850e3eb5e7c039063dd8a339ccef1176&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ M+ LALIGA 2",21:00 | Sevilla FC vs At. Madrid | ▶ M+ LALIGA 2
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=b8eb9c9868d487402569bba2d97a8af113d033fe&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ M+ LALIGA 3",21:00 | Sevilla FC vs At. Madrid | ▶ M+ LALIGA 3
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=c9afaf4965ad627ea6983fec9f63e0c1e857028d&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ M+ LALIGA 3",21:00 | Sevilla FC vs At. Madrid | ▶ M+ LALIGA 3
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=571ce113b9d600a145766443d7417eccab2e1846&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ M+ LALIGA 4",21:00 | Sevilla FC vs At. Madrid | ▶ M+ LALIGA 4
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=22178d72e0f255dedd7e56f9474fea879289a6f1&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ SKY SPORTS LALIGA",21:00 | Sevilla FC vs At. Madrid | ▶ SKY SPORTS LALIGA
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=2fab80a8445e31cb98169c0907600e1545ea8557&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ M+ VAMOS 2 720P **",21:00 | Sevilla FC vs At. Madrid | ▶ M+ VAMOS 2 720P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=4ee16a7f854219fa2974ef1468e6b2f8574189dd&api_password=moifire
+#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ M+ VAMOS 2 1080P *",21:00 | Sevilla FC vs At. Madrid | ▶ M+ VAMOS 2 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=5e310dbffed8c941d20ad819cb8ef43c34b07884&api_password=moifire
+#EXTINF:-1 group-title="Liga EndesaLiga Regular" tvg-name="▶ ACB EVENTO 01 720P **",21:00 | UCAM Murcia CB vs Coviran Granada | ▶ ACB EVENTO 01 720P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=23bee556c002d0726c1f0cac98a1901cff0a9239&api_password=moifire
+#EXTINF:-1 group-title="Velada" tvg-name="▶ M+ VAMOS 1080P *",21:30 | WOW 29Roig Arena (Valencia) vs M+ Vamos (8 y 50)M+ #Vamos Bar (304)Movistar+ LiteM+ Deportes (63) | ▶ M+ VAMOS 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc&api_password=moifire
+#EXTINF:-1 group-title="Velada" tvg-name="▶ M+ DEPORTES 1080P *",21:30 | WOW 29Roig Arena (Valencia) vs M+ Vamos (8 y 50)M+ #Vamos Bar (304)Movistar+ LiteM+ Deportes (63) | ▶ M+ DEPORTES 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=c6a824a81b36f6c3529826477caf2ad94b45776d&api_password=moifire
+#EXTINF:-1 group-title="Velada" tvg-name="▶ M+ DEPORTES 1080P **",21:30 | WOW 29Roig Arena (Valencia) vs M+ Vamos (8 y 50)M+ #Vamos Bar (304)Movistar+ LiteM+ Deportes (63) | ▶ M+ DEPORTES 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=ebca4a63ce3bfda7b272964a1acc5227218184a4&api_password=moifire
+#EXTINF:-1 group-title="Masters de Augusta" tvg-name="▶ M+ VAMOS 1080P *",23:30 | Jornada 3 vs M+ Vamos (8 y 50)M+ #Vamos Bar (304)Movistar+ LiteMovistar Golf (M67) | ▶ M+ VAMOS 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc&api_password=moifire
+#EXTINF:-1 group-title="Masters de Augusta" tvg-name="▶ M+ GOLF 720P *",23:30 | Jornada 3 vs M+ Vamos (8 y 50)M+ #Vamos Bar (304)Movistar+ LiteMovistar Golf (M67) | ▶ M+ GOLF 720P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=f60535a458b3c114283e2f433379144345beddd6&api_password=moifire
+#EXTINF:-1 group-title="Masters de Augusta" tvg-name="▶ M+ GOLF 1080P **",23:30 | Jornada 3 vs M+ Vamos (8 y 50)M+ #Vamos Bar (304)Movistar+ LiteMovistar Golf (M67) | ▶ M+ GOLF 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=8121478d3d3e563ad6b98018bc1c0aeb2f6166eb&api_password=moifire
+#EXTINF:-1 group-title="Masters de Augusta" tvg-name="▶ M+ GOLF 2 *",23:30 | Jornada 3 vs M+ Vamos (8 y 50)M+ #Vamos Bar (304)Movistar+ LiteMovistar Golf (M67) | ▶ M+ GOLF 2 *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=ac321484243571f59e077f2a2521e648dc0c7b03&api_password=moifire
+#EXTINF:-1 group-title="Masters de Augusta" tvg-name="▶ MOVISTAR GOLF",23:30 | Jornada 3 vs M+ Vamos (8 y 50)M+ #Vamos Bar (304)Movistar+ LiteMovistar Golf (M67) | ▶ MOVISTAR GOLF
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=8546cff89e4ee8bf3ad31cf6457c3bc2c4341031&api_password=moifire
+#EXTINF:-1 group-title="Masters de Augusta" tvg-name="▶ MOVISTAR GOLF",23:30 | Jornada 3 vs M+ Vamos (8 y 50)M+ #Vamos Bar (304)Movistar+ LiteMovistar Golf (M67) | ▶ MOVISTAR GOLF
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=9be118a64eb603b5eb62be6cf27631d3891b5174&api_password=moifire
+#EXTINF:-1 group-title="Masters de Augusta" tvg-name="▶ MOVISTAR GOLF",23:30 | Jornada 3 vs M+ Vamos (8 y 50)M+ #Vamos Bar (304)Movistar+ LiteMovistar Golf (M67) | ▶ MOVISTAR GOLF
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=872608e734992db636eb79426802cd08f4029afb&api_password=moifire
 
 # RESUMEN FINAL DE EVENTOS
 # 001. 11:00 | J. Fonseca vs A. Zverev
