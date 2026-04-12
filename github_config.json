@@ -1,4 +1,5 @@
 {
   "base_url": "https://moifire.github.io/creadorflayersdeportivos",
-  "playlist_name": "eventos_acestream_hosting_pro.m3u"
+  "playlist_name": "eventos_acestream_hosting_pro.m3u",
+  "agenda_json": "agenda_deportiva.json"
 }
