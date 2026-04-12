@@ -9,6 +9,7 @@ SOURCE_M3U = ROOT / "eventos_acestream.m3u"
 CARDS_DIR = ROOT / "cards"
 BACKDROPS_DIR = ROOT / "backdrops"
 CHANNEL_LOGOS_DIR = ROOT / "channel_logos"
+AGENDA_JSON = ROOT / "agenda_deportiva.json"
 
 CARD_W, CARD_H = 700, 1050
 BG_W, BG_H = 1280, 720
@@ -22,6 +23,7 @@ SPORT_STYLES = {
     "combate": {"bg1": (28,10,22), "bg2": (110,20,86), "accent": (255,113,196), "label": "COMBATE"},
     "default": {"bg1": (10,18,36), "bg2": (30,44,90), "accent": (230,236,255), "label": "DEPORTE"},
 }
+
 CHANNEL_BADGES = [
     {"match": ["dazn"], "text": "DAZN", "bg": (15,15,18), "fg": (255,255,255), "file": "dazn.png"},
     {"match": ["movistar laliga", "m+ laliga"], "text": "M+ LALIGA", "bg": (20,44,96), "fg": (255,255,255), "file": "movistar_laliga.png"},
@@ -36,34 +38,42 @@ CHANNEL_BADGES = [
 
 def load_config():
     return json.loads(CONFIG_FILE.read_text(encoding="utf-8"))
+
 def infer_sport(group_title, tvg_name, title):
     blob = f"{group_title} {tvg_name} {title}".lower()
     if any(x in blob for x in ["nba","euroliga","euroleague","baloncesto","basket","acb","básquet"]): return "baloncesto"
     if any(x in blob for x in ["tenis","atp","wta","wimbledon","roland","montecarlo","masters","us open"]): return "tenis"
     if any(x in blob for x in ["f1","formula","motogp","moto gp","motor","rally","nascar"]): return "motor"
-    if any(x in blob for x in ["tour","giro","vuelta","ciclismo","uci"]): return "ciclismo"
+    if any(x in blob for x in ["tour","giro","vuelta","ciclismo","uci","paris-roubaix","roubaix"]): return "ciclismo"
     if any(x in blob for x in ["ufc","mma","boxeo","combate","wrestling"]): return "combate"
     if any(x in blob for x in ["liga","champions","premier","futbol","fútbol","laliga","bundesliga","serie a","1rfef","copa"]): return "futbol"
     return "default"
+
 def normalize_channel(name):
     s = re.sub(r"^[▶>\-\s]+", "", name or "").strip()
     s = re.sub(r"\s+\*+$", "", s).strip()
     s = re.sub(r"\s{2,}", " ", s)
     return s.replace("M+ ", "Movistar ").strip()
+
 def split_title(title):
     parts = [p.strip() for p in (title or "").split("|")]
     return (parts[0] if len(parts)>0 else "", parts[1] if len(parts)>1 else (title or "").strip(), parts[2] if len(parts)>2 else "")
+
 def clean_match_text(text):
     return re.sub(r"\s+", " ", (text or "").replace(" vs. ", " vs ").replace(" Vs ", " vs ").replace(" v ", " vs ")).strip()
+
 def clean_group_text(text):
     s = re.sub(r"\s+", " ", text or "").strip()
     return s.replace("TV · ", "").replace("TV . ", "").replace("TV·", "").replace("Regular - TV channel", "Regular").replace(" - TV channel", "").strip()
+
 def hash_id(*parts): return hashlib.md5("||".join(parts).encode("utf-8")).hexdigest()[:16]
+
 def get_font(size, bold=False):
     c = ["/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"] if bold else ["/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"]
     for p in c:
         if Path(p).exists(): return ImageFont.truetype(p, size)
     return ImageFont.load_default()
+
 def rounded_gradient_background(size, c1, c2):
     w,h = size
     img = Image.new("RGBA", size, (0,0,0,255))
@@ -73,6 +83,7 @@ def rounded_gradient_background(size, c1, c2):
         r = int(c1[0]*(1-t)+c2[0]*t); g = int(c1[1]*(1-t)+c2[1]*t); b = int(c1[2]*(1-t)+c2[2]*t)
         for x in range(w): px[x,y]=(r,g,b,255)
     return img
+
 def draw_centered_lines(draw, box, lines, font, fill, line_spacing=8):
     x1,y1,x2,y2 = box
     boxes = [draw.textbbox((0,0), line, font=font) for line in lines]
@@ -84,6 +95,7 @@ def draw_centered_lines(draw, box, lines, font, fill, line_spacing=8):
         x = x1+(x2-x1-tw)//2
         draw.text((x,y), line, font=font, fill=fill)
         y += th+line_spacing
+
 def fit_title_lines(draw, text, font, max_width, max_lines=3):
     words = (text or "").split()
     if not words: return [""]
@@ -99,6 +111,7 @@ def fit_title_lines(draw, text, font, max_width, max_lines=3):
     result=compact[:max_lines]; last=result[-1]
     while draw.textbbox((0,0), last+"…", font=font)[2] > max_width and len(last)>3: last=last[:-1]
     result[-1]=last.rstrip()+"…"; return result
+
 def ellipsize(draw, text, font, max_width):
     text = text or ""
     if draw.textbbox((0,0), text, font=font)[2] <= max_width: return text
@@ -107,6 +120,7 @@ def ellipsize(draw, text, font, max_width):
         base=base[:-1]; cand=base.rstrip()+"…"
         if draw.textbbox((0,0), cand, font=font)[2] <= max_width: return cand
     return text
+
 def get_channel_badge(channel_txt):
     blob=(channel_txt or "").lower()
     for item in CHANNEL_BADGES:
@@ -114,6 +128,7 @@ def get_channel_badge(channel_txt):
     cleaned=re.sub(r"[^A-Za-z0-9+ ]","",channel_txt or "").upper().split()
     text = "TV" if not cleaned else (cleaned[0][:10] if len(cleaned)==1 else " ".join(cleaned[:2])[:12])
     return {"text": text, "bg": (255,255,255), "fg": (0,0,0), "file": None}
+
 def draw_badge(draw, x, y, text, bg, fg, font, accent=None):
     bbox=draw.textbbox((0,0), text, font=font)
     w=max(110,min(240,(bbox[2]-bbox[0])+34)); h=52
@@ -121,12 +136,14 @@ def draw_badge(draw, x, y, text, bg, fg, font, accent=None):
     tw=bbox[2]-bbox[0]; th=bbox[3]-bbox[1]
     draw.text((x+(w-tw)//2, y+(h-th)//2-1), text, font=font, fill=fg)
     if accent: draw.rounded_rectangle((x+10,y+h-7,x+w-10,y+h-3), radius=2, fill=accent)
+
 def paste_channel_logo(base_img, logo_path, x, y, box_w, box_h):
     logo = Image.open(logo_path).convert("RGBA"); logo.thumbnail((box_w,box_h), Image.LANCZOS)
     pad=10; card=Image.new("RGBA",(box_w+pad*2,box_h+pad*2),(0,0,0,0))
     d=ImageDraw.Draw(card); d.rounded_rectangle((0,0,card.size[0],card.size[1]), radius=18, fill=(255,255,255,235))
     lx=(card.size[0]-logo.size[0])//2; ly=(card.size[1]-logo.size[1])//2
     card.alpha_composite(logo,(lx,ly)); base_img.alpha_composite(card,(x,y))
+
 def make_card_and_backdrop(uid, group_title, tvg_name, title):
     sport=infer_sport(group_title,tvg_name,title); style=SPORT_STYLES[sport]
     time_txt, match_txt, channel_txt = split_title(title)
@@ -190,32 +207,74 @@ def make_card_and_backdrop(uid, group_title, tvg_name, title):
     if not logo_done: draw_badge(draw,1000,86,badge["text"],tuple(badge["bg"]),tuple(badge["fg"]),bg_badge,tuple(style["accent"]))
     backdrop_path=BACKDROPS_DIR / f"{uid}_bg.png"; bg.convert("RGB").save(backdrop_path, format="PNG", optimize=True)
     return card_path.name, backdrop_path.name
+
 def parse_attrs(line):
     attrs={}
     for k,v in re.findall(r'([a-zA-Z0-9\-_]+)="([^"]*)"', line): attrs[k]=v
     return attrs
+
 def build():
-    cfg=load_config(); base_url=cfg["base_url"].rstrip("/"); playlist_name=cfg.get("playlist_name","eventos_acestream_hosting_pro.m3u")
-    raw=SOURCE_M3U.read_text(encoding="utf-8", errors="ignore").splitlines(); out_lines=["#EXTM3U"]
-    CARDS_DIR.mkdir(parents=True, exist_ok=True); BACKDROPS_DIR.mkdir(parents=True, exist_ok=True)
+    cfg=load_config()
+    base_url=cfg["base_url"].rstrip("/")
+    playlist_name=cfg.get("playlist_name","eventos_acestream_hosting_pro.m3u")
+    agenda_name=cfg.get("agenda_json","agenda_deportiva.json")
+
+    raw=SOURCE_M3U.read_text(encoding="utf-8", errors="ignore").splitlines()
+    out_lines=["#EXTM3U"]
+    agenda=[]
+
+    CARDS_DIR.mkdir(parents=True, exist_ok=True)
+    BACKDROPS_DIR.mkdir(parents=True, exist_ok=True)
+
     i=0
     while i < len(raw):
         line=raw[i].rstrip("\n")
         if line.startswith("#EXTINF"):
-            attrs=parse_attrs(line); display_name=line.split(",",1)[1] if "," in line else ""; group_title=attrs.get("group-title",""); tvg_name=attrs.get("tvg-name","")
-            uid=hash_id(group_title,tvg_name,display_name); card_name,bg_name=make_card_and_backdrop(uid,group_title,tvg_name,display_name)
+            attrs=parse_attrs(line)
+            display_name=line.split(",",1)[1] if "," in line else ""
+            group_title=attrs.get("group-title","")
+            tvg_name=attrs.get("tvg-name","")
+
+            uid=hash_id(group_title,tvg_name,display_name)
+            card_name,bg_name=make_card_and_backdrop(uid,group_title,tvg_name,display_name)
+
             attrs["tvg-id"]=attrs.get("tvg-id", normalize_channel(tvg_name).replace(" ","."))
-            attrs["tvg-logo"]=f"{base_url}/cards/{card_name}"; attrs["tvg-background"]=f"{base_url}/backdrops/{bg_name}"
-            ordered=["tvg-id","tvg-name","tvg-logo","tvg-background","group-title"]; parts=[]
+            attrs["tvg-logo"]=f"{base_url}/cards/{card_name}"
+            attrs["tvg-background"]=f"{base_url}/backdrops/{bg_name}"
+
+            time_txt, match_txt, channel_txt = split_title(display_name)
+            sport_key = infer_sport(group_title, tvg_name, display_name)
+            sport_label = SPORT_STYLES[sport_key]["label"]
+
+            agenda.append({
+                "category": clean_group_text(group_title) or "OTROS",
+                "sport": sport_label,
+                "time": time_txt or "",
+                "title": clean_match_text(match_txt),
+                "subtitle": clean_group_text(group_title),
+                "channel": normalize_channel(channel_txt or tvg_name),
+                "backdrop": f"{base_url}/backdrops/{bg_name}"
+            })
+
+            ordered=["tvg-id","tvg-name","tvg-logo","tvg-background","group-title"]
+            parts=[]
             for k in ordered:
                 if attrs.get(k): parts.append(f'{k}="{attrs[k]}"')
             for k,v in attrs.items():
                 if k not in ordered and v: parts.append(f'{k}="{v}"')
             out_lines.append(f'#EXTINF:-1 {" ".join(parts)},{display_name}')
-            if i+1 < len(raw): out_lines.append(raw[i+1].rstrip("\n")); i+=2; continue
-        elif line and line != "#EXTM3U": out_lines.append(line)
+            if i+1 < len(raw):
+                out_lines.append(raw[i+1].rstrip("\n"))
+                i+=2
+                continue
+        elif line and line != "#EXTM3U":
+            out_lines.append(line)
         i+=1
+
     (ROOT / playlist_name).write_text("\n".join(out_lines)+"\n", encoding="utf-8")
+    (ROOT / agenda_name).write_text(json.dumps(agenda, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"OK: {ROOT / playlist_name}")
+    print(f"OK: {ROOT / agenda_name}")
+
 if __name__ == "__main__":
     build()

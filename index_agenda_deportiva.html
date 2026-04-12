@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Agenda deportiva | MoiTube</title>
+  <style>
+    :root{
+      --bg:#070b14;--panel:#0d1322;--text:#ffffff;--muted:#b8c2d9;--line:rgba(255,255,255,.08);
+      --accent:#e50914;--shadow:0 10px 30px rgba(0,0,0,.35);--radius:18px;
+    }
+    *{box-sizing:border-box}
+    html,body{margin:0;padding:0;background:linear-gradient(180deg,#05070d 0%, #08101d 100%);color:var(--text);font-family:Arial,Helvetica,sans-serif}
+    .hero{position:sticky;top:0;z-index:20;backdrop-filter:blur(14px);background:linear-gradient(180deg,rgba(6,10,18,.92),rgba(6,10,18,.72));border-bottom:1px solid var(--line)}
+    .wrap{max-width:1400px;margin:0 auto;padding:0 22px}
+    .hero-inner{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:20px 0}
+    .brand{display:flex;align-items:center;gap:14px}
+    .logo-dot{width:14px;height:14px;border-radius:50%;background:var(--accent);box-shadow:0 0 18px rgba(229,9,20,.55)}
+    h1{margin:0;font-size:32px;font-weight:900}
+    .sub{margin-top:6px;color:var(--muted);font-size:14px}
+    .hero-right{display:flex;gap:12px;align-items:center;flex-wrap:wrap;justify-content:flex-end}
+    .pill{border:1px solid var(--line);background:rgba(255,255,255,.04);color:#fff;padding:10px 14px;border-radius:999px;font-size:13px;font-weight:700}
+    .search{min-width:240px;background:#0f1627;border:1px solid var(--line);color:#fff;border-radius:999px;padding:12px 16px;font-size:14px;outline:none}
+    main{padding:26px 0 50px}
+    .section{margin-bottom:34px}
+    .section-head{display:flex;align-items:end;justify-content:space-between;gap:12px;margin-bottom:14px}
+    .section h2{margin:0;font-size:24px;font-weight:900}
+    .section small{color:var(--muted);font-size:13px}
+    .rail{
+      display:grid;grid-template-columns:repeat(auto-fill,minmax(310px,1fr));gap:18px
+    }
+    .card{position:relative;overflow:hidden;border-radius:var(--radius);border:1px solid rgba(255,255,255,.08);background:var(--panel);min-height:210px;box-shadow:var(--shadow);transition:transform .22s ease, box-shadow .22s ease}
+    .card:hover{transform:translateY(-4px) scale(1.01);box-shadow:0 18px 42px rgba(0,0,0,.48)}
+    .backdrop{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;transform:scale(1.02);filter:saturate(1.02) contrast(1.04)}
+    .overlay{position:absolute;inset:0;background:linear-gradient(180deg, rgba(3,8,16,.12) 0%, rgba(3,8,16,.18) 30%, rgba(3,8,16,.60) 66%, rgba(3,8,16,.92) 100%),linear-gradient(90deg, rgba(4,9,18,.82) 0%, rgba(4,9,18,.38) 45%, rgba(4,9,18,.18) 100%)}
+    .content{position:relative;z-index:2;padding:18px;min-height:210px;display:flex;flex-direction:column;justify-content:flex-end}
+    .topline{position:absolute;top:16px;left:16px;right:16px;display:flex;align-items:center;justify-content:space-between;gap:12px;z-index:3}
+    .sport,.time{display:inline-flex;align-items:center;padding:8px 12px;border-radius:999px;background:rgba(255,255,255,.92);color:#111;font-weight:900}
+    .sport{font-size:12px;letter-spacing:.6px}
+    .time{font-size:14px}
+    .channel{display:inline-flex;align-items:center;padding:8px 12px;border-radius:999px;background:rgba(0,0,0,.72);border:1px solid rgba(255,255,255,.08);color:#fff;font-size:12px;font-weight:800;width:max-content;margin-top:10px}
+    .title{font-size:24px;line-height:1.04;font-weight:900;margin:0 0 10px 0;max-width:88%;text-shadow:0 3px 18px rgba(0,0,0,.35)}
+    .subtitle{color:#d4dbeb;font-size:15px;margin:0;text-shadow:0 3px 16px rgba(0,0,0,.35)}
+    .empty{background:var(--panel);border:1px dashed rgba(255,255,255,.14);color:var(--muted);border-radius:18px;padding:26px;text-align:center}
+    .footer-note{color:var(--muted);font-size:13px;margin-top:10px}
+    @media (max-width:800px){
+      .hero-inner{align-items:flex-start;flex-direction:column}
+      .hero-right{justify-content:flex-start;width:100%}
+      .search{width:100%;min-width:0}
+      .rail{grid-template-columns:1fr}
+      .title{font-size:22px;max-width:100%}
+      .card,.content{min-height:190px}
+    }
+  </style>
+</head>
+<body>
+  <header class="hero">
+    <div class="wrap hero-inner">
+      <div class="brand">
+        <div class="logo-dot"></div>
+        <div>
+          <h1>Agenda deportiva</h1>
+          <div class="sub">Vista estilo Netflix por categorías, sin enlaces, usando backdrops automáticos</div>
+        </div>
+      </div>
+      <div class="hero-right">
+        <div class="pill" id="dateLabel">Hoy</div>
+        <input id="searchInput" class="search" placeholder="Buscar evento, torneo o canal" />
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap" id="app">
+    <div class="empty">Cargando agenda deportiva…</div>
+  </main>
+
+  <script>
+    let agenda = [];
+    const app = document.getElementById('app');
+    const searchInput = document.getElementById('searchInput');
+    const dateLabel = document.getElementById('dateLabel');
+    dateLabel.textContent = new Date().toLocaleDateString('es-ES', { weekday:'long', day:'numeric', month:'long' });
+
+    function esc(str=''){
+      return String(str).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;').replaceAll("'",'&#039;');
+    }
+
+    function groupItems(items){
+      const map = new Map();
+      items.forEach(item => {
+        const key = item.category || 'OTROS';
+        if(!map.has(key)) map.set(key, []);
+        map.get(key).push(item);
+      });
+      return Array.from(map.entries());
+    }
+
+    function sortByTime(items){
+      return [...items].sort((a,b) => (a.time || '').localeCompare(b.time || ''));
+    }
+
+    function render(){
+      const q = searchInput.value.trim().toLowerCase();
+      const filtered = agenda.filter(item => {
+        const blob = `${item.category} ${item.title} ${item.subtitle} ${item.channel}`.toLowerCase();
+        return !q || blob.includes(q);
+      });
+
+      const groups = groupItems(filtered).map(([category, items]) => [category, sortByTime(items)]);
+
+      if(!groups.length){
+        app.innerHTML = '<div class="empty">No hay eventos que coincidan con la búsqueda.</div>';
+        return;
+      }
+
+      app.innerHTML = groups.map(([category, items]) => `
+        <section class="section">
+          <div class="section-head">
+            <div><h2>${esc(category)}</h2><small>${items.length} evento${items.length===1?'':'s'}</small></div>
+          </div>
+          <div class="rail">
+            ${items.map(item => `
+              <article class="card">
+                <img class="backdrop" src="${esc(item.backdrop || '')}" alt="">
+                <div class="overlay"></div>
+                <div class="topline">
+                  <span class="sport">${esc(item.sport || 'DEPORTE')}</span>
+                  <span class="time">${esc(item.time || '')}</span>
+                </div>
+                <div class="content">
+                  <h3 class="title">${esc(item.title || '')}</h3>
+                  <p class="subtitle">${esc(item.subtitle || '')}</p>
+                  <span class="channel">${esc(item.channel || '')}</span>
+                </div>
+              </article>
+            `).join('')}
+          </div>
+        </section>
+      `).join('') + '<div class="footer-note">Agenda automática conectada a agenda_deportiva.json.</div>';
+    }
+
+    async function loadAgenda(){
+      try{
+        const res = await fetch('./agenda_deportiva.json', { cache:'no-store' });
+        agenda = await res.json();
+        render();
+      }catch(e){
+        app.innerHTML = '<div class="empty">No se pudo cargar agenda_deportiva.json</div>';
+      }
+    }
+
+    searchInput.addEventListener('input', render);
+    loadAgenda();
+  </script>
+</body>
+</html>
