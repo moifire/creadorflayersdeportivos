@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Agenda ULTRA FINAL UI FIX 2</title>
+<style>
+:root{--panel:#0b1220;--line:rgba(255,255,255,.09);--text:#fff;--muted:#b7c3de;--red:#e50914;--shadow:0 20px 45px rgba(0,0,0,.45);--radius:20px}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0;background:radial-gradient(circle at top left, rgba(229,9,20,.12), transparent 20%),linear-gradient(180deg,#030611 0%,#07101f 100%);color:var(--text);font-family:Arial,Helvetica,sans-serif}
+.hero{position:sticky;top:0;z-index:50;backdrop-filter:blur(18px);background:linear-gradient(180deg,rgba(4,8,20,.94),rgba(4,8,20,.72));border-bottom:1px solid var(--line)}
+.wrap{max-width:1500px;margin:0 auto;padding:0 24px}
+.hero-inner{display:flex;justify-content:space-between;align-items:center;gap:16px;padding:18px 0}
+.brand{display:flex;gap:14px;align-items:center}
+.brand-dot{width:14px;height:14px;border-radius:50%;background:var(--red);box-shadow:0 0 20px rgba(229,9,20,.6)}
+h1{margin:0;font-size:34px;font-weight:900}
+.sub{margin-top:6px;color:var(--muted);font-size:14px}
+.search{min-width:260px;background:#0d1629;border:1px solid var(--line);color:#fff;border-radius:999px;padding:12px 16px;font-size:14px;outline:none}
+.top-pills{display:flex;gap:10px;flex-wrap:wrap;justify-content:flex-end}
+.pill{padding:10px 14px;border:1px solid var(--line);background:rgba(255,255,255,.04);border-radius:999px;font-size:13px;font-weight:800}
+main{padding:26px 0 56px}
+.section{margin-bottom:36px}
+.section-head{display:flex;justify-content:space-between;align-items:end;margin-bottom:14px}
+.section h2{margin:0;font-size:30px;color:#ff4242;font-weight:900}
+.section small{color:var(--muted)}
+.rail{display:flex;gap:18px;overflow-x:auto;padding:4px 2px 12px;scroll-snap-type:x proximity;scrollbar-width:thin}
+.rail::-webkit-scrollbar{height:10px}
+.rail::-webkit-scrollbar-thumb{background:rgba(255,255,255,.16);border-radius:999px}
+.card{flex:0 0 360px;height:220px;position:relative;overflow:hidden;border-radius:var(--radius);border:1px solid var(--line);background:var(--panel);box-shadow:var(--shadow);scroll-snap-align:start;transition:transform .24s ease,border-color .24s ease,box-shadow .24s ease}
+.card:hover{transform:translateY(-6px) scale(1.02);border-color:rgba(255,255,255,.18);box-shadow:0 24px 50px rgba(0,0,0,.58)}
+.backdrop{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;transform:scale(1.03)}
+.overlay{position:absolute;inset:0;background:linear-gradient(180deg,rgba(4,8,18,.02) 0%,rgba(4,8,18,.06) 38%,rgba(4,8,18,.24) 68%,rgba(4,8,18,.78) 100%),linear-gradient(90deg,rgba(4,8,18,.12) 0%,rgba(4,8,18,.02) 55%,rgba(4,8,18,.12) 100%)}
+.topline{position:absolute;top:14px;left:14px;right:14px;z-index:4;display:flex;justify-content:space-between;align-items:center;gap:12px}
+.left-tags{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.sport,.time,.live{display:inline-flex;align-items:center;padding:8px 12px;border-radius:999px;font-weight:900}
+.sport,.time{background:rgba(255,255,255,.93);color:#111}
+.sport{font-size:12px;letter-spacing:.5px}
+.time{font-size:14px}
+.live{background:var(--red);color:#fff;font-size:12px;box-shadow:0 0 16px rgba(229,9,20,.45)}
+.channel-logo{max-width:90px;max-height:34px;border-radius:12px;padding:6px 8px;background:rgba(255,255,255,.92);display:flex;align-items:center;justify-content:center}
+.channel-logo img{max-width:100%;max-height:22px;object-fit:contain}
+.bottom{position:absolute;left:18px;right:18px;bottom:16px;z-index:3}
+.title{margin:0;font-size:20px;line-height:1.08;font-weight:900;text-shadow:0 4px 16px rgba(0,0,0,.45);max-width:88%;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.meta-row{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-top:10px}
+.channel{display:inline-flex;padding:8px 12px;border-radius:999px;background:rgba(0,0,0,.72);border:1px solid rgba(255,255,255,.09);font-size:12px;font-weight:800}
+.hover{position:absolute;left:0;right:0;bottom:0;z-index:5;padding:18px;background:linear-gradient(180deg,rgba(5,9,18,0) 0%,rgba(5,9,18,.30) 12%,rgba(5,9,18,.90) 42%,rgba(5,9,18,.98) 100%);transform:translateY(105%);transition:transform .24s ease}
+.card:hover .hover{transform:translateY(0)}
+.hover-title{margin:0 0 8px 0;font-size:18px;font-weight:900;line-height:1.12}
+.hover-sub{margin:0;color:#d8e0f0;font-size:14px;line-height:1.35}
+.empty{background:var(--panel);border:1px dashed rgba(255,255,255,.12);padding:28px;border-radius:18px;color:var(--muted);text-align:center}
+.foot{color:var(--muted);font-size:13px;margin-top:12px}
+@media (max-width:900px){.hero-inner{flex-direction:column;align-items:flex-start}.top-pills{justify-content:flex-start}.search{min-width:0;width:100%}.card{flex-basis:310px;height:210px}.title{font-size:18px}}
+</style>
+</head>
+<body>
+<header class="hero">
+  <div class="wrap hero-inner">
+    <div class="brand">
+      <div class="brand-dot"></div>
+      <div>
+        <h1>Agenda ULTRA FINAL UI FIX 2</h1>
+        <div class="sub">Foto más visible, título limpio, hover fino y en vivo automático</div>
+      </div>
+    </div>
+    <div style="display:flex;gap:12px;align-items:center;flex-wrap:wrap">
+      <div class="top-pills"><div class="pill" id="dateLabel">Hoy</div></div>
+      <input id="searchInput" class="search" placeholder="Buscar evento, torneo o canal"/>
+    </div>
+  </div>
+</header>
+
+<main class="wrap" id="app"><div class="empty">Cargando agenda…</div></main>
+
+<script>
+let agenda = [];
+const app = document.getElementById('app');
+const searchInput = document.getElementById('searchInput');
+document.getElementById('dateLabel').textContent = new Date().toLocaleDateString('es-ES', { weekday:'long', day:'numeric', month:'long' });
+
+const channelLogos = {
+  "dazn": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/DAZN_Logo_Master.svg/512px-DAZN_Logo_Master.svg.png",
+  "eurosport": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Eurosport_logo.svg/512px-Eurosport_logo.svg.png",
+  "movistar": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Movistar_Plus%2B_2023.svg/512px-Movistar_Plus%2B_2023.svg.png",
+  "ufc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/512px-UFC_Logo.svg.png",
+  "nba": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/NBA_logo.svg/320px-NBA_logo.svg.png"
+};
+function esc(str=''){return String(str).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;').replaceAll("'",'&#039;')}
+function getLogo(channel=''){const s=channel.toLowerCase(); if(s.includes('dazn')) return channelLogos.dazn; if(s.includes('eurosport')) return channelLogos.eurosport; if(s.includes('movistar')||s.includes('m+')) return channelLogos.movistar; if(s.includes('ufc')) return channelLogos.ufc; if(s.includes('nba')) return channelLogos.nba; return ''}
+function isLive(timeStr){ if(!timeStr || !/^\d{1,2}:\d{2}$/.test(timeStr)) return false; const [h,m]=timeStr.split(':').map(Number); const eventMinutes=h*60+m; const now=new Date(); const nowMinutes=now.getHours()*60+now.getMinutes(); return nowMinutes>=eventMinutes && nowMinutes<eventMinutes+180; }
+function sortItems(items){ return [...items].sort((a,b)=>{ const liveDiff=Number(isLive(b.time))-Number(isLive(a.time)); if(liveDiff!==0) return liveDiff; return (a.time||'').localeCompare(b.time||''); }); }
+function groupItems(items){ const map=new Map(); items.forEach(item=>{ const key=item.category||'OTROS'; if(!map.has(key)) map.set(key,[]); map.get(key).push(item); }); return Array.from(map.entries()); }
+function render(){
+  const q=searchInput.value.trim().toLowerCase();
+  const filtered=agenda.filter(item=>{ const blob=`${item.category} ${item.title} ${item.subtitle} ${item.channel}`.toLowerCase(); return !q || blob.includes(q); });
+  const groups=groupItems(filtered).map(([category, items]) => [category, sortItems(items)]);
+  if(!groups.length){ app.innerHTML='<div class="empty">No hay eventos que coincidan con la búsqueda.</div>'; return; }
+  app.innerHTML = groups.map(([category, items]) => `
+    <section class="section">
+      <div class="section-head"><div><h2>${esc(category)}</h2><small>${items.length} evento${items.length===1?'':'s'}</small></div></div>
+      <div class="rail">
+        ${items.map(item => {
+          const live=isLive(item.time); const logo=getLogo(item.channel||'');
+          return `<article class="card">
+            <img class="backdrop" src="${esc(item.backdrop||'')}" alt="">
+            <div class="overlay"></div>
+            <div class="topline">
+              <div class="left-tags">
+                <span class="sport">${esc(item.sport||'DEPORTE')}</span>
+                ${live ? '<span class="live">EN VIVO</span>' : ''}
+              </div>
+              <div style="display:flex;align-items:center;gap:8px">
+                ${logo ? `<div class="channel-logo"><img src="${logo}" alt=""></div>` : ''}
+                <span class="time">${esc(item.time||'')}</span>
+              </div>
+            </div>
+            <div class="bottom">
+              <h3 class="title">${esc(item.title||'')}</h3>
+              <div class="meta-row"><span class="channel">${esc(item.channel||'')}</span></div>
+            </div>
+            <div class="hover">
+              <h4 class="hover-title">${esc(item.title||'')}</h4>
+              <p class="hover-sub">${esc(item.subtitle||'')}</p>
+              <div class="meta-row">
+                <span class="channel">${esc(item.channel||'')}</span>
+                ${live ? '<span class="live">EN VIVO</span>' : ''}
+              </div>
+            </div>
+          </article>`;
+        }).join('')}
+      </div>
+    </section>`).join('') + '<div class="foot">FIX 2: backdrop más limpio y texto mejor equilibrado.</div>';
+}
+async function loadAgenda(){ try{ const res=await fetch('./agenda_deportiva.json',{cache:'no-store'}); agenda=await res.json(); render(); } catch(e){ app.innerHTML='<div class="empty">No se pudo cargar agenda_deportiva.json</div>'; } }
+searchInput.addEventListener('input', render);
+loadAgenda();
+setInterval(render, 60000);
+</script>
+</body>
+</html>
