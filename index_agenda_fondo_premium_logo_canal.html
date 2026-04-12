@@ -1,0 +1,238 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Agenda fondo premium</title>
+<style>
+:root{
+  --bg:#050914;--panel:#0d1322;--text:#fff;--muted:#b8c2d9;--line:rgba(255,255,255,.08);
+  --red:#e50914;--shadow:0 18px 42px rgba(0,0,0,.45);--radius:20px;
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0;background:linear-gradient(180deg,#030611 0%,#08101d 100%);color:var(--text);font-family:Arial,Helvetica,sans-serif}
+.hero{position:sticky;top:0;z-index:40;backdrop-filter:blur(16px);background:linear-gradient(180deg,rgba(4,8,20,.94),rgba(4,8,20,.72));border-bottom:1px solid var(--line)}
+.wrap{max-width:1480px;margin:0 auto;padding:0 24px}
+.hero-inner{display:flex;justify-content:space-between;align-items:center;gap:16px;padding:18px 0}
+.brand{display:flex;align-items:center;gap:14px}
+.brand-dot{width:14px;height:14px;border-radius:50%;background:var(--red);box-shadow:0 0 18px rgba(229,9,20,.6)}
+h1{margin:0;font-size:34px;font-weight:900}
+.sub{margin-top:6px;color:var(--muted);font-size:14px}
+.search{min-width:250px;background:#0f1627;border:1px solid var(--line);color:#fff;border-radius:999px;padding:12px 16px;font-size:14px;outline:none}
+.pill{padding:10px 14px;border:1px solid var(--line);background:rgba(255,255,255,.04);border-radius:999px;font-size:13px;font-weight:800}
+main{padding:26px 0 56px}
+.section{margin-bottom:36px}
+.section-head{display:flex;justify-content:space-between;align-items:end;margin-bottom:14px}
+.section h2{margin:0;font-size:30px;color:#ff4242;font-weight:900}
+.section small{color:var(--muted)}
+.rail{display:flex;gap:18px;overflow-x:auto;padding:4px 2px 12px;scroll-snap-type:x proximity;scrollbar-width:thin}
+.rail::-webkit-scrollbar{height:10px}
+.rail::-webkit-scrollbar-thumb{background:rgba(255,255,255,.16);border-radius:999px}
+.card{
+  flex:0 0 360px;height:220px;position:relative;overflow:hidden;border-radius:var(--radius);
+  border:1px solid rgba(255,255,255,.08);box-shadow:var(--shadow);scroll-snap-align:start;
+  transition:transform .22s ease,border-color .22s ease,box-shadow .22s ease;
+}
+.card:hover{transform:translateY(-6px) scale(1.015);border-color:rgba(255,255,255,.18);box-shadow:0 24px 50px rgba(0,0,0,.55)}
+.bg-futbol{background:linear-gradient(180deg,#07182f 0%,#0a2f5b 100%)}
+.bg-baloncesto{background:linear-gradient(180deg,#1b1028 0%,#512c7f 100%)}
+.bg-tenis{background:linear-gradient(180deg,#0a241d 0%,#0d624b 100%)}
+.bg-motor{background:linear-gradient(180deg,#2a0e14 0%,#7e1824 100%)}
+.bg-ciclismo{background:linear-gradient(180deg,#322208 0%,#7b580d 100%)}
+.bg-combate{background:linear-gradient(180deg,#2b1024 0%,#6f1652 100%)}
+.bg-default{background:linear-gradient(180deg,#0c1325 0%,#24365f 100%)}
+.glow{position:absolute;inset:auto auto auto auto}
+.card::before{
+  content:"";position:absolute;left:-80px;top:-110px;width:280px;height:180px;border-radius:999px;
+  background:rgba(255,255,255,.08);filter:blur(24px)
+}
+.card::after{
+  content:"";position:absolute;left:18px;right:18px;bottom:16px;height:6px;border-radius:999px;background:rgba(255,255,255,.16)
+}
+.topline{position:absolute;top:14px;left:14px;right:14px;z-index:3;display:flex;justify-content:space-between;align-items:center;gap:12px}
+.left-tags{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.sport,.time,.live{display:inline-flex;align-items:center;padding:8px 12px;border-radius:999px;font-weight:900}
+.sport,.time{background:rgba(255,255,255,.93);color:#111}
+.sport{font-size:12px;letter-spacing:.5px}
+.time{font-size:14px}
+.live{background:var(--red);color:#fff;font-size:12px;box-shadow:0 0 14px rgba(229,9,20,.45)}
+.channel-logo{max-width:90px;max-height:34px;border-radius:12px;padding:6px 8px;background:rgba(255,255,255,.92);display:flex;align-items:center;justify-content:center}
+.channel-logo img{max-width:100%;max-height:22px;object-fit:contain}
+.content{position:absolute;left:18px;right:18px;bottom:18px;z-index:3}
+.title{
+  margin:0;font-size:20px;line-height:1.08;font-weight:900;max-width:90%;
+  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;
+  text-shadow:0 4px 16px rgba(0,0,0,.32)
+}
+.subtitle{
+  margin:8px 0 0 0;color:#d7e0ef;font-size:14px;line-height:1.35;
+  display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical;overflow:hidden;
+}
+.meta-row{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-top:12px}
+.channel{display:inline-flex;padding:8px 12px;border-radius:999px;background:rgba(0,0,0,.58);border:1px solid rgba(255,255,255,.09);font-size:12px;font-weight:800}
+.hover{
+  position:absolute;left:0;right:0;bottom:0;z-index:4;padding:18px;
+  background:linear-gradient(180deg,rgba(7,11,20,0) 0%,rgba(7,11,20,.2) 12%,rgba(7,11,20,.88) 42%,rgba(7,11,20,.98) 100%);
+  transform:translateY(105%);transition:transform .22s ease
+}
+.card:hover .hover{transform:translateY(0)}
+.hover-title{margin:0 0 8px 0;font-size:18px;font-weight:900;line-height:1.12}
+.hover-sub{margin:0;color:#d8e0f0;font-size:14px;line-height:1.35}
+.empty{background:var(--panel);border:1px dashed rgba(255,255,255,.14);color:var(--muted);border-radius:18px;padding:26px;text-align:center}
+.foot{color:var(--muted);font-size:13px;margin-top:12px}
+@media (max-width:900px){
+  .hero-inner{flex-direction:column;align-items:flex-start}
+  .search{width:100%;min-width:0}
+  .card{flex-basis:310px;height:210px}
+  .title{font-size:18px}
+}
+</style>
+</head>
+<body>
+<header class="hero">
+  <div class="wrap hero-inner">
+    <div class="brand">
+      <div class="brand-dot"></div>
+      <div>
+        <h1>Agenda fondo premium</h1>
+        <div class="sub">Sin backdrop. Fondo premium por deporte, logo de canal y lectura mucho más limpia.</div>
+      </div>
+    </div>
+    <div style="display:flex;gap:12px;align-items:center;flex-wrap:wrap">
+      <div class="pill" id="dateLabel">Hoy</div>
+      <input id="searchInput" class="search" placeholder="Buscar evento, torneo o canal"/>
+    </div>
+  </div>
+</header>
+
+<main class="wrap" id="app">
+  <div class="empty">Cargando agenda…</div>
+</main>
+
+<script>
+let agenda = [];
+const app = document.getElementById('app');
+const searchInput = document.getElementById('searchInput');
+document.getElementById('dateLabel').textContent = new Date().toLocaleDateString('es-ES', { weekday:'long', day:'numeric', month:'long' });
+
+const channelLogos = {
+  "dazn": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/DAZN_Logo_Master.svg/512px-DAZN_Logo_Master.svg.png",
+  "eurosport": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Eurosport_logo.svg/512px-Eurosport_logo.svg.png",
+  "movistar": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Movistar_Plus%2B_2023.svg/512px-Movistar_Plus%2B_2023.svg.png",
+  "ufc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/512px-UFC_Logo.svg.png",
+  "nba": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/NBA_logo.svg/320px-NBA_logo.svg.png",
+  "rfef": "https://rfef.es/themes/custom/rfef/logo.svg",
+  "la 1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/La_1.svg/512px-La_1.svg.png"
+};
+
+function esc(str=''){return String(str).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;').replaceAll("'",'&#039;')}
+function getLogo(channel=''){
+  const s = channel.toLowerCase();
+  if (s.includes('dazn')) return channelLogos.dazn;
+  if (s.includes('eurosport')) return channelLogos.eurosport;
+  if (s.includes('movistar') || s.includes('m+')) return channelLogos.movistar;
+  if (s.includes('ufc')) return channelLogos.ufc;
+  if (s.includes('nba')) return channelLogos.nba;
+  if (s.includes('rfef')) return channelLogos.rfef;
+  if (s.includes('la 1')) return channelLogos["la 1"];
+  return '';
+}
+function bgClass(sport=''){
+  const s = sport.toLowerCase();
+  if (s.includes('fútbol') || s.includes('futbol')) return 'bg-futbol';
+  if (s.includes('baloncesto')) return 'bg-baloncesto';
+  if (s.includes('tenis')) return 'bg-tenis';
+  if (s.includes('motor')) return 'bg-motor';
+  if (s.includes('ciclismo')) return 'bg-ciclismo';
+  if (s.includes('combate')) return 'bg-combate';
+  return 'bg-default';
+}
+function isLive(timeStr){
+  if(!timeStr || !/^\d{1,2}:\d{2}$/.test(timeStr)) return false;
+  const [h,m] = timeStr.split(':').map(Number);
+  const eventMinutes = h * 60 + m;
+  const now = new Date();
+  const nowMinutes = now.getHours() * 60 + now.getMinutes();
+  return nowMinutes >= eventMinutes && nowMinutes < eventMinutes + 180;
+}
+function sortItems(items){
+  return [...items].sort((a,b) => {
+    const liveDiff = Number(isLive(b.time)) - Number(isLive(a.time));
+    if (liveDiff !== 0) return liveDiff;
+    return (a.time || '').localeCompare(b.time || '');
+  });
+}
+function groupItems(items){
+  const map = new Map();
+  items.forEach(item => {
+    const key = item.category || 'OTROS';
+    if(!map.has(key)) map.set(key, []);
+    map.get(key).push(item);
+  });
+  return Array.from(map.entries());
+}
+function render(){
+  const q = searchInput.value.trim().toLowerCase();
+  const filtered = agenda.filter(item => {
+    const blob = `${item.category} ${item.title} ${item.subtitle} ${item.channel}`.toLowerCase();
+    return !q || blob.includes(q);
+  });
+  const groups = groupItems(filtered).map(([category, items]) => [category, sortItems(items)]);
+  if(!groups.length){
+    app.innerHTML = '<div class="empty">No hay eventos que coincidan con la búsqueda.</div>';
+    return;
+  }
+  app.innerHTML = groups.map(([category, items]) => `
+    <section class="section">
+      <div class="section-head">
+        <div><h2>${esc(category)}</h2><small>${items.length} evento${items.length===1?'':'s'}</small></div>
+      </div>
+      <div class="rail">
+        ${items.map(item => {
+          const live = isLive(item.time);
+          const logo = getLogo(item.channel || '');
+          return `
+          <article class="card ${bgClass(item.sport || '')}">
+            <div class="topline">
+              <div class="left-tags">
+                <span class="sport">${esc(item.sport || 'DEPORTE')}</span>
+                ${live ? '<span class="live">EN VIVO</span>' : ''}
+              </div>
+              <div style="display:flex;align-items:center;gap:8px">
+                ${logo ? `<div class="channel-logo"><img src="${logo}" alt=""></div>` : ''}
+                <span class="time">${esc(item.time || '')}</span>
+              </div>
+            </div>
+            <div class="content">
+              <h3 class="title">${esc(item.title || '')}</h3>
+              <p class="subtitle">${esc(item.subtitle || '')}</p>
+              <div class="meta-row"><span class="channel">${esc(item.channel || '')}</span></div>
+            </div>
+            <div class="hover">
+              <h4 class="hover-title">${esc(item.title || '')}</h4>
+              <p class="hover-sub">${esc(item.subtitle || '')}</p>
+              <div class="meta-row">
+                <span class="channel">${esc(item.channel || '')}</span>
+                ${live ? '<span class="live">EN VIVO</span>' : ''}
+              </div>
+            </div>
+          </article>`;
+        }).join('')}
+      </div>
+    </section>`).join('') + '<div class="foot">Versión recomendada: fondo premium sin backdrop.</div>';
+}
+async function loadAgenda(){
+  try{
+    const res = await fetch('./agenda_deportiva.json', { cache:'no-store' });
+    agenda = await res.json();
+    render();
+  }catch(e){
+    app.innerHTML = '<div class="empty">No se pudo cargar agenda_deportiva.json</div>';
+  }
+}
+searchInput.addEventListener('input', render);
+loadAgenda();
+setInterval(render, 60000);
+</script>
+</body>
+</html>
