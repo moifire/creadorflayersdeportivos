@@ -1,184 +1,248 @@
 #EXTM3U
-#EXTINF:-1 group-title="Primera División ArgentinaTorneo Apertura" tvg-name="▶ M+ LIGA DE CAMPEONES 2 720P **",01:00 | Racing Avellaneda vs River Plate | ▶ M+ LIGA DE CAMPEONES 2 720P **
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ TELEDEPORTE 720P **",11:00 | A. De Miñaur vs S. Ofner | ▶ TELEDEPORTE 720P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=b0d1489c9f3239349665ad5ab423363f2b02e5ae&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ TELEDEPORTE 1080P **",11:00 | A. De Miñaur vs S. Ofner | ▶ TELEDEPORTE 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=3b50a1dca0977e3761d016edd79314ab797f74f6&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ TELEDEPORTE 1080P **",11:00 | A. De Miñaur vs S. Ofner | ▶ TELEDEPORTE 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=77cf022557c56cdf8d8115f50e61f846ad72ee05&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ LA 1",11:00 | A. De Miñaur vs S. Ofner | ▶ LA 1
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=dad5e0e0825cb3e410008f1c4252387b868e740c&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ M+ DEPORTES 2 720P *",11:00 | A. De Miñaur vs S. Ofner | ▶ M+ DEPORTES 2 720P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=6b15368775693c33c49fab02e7900c1976a5da90&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ M+ DEPORTES 2 1080P *",11:00 | A. De Miñaur vs S. Ofner | ▶ M+ DEPORTES 2 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=3774d8feab016ca766b35ea8488e7514ca30e0ee&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ M+ DEPORTES 2 1080P **",11:00 | A. De Miñaur vs S. Ofner | ▶ M+ DEPORTES 2 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=890901fa742b19d8808cf49f19db2d3016437c56&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ M+ DEPORTES 2 1080P **",11:00 | A. De Miñaur vs S. Ofner | ▶ M+ DEPORTES 2 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ MOVISTAR DEPORTES 2",11:00 | A. De Miñaur vs S. Ofner | ▶ MOVISTAR DEPORTES 2
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=3afe1af18f8ff78e9946856911b00c67477052b5&api_password=moifire
+#EXTINF:-1 group-title="Torneo de Múnich1ª Ronda" tvg-name="▶ M+ DEPORTES 3 720P *",11:00 | A. Tabilo vs J. Fonseca | ▶ M+ DEPORTES 3 720P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d&api_password=moifire
+#EXTINF:-1 group-title="Torneo de Múnich1ª Ronda" tvg-name="▶ M+ DEPORTES 3 1080P *",11:00 | A. Tabilo vs J. Fonseca | ▶ M+ DEPORTES 3 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=f4d9011721fad5098febbe4d7c078a582e176a01&api_password=moifire
+#EXTINF:-1 group-title="Torneo de Múnich1ª Ronda" tvg-name="▶ M+ DEPORTES 3 1080P **",11:00 | A. Tabilo vs J. Fonseca | ▶ M+ DEPORTES 3 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903&api_password=moifire
+#EXTINF:-1 group-title="Torneo de Múnich1ª Ronda" tvg-name="▶ MOVISTAR DEPORTES 3",11:00 | A. Tabilo vs J. Fonseca | ▶ MOVISTAR DEPORTES 3
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=39fefdecfc953dcf6e7c589739bf486c2e605ed0&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ LA 1",11:00 | P. Martínez vs L. Sonego | ▶ LA 1
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=dad5e0e0825cb3e410008f1c4252387b868e740c&api_password=moifire
+#EXTINF:-1 group-title="Torneo de Múnich1ª Ronda" tvg-name="▶ M+ DEPORTES 3 720P *",12:30 | A. Zverev vs M. Kecmanovic | ▶ M+ DEPORTES 3 720P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d&api_password=moifire
+#EXTINF:-1 group-title="Torneo de Múnich1ª Ronda" tvg-name="▶ M+ DEPORTES 3 1080P *",12:30 | A. Zverev vs M. Kecmanovic | ▶ M+ DEPORTES 3 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=f4d9011721fad5098febbe4d7c078a582e176a01&api_password=moifire
+#EXTINF:-1 group-title="Torneo de Múnich1ª Ronda" tvg-name="▶ M+ DEPORTES 3 1080P **",12:30 | A. Zverev vs M. Kecmanovic | ▶ M+ DEPORTES 3 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903&api_password=moifire
+#EXTINF:-1 group-title="Torneo de Múnich1ª Ronda" tvg-name="▶ MOVISTAR DEPORTES 3",12:30 | A. Zverev vs M. Kecmanovic | ▶ MOVISTAR DEPORTES 3
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=39fefdecfc953dcf6e7c589739bf486c2e605ed0&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ LA 1",12:30 | C. Ugo Carabelli vs K. Khachanov | ▶ LA 1
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=dad5e0e0825cb3e410008f1c4252387b868e740c&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ TELEDEPORTE 720P **",12:30 | M. Landaluce vs L. Musetti | ▶ TELEDEPORTE 720P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=b0d1489c9f3239349665ad5ab423363f2b02e5ae&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ TELEDEPORTE 1080P **",12:30 | M. Landaluce vs L. Musetti | ▶ TELEDEPORTE 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=3b50a1dca0977e3761d016edd79314ab797f74f6&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ TELEDEPORTE 1080P **",12:30 | M. Landaluce vs L. Musetti | ▶ TELEDEPORTE 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=77cf022557c56cdf8d8115f50e61f846ad72ee05&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ LA 1",12:30 | M. Landaluce vs L. Musetti | ▶ LA 1
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=dad5e0e0825cb3e410008f1c4252387b868e740c&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ M+ DEPORTES 2 720P *",12:30 | M. Landaluce vs L. Musetti | ▶ M+ DEPORTES 2 720P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=6b15368775693c33c49fab02e7900c1976a5da90&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ M+ DEPORTES 2 1080P *",12:30 | M. Landaluce vs L. Musetti | ▶ M+ DEPORTES 2 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=3774d8feab016ca766b35ea8488e7514ca30e0ee&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ M+ DEPORTES 2 1080P **",12:30 | M. Landaluce vs L. Musetti | ▶ M+ DEPORTES 2 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=890901fa742b19d8808cf49f19db2d3016437c56&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ M+ DEPORTES 2 1080P **",12:30 | M. Landaluce vs L. Musetti | ▶ M+ DEPORTES 2 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ MOVISTAR DEPORTES 2",12:30 | M. Landaluce vs L. Musetti | ▶ MOVISTAR DEPORTES 2
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=3afe1af18f8ff78e9946856911b00c67477052b5&api_password=moifire
+#EXTINF:-1 group-title="Torneo de Múnich1ª Ronda" tvg-name="▶ M+ DEPORTES 3 720P *",14:00 | A. Molcan vs A. Bublik | ▶ M+ DEPORTES 3 720P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d&api_password=moifire
+#EXTINF:-1 group-title="Torneo de Múnich1ª Ronda" tvg-name="▶ M+ DEPORTES 3 1080P *",14:00 | A. Molcan vs A. Bublik | ▶ M+ DEPORTES 3 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=f4d9011721fad5098febbe4d7c078a582e176a01&api_password=moifire
+#EXTINF:-1 group-title="Torneo de Múnich1ª Ronda" tvg-name="▶ M+ DEPORTES 3 1080P **",14:00 | A. Molcan vs A. Bublik | ▶ M+ DEPORTES 3 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903&api_password=moifire
+#EXTINF:-1 group-title="Torneo de Múnich1ª Ronda" tvg-name="▶ MOVISTAR DEPORTES 3",14:00 | A. Molcan vs A. Bublik | ▶ MOVISTAR DEPORTES 3
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=39fefdecfc953dcf6e7c589739bf486c2e605ed0&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ LA 1",14:00 | T. Machac vs S. Báez | ▶ LA 1
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=dad5e0e0825cb3e410008f1c4252387b868e740c&api_password=moifire
+#EXTINF:-1 group-title="O Gran Camiño" tvg-name="▶ EUROSPORT 1 720P **",15:30 | Etapa 1Torre de Hércules › Torre de Hércules (14,8 km) vs HBO MAXDAZN (Ver en directo)TVG (Galicia)ETB1 (País Vasco)Eurosport 1 | ▶ EUROSPORT 1 720P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=a7b42f9d65636d1b1d9316d3e91ebe12b192658c&api_password=moifire
+#EXTINF:-1 group-title="O Gran Camiño" tvg-name="▶ EUROSPORT 1 1080P *",15:30 | Etapa 1Torre de Hércules › Torre de Hércules (14,8 km) vs HBO MAXDAZN (Ver en directo)TVG (Galicia)ETB1 (País Vasco)Eurosport 1 | ▶ EUROSPORT 1 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=48a589dbeab3544662fafd79888aada7d834cfe9&api_password=moifire
+#EXTINF:-1 group-title="O Gran Camiño" tvg-name="▶ EUROSPORT 1",15:30 | Etapa 1Torre de Hércules › Torre de Hércules (14,8 km) vs HBO MAXDAZN (Ver en directo)TVG (Galicia)ETB1 (País Vasco)Eurosport 1 | ▶ EUROSPORT 1
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=547ab7146a86d6119c9332c011669544720124e3&api_password=moifire
+#EXTINF:-1 group-title="O Gran Camiño" tvg-name="▶ EUROSPORT 1",15:30 | Etapa 1Torre de Hércules › Torre de Hércules (14,8 km) vs HBO MAXDAZN (Ver en directo)TVG (Galicia)ETB1 (País Vasco)Eurosport 1 | ▶ EUROSPORT 1
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=e541a954465df29ccce4d829529d983ffb2803d4&api_password=moifire
+#EXTINF:-1 group-title="O Gran Camiño" tvg-name="▶ EUROSPORT360 1 (DE)",15:30 | Etapa 1Torre de Hércules › Torre de Hércules (14,8 km) vs HBO MAXDAZN (Ver en directo)TVG (Galicia)ETB1 (País Vasco)Eurosport 1 | ▶ EUROSPORT360 1 (DE)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=22df9a5fae8cae52fec925c2bb44b74f96a4200c&api_password=moifire
+#EXTINF:-1 group-title="O Gran Camiño" tvg-name="▶ EUROSPORT360 2 (DE)",15:30 | Etapa 1Torre de Hércules › Torre de Hércules (14,8 km) vs HBO MAXDAZN (Ver en directo)TVG (Galicia)ETB1 (País Vasco)Eurosport 1 | ▶ EUROSPORT360 2 (DE)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=57f95543ac41656d473b1a27123fc413388a728c&api_password=moifire
+#EXTINF:-1 group-title="O Gran Camiño" tvg-name="▶ EUROSPORT360 3 (DE)",15:30 | Etapa 1Torre de Hércules › Torre de Hércules (14,8 km) vs HBO MAXDAZN (Ver en directo)TVG (Galicia)ETB1 (País Vasco)Eurosport 1 | ▶ EUROSPORT360 3 (DE)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=7adbca42657ace1fe228142d351d0896974bbe0c&api_password=moifire
+#EXTINF:-1 group-title="O Gran Camiño" tvg-name="▶ EUROSPORT360 4 (DE)",15:30 | Etapa 1Torre de Hércules › Torre de Hércules (14,8 km) vs HBO MAXDAZN (Ver en directo)TVG (Galicia)ETB1 (País Vasco)Eurosport 1 | ▶ EUROSPORT360 4 (DE)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=1b6b6c0ddc0534236b3bae78f41d2bc27cd11f64&api_password=moifire
+#EXTINF:-1 group-title="O Gran Camiño" tvg-name="▶ EUROSPORT360 5 (DE)",15:30 | Etapa 1Torre de Hércules › Torre de Hércules (14,8 km) vs HBO MAXDAZN (Ver en directo)TVG (Galicia)ETB1 (País Vasco)Eurosport 1 | ▶ EUROSPORT360 5 (DE)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=148921c4dda96df445e253d6f26c4d092bf85809&api_password=moifire
+#EXTINF:-1 group-title="O Gran Camiño" tvg-name="▶ EUROSPORT360 6 (DE)",15:30 | Etapa 1Torre de Hércules › Torre de Hércules (14,8 km) vs HBO MAXDAZN (Ver en directo)TVG (Galicia)ETB1 (País Vasco)Eurosport 1 | ▶ EUROSPORT360 6 (DE)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=005ac522315699bd93bbf743329eb2f3c347dc3f&api_password=moifire
+#EXTINF:-1 group-title="O Gran Camiño" tvg-name="▶ EUROSPORT360 7 (DE)",15:30 | Etapa 1Torre de Hércules › Torre de Hércules (14,8 km) vs HBO MAXDAZN (Ver en directo)TVG (Galicia)ETB1 (País Vasco)Eurosport 1 | ▶ EUROSPORT360 7 (DE)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=b18657f64507cc859cd7edef1aef90feb053e791&api_password=moifire
+#EXTINF:-1 group-title="O Gran Camiño" tvg-name="▶ EUROSPORT360 8 (DE)",15:30 | Etapa 1Torre de Hércules › Torre de Hércules (14,8 km) vs HBO MAXDAZN (Ver en directo)TVG (Galicia)ETB1 (País Vasco)Eurosport 1 | ▶ EUROSPORT360 8 (DE)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=8f4f572005ca2557743474087aa622693ba9b5fe&api_password=moifire
+#EXTINF:-1 group-title="O Gran Camiño" tvg-name="▶ EUROSPORT 1 (DE)",15:30 | Etapa 1Torre de Hércules › Torre de Hércules (14,8 km) vs HBO MAXDAZN (Ver en directo)TVG (Galicia)ETB1 (País Vasco)Eurosport 1 | ▶ EUROSPORT 1 (DE)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766&api_password=moifire
+#EXTINF:-1 group-title="O Gran Camiño" tvg-name="▶ EUROSPORT 1 (RU)",15:30 | Etapa 1Torre de Hércules › Torre de Hércules (14,8 km) vs HBO MAXDAZN (Ver en directo)TVG (Galicia)ETB1 (País Vasco)Eurosport 1 | ▶ EUROSPORT 1 (RU)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=1b0bc4d4dcd609d3c092712e721392b199f50a62&api_password=moifire
+#EXTINF:-1 group-title="O Gran Camiño" tvg-name="▶ EUROSPORT (PL)",15:30 | Etapa 1Torre de Hércules › Torre de Hércules (14,8 km) vs HBO MAXDAZN (Ver en directo)TVG (Galicia)ETB1 (País Vasco)Eurosport 1 | ▶ EUROSPORT (PL)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=314eb626864faf52e01624361bd6906b5406127f&api_password=moifire
+#EXTINF:-1 group-title="Torneo de Múnich1ª Ronda" tvg-name="▶ M+ DEPORTES 3 720P *",15:30 | F. Marozsan vs S. Tsitsipas | ▶ M+ DEPORTES 3 720P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d&api_password=moifire
+#EXTINF:-1 group-title="Torneo de Múnich1ª Ronda" tvg-name="▶ M+ DEPORTES 3 1080P *",15:30 | F. Marozsan vs S. Tsitsipas | ▶ M+ DEPORTES 3 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=f4d9011721fad5098febbe4d7c078a582e176a01&api_password=moifire
+#EXTINF:-1 group-title="Torneo de Múnich1ª Ronda" tvg-name="▶ M+ DEPORTES 3 1080P **",15:30 | F. Marozsan vs S. Tsitsipas | ▶ M+ DEPORTES 3 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903&api_password=moifire
+#EXTINF:-1 group-title="Torneo de Múnich1ª Ronda" tvg-name="▶ MOVISTAR DEPORTES 3",15:30 | F. Marozsan vs S. Tsitsipas | ▶ MOVISTAR DEPORTES 3
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=39fefdecfc953dcf6e7c589739bf486c2e605ed0&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ LA 1",16:00 | B. Nakashima vs JM. Cerúndolo | ▶ LA 1
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=dad5e0e0825cb3e410008f1c4252387b868e740c&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ TELEDEPORTE 720P **",16:00 | C. Alcaraz vs O. Virtanen | ▶ TELEDEPORTE 720P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=b0d1489c9f3239349665ad5ab423363f2b02e5ae&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ TELEDEPORTE 1080P **",16:00 | C. Alcaraz vs O. Virtanen | ▶ TELEDEPORTE 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=3b50a1dca0977e3761d016edd79314ab797f74f6&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ TELEDEPORTE 1080P **",16:00 | C. Alcaraz vs O. Virtanen | ▶ TELEDEPORTE 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=77cf022557c56cdf8d8115f50e61f846ad72ee05&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ LA 1",16:00 | C. Alcaraz vs O. Virtanen | ▶ LA 1
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=dad5e0e0825cb3e410008f1c4252387b868e740c&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ M+ DEPORTES 2 720P *",16:00 | C. Alcaraz vs O. Virtanen | ▶ M+ DEPORTES 2 720P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=6b15368775693c33c49fab02e7900c1976a5da90&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ M+ DEPORTES 2 1080P *",16:00 | C. Alcaraz vs O. Virtanen | ▶ M+ DEPORTES 2 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=3774d8feab016ca766b35ea8488e7514ca30e0ee&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ M+ DEPORTES 2 1080P **",16:00 | C. Alcaraz vs O. Virtanen | ▶ M+ DEPORTES 2 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=890901fa742b19d8808cf49f19db2d3016437c56&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ M+ DEPORTES 2 1080P **",16:00 | C. Alcaraz vs O. Virtanen | ▶ M+ DEPORTES 2 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ MOVISTAR DEPORTES 2",16:00 | C. Alcaraz vs O. Virtanen | ▶ MOVISTAR DEPORTES 2
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=3afe1af18f8ff78e9946856911b00c67477052b5&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ ESPORT3 720P **",16:00 | C. Alcaraz vs O. Virtanen | ▶ ESPORT3 720P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=ed6524f8f73c30cf102fde66f2cb520f4b5842e3&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ ESPORT3 1080P **",16:00 | C. Alcaraz vs O. Virtanen | ▶ ESPORT3 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=8f59ce96e4c902ba2f5193af07546d7ff17fc3bc&api_password=moifire
+#EXTINF:-1 group-title="Primera FederaciónGrupo 1" tvg-name="▶ RFEF TV 1080P *",17:00 | RM Castilla vs Ourense CF | ▶ RFEF TV 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=7b742628b9f7e82902bdbc1ff92eba1988875cfc&api_password=moifire
+#EXTINF:-1 group-title="Primera FederaciónGrupo 1" tvg-name="▶ CANAL 1 (1RFEF) (SOLO EVENTOS)",17:00 | RM Castilla vs Ourense CF | ▶ CANAL 1 (1RFEF) (SOLO EVENTOS)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=c1ee6e1e0ef5928d8261f855c417de21794f437d&api_password=moifire
+#EXTINF:-1 group-title="Primera FederaciónGrupo 1" tvg-name="▶ CANAL 2 (1RFEF) (SOLO EVENTOS)",17:00 | RM Castilla vs Ourense CF | ▶ CANAL 2 (1RFEF) (SOLO EVENTOS)
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=8677d339ecddd75165c0015025f598b6215974cf&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ LA 1",17:30 | A. Fils vs T. Atmane | ▶ LA 1
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=dad5e0e0825cb3e410008f1c4252387b868e740c&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ TELEDEPORTE 720P **",17:30 | M. Navone vs A. Rublev | ▶ TELEDEPORTE 720P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=b0d1489c9f3239349665ad5ab423363f2b02e5ae&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ TELEDEPORTE 1080P **",17:30 | M. Navone vs A. Rublev | ▶ TELEDEPORTE 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=3b50a1dca0977e3761d016edd79314ab797f74f6&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ TELEDEPORTE 1080P **",17:30 | M. Navone vs A. Rublev | ▶ TELEDEPORTE 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=77cf022557c56cdf8d8115f50e61f846ad72ee05&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ LA 1",17:30 | M. Navone vs A. Rublev | ▶ LA 1
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=dad5e0e0825cb3e410008f1c4252387b868e740c&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ M+ DEPORTES 2 720P *",17:30 | M. Navone vs A. Rublev | ▶ M+ DEPORTES 2 720P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=6b15368775693c33c49fab02e7900c1976a5da90&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ M+ DEPORTES 2 1080P *",17:30 | M. Navone vs A. Rublev | ▶ M+ DEPORTES 2 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=3774d8feab016ca766b35ea8488e7514ca30e0ee&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ M+ DEPORTES 2 1080P **",17:30 | M. Navone vs A. Rublev | ▶ M+ DEPORTES 2 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=890901fa742b19d8808cf49f19db2d3016437c56&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ M+ DEPORTES 2 1080P **",17:30 | M. Navone vs A. Rublev | ▶ M+ DEPORTES 2 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ MOVISTAR DEPORTES 2",17:30 | M. Navone vs A. Rublev | ▶ MOVISTAR DEPORTES 2
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=3afe1af18f8ff78e9946856911b00c67477052b5&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ ESPORT3 720P **",17:30 | M. Navone vs A. Rublev | ▶ ESPORT3 720P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=ed6524f8f73c30cf102fde66f2cb520f4b5842e3&api_password=moifire
+#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ ESPORT3 1080P **",17:30 | M. Navone vs A. Rublev | ▶ ESPORT3 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=8f59ce96e4c902ba2f5193af07546d7ff17fc3bc&api_password=moifire
+#EXTINF:-1 group-title="Saudi Pro League" tvg-name="▶ M+ LIGA DE CAMPEONES 4 1080P *",20:00 | Al Qadisiya vs Al Shabab FC | ▶ M+ LIGA DE CAMPEONES 4 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=91ac4585368992720ec17ffa5b4389368c6dcac1&api_password=moifire
+#EXTINF:-1 group-title="Saudi Pro League" tvg-name="▶ LIGA DE CAMPEONES 4",20:00 | Al Qadisiya vs Al Shabab FC | ▶ LIGA DE CAMPEONES 4
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=77998f8161373611ff6b348e7eda5b4e97d3ec29&api_password=moifire
+#EXTINF:-1 group-title="Saudi Pro League" tvg-name="▶ LIGA DE CAMPEONES 4",20:00 | Al Qadisiya vs Al Shabab FC | ▶ LIGA DE CAMPEONES 4
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=53cd86466d1faed03a607be92af601f7e8da128f&api_password=moifire
+#EXTINF:-1 group-title="Saudi Pro League" tvg-name="▶ LIGA DE CAMPEONES 4",20:00 | Al Qadisiya vs Al Shabab FC | ▶ LIGA DE CAMPEONES 4
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661&api_password=moifire
+#EXTINF:-1 group-title="FIFA Copa Mundial FemeninaFase de Clasificación" tvg-name="▶ LA 1",20:00 | Inglaterra vs España | ▶ LA 1
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=dad5e0e0825cb3e410008f1c4252387b868e740c&api_password=moifire
+#EXTINF:-1 group-title="Champions League1/4 de Final" tvg-name="▶ M+ LIGA DE CAMPEONES 1080P **",21:00 | At. Madrid vs FC Barcelona | ▶ M+ LIGA DE CAMPEONES 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=9db029dff6a9c637d1f670e78dbc1a479b9b406e&api_password=moifire
+#EXTINF:-1 group-title="Champions League1/4 de Final" tvg-name="▶ M+ LIGA DE CAMPEONES 1080P **",21:00 | At. Madrid vs FC Barcelona | ▶ M+ LIGA DE CAMPEONES 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=2b51710cee513e8939785fa3e7980f32d4e0415f&api_password=moifire
+#EXTINF:-1 group-title="Champions League1/4 de Final" tvg-name="▶ M+ LIGA DE CAMPEONES 1080P **",21:00 | At. Madrid vs FC Barcelona | ▶ M+ LIGA DE CAMPEONES 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=97df5b7824948972d041d8ca2a4d29c90b641bc9&api_password=moifire
+#EXTINF:-1 group-title="Champions League1/4 de Final" tvg-name="▶ LIGA DE CAMPEONES",21:00 | At. Madrid vs FC Barcelona | ▶ LIGA DE CAMPEONES
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc&api_password=moifire
+#EXTINF:-1 group-title="Champions League1/4 de Final" tvg-name="▶ LIGA DE CAMPEONES",21:00 | At. Madrid vs FC Barcelona | ▶ LIGA DE CAMPEONES
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a&api_password=moifire
+#EXTINF:-1 group-title="Champions League1/4 de Final" tvg-name="▶ LIGA DE CAMPEONES",21:00 | At. Madrid vs FC Barcelona | ▶ LIGA DE CAMPEONES
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=afbf2a479c5a5072698139f0f556ef3e77a99bd0&api_password=moifire
+#EXTINF:-1 group-title="Champions League1/4 de Final" tvg-name="▶ LIGA DE CAMPEONES",21:00 | At. Madrid vs FC Barcelona | ▶ LIGA DE CAMPEONES
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=afbf1ef8812e7b0a0977fa3a0a2d3a6d3cbd6c6f&api_password=moifire
+#EXTINF:-1 group-title="Champions League1/4 de Final" tvg-name="▶ LIGA DE CAMPEONES",21:00 | At. Madrid vs FC Barcelona | ▶ LIGA DE CAMPEONES
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=e572a5178ff72eed7d1d751a18b4b3419699f370&api_password=moifire
+#EXTINF:-1 group-title="Champions League1/4 de Final" tvg-name="▶ LIGA DE CAMPEONES 11",21:00 | At. Madrid vs FC Barcelona | ▶ LIGA DE CAMPEONES 11
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=6e12a5849a4edea248ed9c8689e58bd66fc9f8fa&api_password=moifire
+#EXTINF:-1 group-title="Champions League1/4 de Final" tvg-name="▶ M+ LIGA DE CAMPEONES 3 1080P **",21:00 | At. Madrid vs FC Barcelona | ▶ M+ LIGA DE CAMPEONES 3 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=85a8e0675bc27ddfd403b8f72953c606d07a8de8&api_password=moifire
+#EXTINF:-1 group-title="Champions League1/4 de Final" tvg-name="▶ LIGA DE CAMPEONES 3",21:00 | At. Madrid vs FC Barcelona | ▶ LIGA DE CAMPEONES 3
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=07976f79d17a439d7aff46cf0d4cfdf80311caf5&api_password=moifire
+#EXTINF:-1 group-title="Champions League1/4 de Final" tvg-name="▶ LIGA DE CAMPEONES 3",21:00 | At. Madrid vs FC Barcelona | ▶ LIGA DE CAMPEONES 3
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=66b373c0da20ac615996dbd1c340087f50a9a39e&api_password=moifire
+#EXTINF:-1 group-title="Champions League1/4 de Final" tvg-name="▶ LIGA DE CAMPEONES 3",21:00 | At. Madrid vs FC Barcelona | ▶ LIGA DE CAMPEONES 3
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=5b7f54b12e0f96ceba1299f44eac4b0f97403e4e&api_password=moifire
+#EXTINF:-1 group-title="Champions League1/4 de Final" tvg-name="▶ LIGA DE CAMPEONES 3",21:00 | At. Madrid vs FC Barcelona | ▶ LIGA DE CAMPEONES 3
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=cfc371890bfb502737a26de5215e50929c52d0f9&api_password=moifire
+#EXTINF:-1 group-title="Champions League1/4 de Final" tvg-name="▶ LIGA DE CAMPEONES 3",21:00 | At. Madrid vs FC Barcelona | ▶ LIGA DE CAMPEONES 3
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373&api_password=moifire
+#EXTINF:-1 group-title="Champions League1/4 de Final" tvg-name="▶ M+ LIGA DE CAMPEONES 2 720P **",21:00 | Liverpool vs PSG | ▶ M+ LIGA DE CAMPEONES 2 720P **
 http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=38f7b2044e549df2039ff26cefa6f9a60c854d5e&api_password=moifire
-#EXTINF:-1 group-title="Primera División ArgentinaTorneo Apertura" tvg-name="▶ M+ LIGA DE CAMPEONES 2 1080P **",01:00 | Racing Avellaneda vs River Plate | ▶ M+ LIGA DE CAMPEONES 2 1080P **
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=74ab4e4ec7e2da001f473ca40893b7307b8029c5&api_password=moifire
-#EXTINF:-1 group-title="Primera División ArgentinaTorneo Apertura" tvg-name="▶ LIGA DE CAMPEONES 2",01:00 | Racing Avellaneda vs River Plate | ▶ LIGA DE CAMPEONES 2
+#EXTINF:-1 group-title="Champions League1/4 de Final" tvg-name="▶ M+ LIGA DE CAMPEONES 2 1080P *",21:00 | Liverpool vs PSG | ▶ M+ LIGA DE CAMPEONES 2 1080P *
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=8156912ae14f6174a19c8a4efcf36a06e847f632&api_password=moifire
+#EXTINF:-1 group-title="Champions League1/4 de Final" tvg-name="▶ LIGA DE CAMPEONES 2",21:00 | Liverpool vs PSG | ▶ LIGA DE CAMPEONES 2
 http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb&api_password=moifire
-#EXTINF:-1 group-title="Primera División ArgentinaTorneo Apertura" tvg-name="▶ LIGA DE CAMPEONES 2",01:00 | Racing Avellaneda vs River Plate | ▶ LIGA DE CAMPEONES 2
+#EXTINF:-1 group-title="Champions League1/4 de Final" tvg-name="▶ LIGA DE CAMPEONES 2",21:00 | Liverpool vs PSG | ▶ LIGA DE CAMPEONES 2
 http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=4fc6d0331830ad8743abab2fe2473b63bdfbc49f&api_password=moifire
-#EXTINF:-1 group-title="Primera División ArgentinaTorneo Apertura" tvg-name="▶ LIGA DE CAMPEONES 2",01:00 | Racing Avellaneda vs River Plate | ▶ LIGA DE CAMPEONES 2
+#EXTINF:-1 group-title="Champions League1/4 de Final" tvg-name="▶ LIGA DE CAMPEONES 2",21:00 | Liverpool vs PSG | ▶ LIGA DE CAMPEONES 2
 http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=498c56bd00f535e440c392de5af992421a31355c&api_password=moifire
-#EXTINF:-1 group-title="Primera División ArgentinaTorneo Apertura" tvg-name="▶ LIGA DE CAMPEONES 2",01:00 | Racing Avellaneda vs River Plate | ▶ LIGA DE CAMPEONES 2
+#EXTINF:-1 group-title="Champions League1/4 de Final" tvg-name="▶ LIGA DE CAMPEONES 2",21:00 | Liverpool vs PSG | ▶ LIGA DE CAMPEONES 2
 http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=4b18a3b32df5960ed950fa907f8d509b1ad2a188&api_password=moifire
-#EXTINF:-1 group-title="Primera División ArgentinaTorneo Apertura" tvg-name="▶ LIGA DE CAMPEONES 2",01:00 | Racing Avellaneda vs River Plate | ▶ LIGA DE CAMPEONES 2
+#EXTINF:-1 group-title="Champions League1/4 de Final" tvg-name="▶ LIGA DE CAMPEONES 2",21:00 | Liverpool vs PSG | ▶ LIGA DE CAMPEONES 2
 http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=ea03cc51980996ba6f2da49e30eee1de8a66ae54&api_password=moifire
-#EXTINF:-1 group-title="Primera División ArgentinaTorneo Apertura" tvg-name="▶ LIGA DE CAMPEONES 2",01:00 | Racing Avellaneda vs River Plate | ▶ LIGA DE CAMPEONES 2
+#EXTINF:-1 group-title="Champions League1/4 de Final" tvg-name="▶ LIGA DE CAMPEONES 2",21:00 | Liverpool vs PSG | ▶ LIGA DE CAMPEONES 2
 http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea&api_password=moifire
-#EXTINF:-1 group-title="Torneo de Múnich1ª Ronda" tvg-name="▶ M+ DEPORTES 3 720P *",11:00 | A. Rinderknech vs A. Michelsen | ▶ M+ DEPORTES 3 720P *
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d&api_password=moifire
-#EXTINF:-1 group-title="Torneo de Múnich1ª Ronda" tvg-name="▶ M+ DEPORTES 3 1080P *",11:00 | A. Rinderknech vs A. Michelsen | ▶ M+ DEPORTES 3 1080P *
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=f4d9011721fad5098febbe4d7c078a582e176a01&api_password=moifire
-#EXTINF:-1 group-title="Torneo de Múnich1ª Ronda" tvg-name="▶ M+ DEPORTES 3 1080P **",11:00 | A. Rinderknech vs A. Michelsen | ▶ M+ DEPORTES 3 1080P **
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903&api_password=moifire
-#EXTINF:-1 group-title="Torneo de Múnich1ª Ronda" tvg-name="▶ MOVISTAR DEPORTES 3",11:00 | A. Rinderknech vs A. Michelsen | ▶ MOVISTAR DEPORTES 3
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=39fefdecfc953dcf6e7c589739bf486c2e605ed0&api_password=moifire
-#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ TELEDEPORTE 720P **",11:00 | I. Buse vs C. Moutet | ▶ TELEDEPORTE 720P **
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=b0d1489c9f3239349665ad5ab423363f2b02e5ae&api_password=moifire
-#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ TELEDEPORTE 1080P **",11:00 | I. Buse vs C. Moutet | ▶ TELEDEPORTE 1080P **
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=3b50a1dca0977e3761d016edd79314ab797f74f6&api_password=moifire
-#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ TELEDEPORTE 1080P **",11:00 | I. Buse vs C. Moutet | ▶ TELEDEPORTE 1080P **
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=77cf022557c56cdf8d8115f50e61f846ad72ee05&api_password=moifire
-#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ LA 1",11:00 | I. Buse vs C. Moutet | ▶ LA 1
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=dad5e0e0825cb3e410008f1c4252387b868e740c&api_password=moifire
-#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ M+ DEPORTES 2 720P *",11:00 | I. Buse vs C. Moutet | ▶ M+ DEPORTES 2 720P *
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=6b15368775693c33c49fab02e7900c1976a5da90&api_password=moifire
-#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ M+ DEPORTES 2 1080P *",11:00 | I. Buse vs C. Moutet | ▶ M+ DEPORTES 2 1080P *
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=3774d8feab016ca766b35ea8488e7514ca30e0ee&api_password=moifire
-#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ M+ DEPORTES 2 1080P **",11:00 | I. Buse vs C. Moutet | ▶ M+ DEPORTES 2 1080P **
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=890901fa742b19d8808cf49f19db2d3016437c56&api_password=moifire
-#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ M+ DEPORTES 2 1080P **",11:00 | I. Buse vs C. Moutet | ▶ M+ DEPORTES 2 1080P **
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&api_password=moifire
-#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ MOVISTAR DEPORTES 2",11:00 | I. Buse vs C. Moutet | ▶ MOVISTAR DEPORTES 2
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=3afe1af18f8ff78e9946856911b00c67477052b5&api_password=moifire
-#EXTINF:-1 group-title="Torneo de Múnich1ª Ronda" tvg-name="▶ M+ DEPORTES 3 720P *",12:30 | JL. Struff vs F. Cerúndolo | ▶ M+ DEPORTES 3 720P *
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d&api_password=moifire
-#EXTINF:-1 group-title="Torneo de Múnich1ª Ronda" tvg-name="▶ M+ DEPORTES 3 1080P *",12:30 | JL. Struff vs F. Cerúndolo | ▶ M+ DEPORTES 3 1080P *
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=f4d9011721fad5098febbe4d7c078a582e176a01&api_password=moifire
-#EXTINF:-1 group-title="Torneo de Múnich1ª Ronda" tvg-name="▶ M+ DEPORTES 3 1080P **",12:30 | JL. Struff vs F. Cerúndolo | ▶ M+ DEPORTES 3 1080P **
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903&api_password=moifire
-#EXTINF:-1 group-title="Torneo de Múnich1ª Ronda" tvg-name="▶ MOVISTAR DEPORTES 3",12:30 | JL. Struff vs F. Cerúndolo | ▶ MOVISTAR DEPORTES 3
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=39fefdecfc953dcf6e7c589739bf486c2e605ed0&api_password=moifire
-#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ TELEDEPORTE 720P **",12:30 | TM. Etcheverry vs J. Draper | ▶ TELEDEPORTE 720P **
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=b0d1489c9f3239349665ad5ab423363f2b02e5ae&api_password=moifire
-#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ TELEDEPORTE 1080P **",12:30 | TM. Etcheverry vs J. Draper | ▶ TELEDEPORTE 1080P **
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=3b50a1dca0977e3761d016edd79314ab797f74f6&api_password=moifire
-#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ TELEDEPORTE 1080P **",12:30 | TM. Etcheverry vs J. Draper | ▶ TELEDEPORTE 1080P **
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=77cf022557c56cdf8d8115f50e61f846ad72ee05&api_password=moifire
-#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ LA 1",12:30 | TM. Etcheverry vs J. Draper | ▶ LA 1
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=dad5e0e0825cb3e410008f1c4252387b868e740c&api_password=moifire
-#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ M+ DEPORTES 2 720P *",12:30 | TM. Etcheverry vs J. Draper | ▶ M+ DEPORTES 2 720P *
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=6b15368775693c33c49fab02e7900c1976a5da90&api_password=moifire
-#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ M+ DEPORTES 2 1080P *",12:30 | TM. Etcheverry vs J. Draper | ▶ M+ DEPORTES 2 1080P *
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=3774d8feab016ca766b35ea8488e7514ca30e0ee&api_password=moifire
-#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ M+ DEPORTES 2 1080P **",12:30 | TM. Etcheverry vs J. Draper | ▶ M+ DEPORTES 2 1080P **
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=890901fa742b19d8808cf49f19db2d3016437c56&api_password=moifire
-#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ M+ DEPORTES 2 1080P **",12:30 | TM. Etcheverry vs J. Draper | ▶ M+ DEPORTES 2 1080P **
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&api_password=moifire
-#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ MOVISTAR DEPORTES 2",12:30 | TM. Etcheverry vs J. Draper | ▶ MOVISTAR DEPORTES 2
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=3afe1af18f8ff78e9946856911b00c67477052b5&api_password=moifire
-#EXTINF:-1 group-title="Torneo de Múnich1ª Ronda" tvg-name="▶ M+ DEPORTES 3 720P *",14:00 | E. Nava vs B. Shelton | ▶ M+ DEPORTES 3 720P *
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d&api_password=moifire
-#EXTINF:-1 group-title="Torneo de Múnich1ª Ronda" tvg-name="▶ M+ DEPORTES 3 1080P *",14:00 | E. Nava vs B. Shelton | ▶ M+ DEPORTES 3 1080P *
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=f4d9011721fad5098febbe4d7c078a582e176a01&api_password=moifire
-#EXTINF:-1 group-title="Torneo de Múnich1ª Ronda" tvg-name="▶ M+ DEPORTES 3 1080P **",14:00 | E. Nava vs B. Shelton | ▶ M+ DEPORTES 3 1080P **
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903&api_password=moifire
-#EXTINF:-1 group-title="Torneo de Múnich1ª Ronda" tvg-name="▶ MOVISTAR DEPORTES 3",14:00 | E. Nava vs B. Shelton | ▶ MOVISTAR DEPORTES 3
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=39fefdecfc953dcf6e7c589739bf486c2e605ed0&api_password=moifire
-#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ LA 1",14:00 | R. Opelka vs E. Quinn | ▶ LA 1
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=dad5e0e0825cb3e410008f1c4252387b868e740c&api_password=moifire
-#EXTINF:-1 group-title="Torneo de Múnich1ª Ronda" tvg-name="▶ M+ DEPORTES 3 720P *",15:30 | A. Blockx vs Y. Hanfmann | ▶ M+ DEPORTES 3 720P *
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d&api_password=moifire
-#EXTINF:-1 group-title="Torneo de Múnich1ª Ronda" tvg-name="▶ M+ DEPORTES 3 1080P *",15:30 | A. Blockx vs Y. Hanfmann | ▶ M+ DEPORTES 3 1080P *
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=f4d9011721fad5098febbe4d7c078a582e176a01&api_password=moifire
-#EXTINF:-1 group-title="Torneo de Múnich1ª Ronda" tvg-name="▶ M+ DEPORTES 3 1080P **",15:30 | A. Blockx vs Y. Hanfmann | ▶ M+ DEPORTES 3 1080P **
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903&api_password=moifire
-#EXTINF:-1 group-title="Torneo de Múnich1ª Ronda" tvg-name="▶ MOVISTAR DEPORTES 3",15:30 | A. Blockx vs Y. Hanfmann | ▶ MOVISTAR DEPORTES 3
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=39fefdecfc953dcf6e7c589739bf486c2e605ed0&api_password=moifire
-#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ LA 1",15:30 | M. Trungelliti vs H. Medjedovic | ▶ LA 1
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=dad5e0e0825cb3e410008f1c4252387b868e740c&api_password=moifire
-#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ TELEDEPORTE 720P **",16:00 | C. Norrie vs S. Wawrinka | ▶ TELEDEPORTE 720P **
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=b0d1489c9f3239349665ad5ab423363f2b02e5ae&api_password=moifire
-#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ TELEDEPORTE 1080P **",16:00 | C. Norrie vs S. Wawrinka | ▶ TELEDEPORTE 1080P **
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=3b50a1dca0977e3761d016edd79314ab797f74f6&api_password=moifire
-#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ TELEDEPORTE 1080P **",16:00 | C. Norrie vs S. Wawrinka | ▶ TELEDEPORTE 1080P **
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=77cf022557c56cdf8d8115f50e61f846ad72ee05&api_password=moifire
-#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ LA 1",16:00 | C. Norrie vs S. Wawrinka | ▶ LA 1
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=dad5e0e0825cb3e410008f1c4252387b868e740c&api_password=moifire
-#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ M+ DEPORTES 2 720P *",16:00 | C. Norrie vs S. Wawrinka | ▶ M+ DEPORTES 2 720P *
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=6b15368775693c33c49fab02e7900c1976a5da90&api_password=moifire
-#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ M+ DEPORTES 2 1080P *",16:00 | C. Norrie vs S. Wawrinka | ▶ M+ DEPORTES 2 1080P *
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=3774d8feab016ca766b35ea8488e7514ca30e0ee&api_password=moifire
-#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ M+ DEPORTES 2 1080P **",16:00 | C. Norrie vs S. Wawrinka | ▶ M+ DEPORTES 2 1080P **
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=890901fa742b19d8808cf49f19db2d3016437c56&api_password=moifire
-#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ M+ DEPORTES 2 1080P **",16:00 | C. Norrie vs S. Wawrinka | ▶ M+ DEPORTES 2 1080P **
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&api_password=moifire
-#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ MOVISTAR DEPORTES 2",16:00 | C. Norrie vs S. Wawrinka | ▶ MOVISTAR DEPORTES 2
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=3afe1af18f8ff78e9946856911b00c67477052b5&api_password=moifire
-#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ ESPORT3 1080P **",16:00 | C. Norrie vs S. Wawrinka | ▶ ESPORT3 1080P **
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=8f59ce96e4c902ba2f5193af07546d7ff17fc3bc&api_password=moifire
-#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ LA 1",17:00 | N. Borges vs A. Mannarino | ▶ LA 1
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=dad5e0e0825cb3e410008f1c4252387b868e740c&api_password=moifire
-#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ TELEDEPORTE 720P **",17:30 | J. Munar vs R. Jodar | ▶ TELEDEPORTE 720P **
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=b0d1489c9f3239349665ad5ab423363f2b02e5ae&api_password=moifire
-#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ TELEDEPORTE 1080P **",17:30 | J. Munar vs R. Jodar | ▶ TELEDEPORTE 1080P **
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=3b50a1dca0977e3761d016edd79314ab797f74f6&api_password=moifire
-#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ TELEDEPORTE 1080P **",17:30 | J. Munar vs R. Jodar | ▶ TELEDEPORTE 1080P **
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=77cf022557c56cdf8d8115f50e61f846ad72ee05&api_password=moifire
-#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ LA 1",17:30 | J. Munar vs R. Jodar | ▶ LA 1
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=dad5e0e0825cb3e410008f1c4252387b868e740c&api_password=moifire
-#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ M+ DEPORTES 2 720P *",17:30 | J. Munar vs R. Jodar | ▶ M+ DEPORTES 2 720P *
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=6b15368775693c33c49fab02e7900c1976a5da90&api_password=moifire
-#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ M+ DEPORTES 2 1080P *",17:30 | J. Munar vs R. Jodar | ▶ M+ DEPORTES 2 1080P *
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=3774d8feab016ca766b35ea8488e7514ca30e0ee&api_password=moifire
-#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ M+ DEPORTES 2 1080P **",17:30 | J. Munar vs R. Jodar | ▶ M+ DEPORTES 2 1080P **
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=890901fa742b19d8808cf49f19db2d3016437c56&api_password=moifire
-#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ M+ DEPORTES 2 1080P **",17:30 | J. Munar vs R. Jodar | ▶ M+ DEPORTES 2 1080P **
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&api_password=moifire
-#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ MOVISTAR DEPORTES 2",17:30 | J. Munar vs R. Jodar | ▶ MOVISTAR DEPORTES 2
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=3afe1af18f8ff78e9946856911b00c67477052b5&api_password=moifire
-#EXTINF:-1 group-title="Barcelona Open1ª Ronda" tvg-name="▶ ESPORT3 1080P **",17:30 | J. Munar vs R. Jodar | ▶ ESPORT3 1080P **
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=8f59ce96e4c902ba2f5193af07546d7ff17fc3bc&api_password=moifire
-#EXTINF:-1 group-title="LaLiga Hypermotion" tvg-name="▶ LALIGA TV HYPERMOTION 720P *",20:30 | Real Valladolid vs Eibar | ▶ LALIGA TV HYPERMOTION 720P *
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=1f75d92098580443857caa95a719103cb83781b0&api_password=moifire
-#EXTINF:-1 group-title="LaLiga Hypermotion" tvg-name="▶ LALIGA TV HYPERMOTION 720P **",20:30 | Real Valladolid vs Eibar | ▶ LALIGA TV HYPERMOTION 720P **
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=a4f072c9b614323ac1258a175f868a909ea3c8cd&api_password=moifire
-#EXTINF:-1 group-title="LaLiga Hypermotion" tvg-name="▶ LALIGA TV HYPERMOTION 1080P *",20:30 | Real Valladolid vs Eibar | ▶ LALIGA TV HYPERMOTION 1080P *
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=4636ed75106cb00e9c70cc2029edf0a4df7ad73f&api_password=moifire
-#EXTINF:-1 group-title="LaLiga Hypermotion" tvg-name="▶ LALIGA TV HYPERMOTION 1080P **",20:30 | Real Valladolid vs Eibar | ▶ LALIGA TV HYPERMOTION 1080P **
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0&api_password=moifire
-#EXTINF:-1 group-title="LaLiga Hypermotion" tvg-name="▶ HYPERMOTION",20:30 | Real Valladolid vs Eibar | ▶ HYPERMOTION
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=58b1c4b8cb65d648505b035a04e879672fcd8e3f&api_password=moifire
-#EXTINF:-1 group-title="LaLiga Hypermotion" tvg-name="▶ HYPERMOTION",20:30 | Real Valladolid vs Eibar | ▶ HYPERMOTION
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=fc129b39c253b887563c3f0dce5fca7e699c3047&api_password=moifire
-#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ DAZN LALIGA 720P **",21:00 | Levante vs Getafe | ▶ DAZN LALIGA 720P **
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f&api_password=moifire
-#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ DAZN LALIGA 1080P **",21:00 | Levante vs Getafe | ▶ DAZN LALIGA 1080P **
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05&api_password=moifire
-#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ DAZN LALIGA 1080P **",21:00 | Levante vs Getafe | ▶ DAZN LALIGA 1080P **
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=4955867fad3bc92e5b4c36045699fc277800fb18&api_password=moifire
-#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ DAZN LALIGA **",21:00 | Levante vs Getafe | ▶ DAZN LALIGA **
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=9c75f1d190c518cfe0f236415b8dccc1f676ef3b&api_password=moifire
-#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ DAZN LA LIGA 1",21:00 | Levante vs Getafe | ▶ DAZN LA LIGA 1
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=19f28f60c908f987b1a03da078e63320d7bf29e8&api_password=moifire
-#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ DAZN LA LIGA 1",21:00 | Levante vs Getafe | ▶ DAZN LA LIGA 1
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=d1596a3988b84a4d2711fd380eb8a53256ad74ae&api_password=moifire
-#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ DAZN LA LIGA 1",21:00 | Levante vs Getafe | ▶ DAZN LA LIGA 1
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=71cb5e2567a8b39f5bdc4fa791992781b052f0bc&api_password=moifire
-#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ DAZN LA LIGA 1",21:00 | Levante vs Getafe | ▶ DAZN LA LIGA 1
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=8a25653a2f774f4ae1062d38a30dcd714d304a3a&api_password=moifire
-#EXTINF:-1 group-title="La Liga EA Sports" tvg-name="▶ DAZN LA LIGA 1",21:00 | Levante vs Getafe | ▶ DAZN LA LIGA 1
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a&api_password=moifire
-#EXTINF:-1 group-title="Premier League" tvg-name="▶ DAZN 1 **",21:00 | Manchester Utd. vs Leeds Utd | ▶ DAZN 1 **
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=9afc89481b721ce6c326c85e47148676077b8e62&api_password=moifire
-#EXTINF:-1 group-title="Premier League" tvg-name="▶ DAZN 1",21:00 | Manchester Utd. vs Leeds Utd | ▶ DAZN 1
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=0560234787945a17522e284c4c22bb4df29f33b0&api_password=moifire
-#EXTINF:-1 group-title="Premier League" tvg-name="▶ DAZN 1",21:00 | Manchester Utd. vs Leeds Utd | ▶ DAZN 1
-http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151&api_password=moifire
+#EXTINF:-1 group-title="Champions League1/4 de Final" tvg-name="▶ M+ LIGA DE CAMPEONES 3 1080P **",21:00 | Liverpool vs PSG | ▶ M+ LIGA DE CAMPEONES 3 1080P **
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=85a8e0675bc27ddfd403b8f72953c606d07a8de8&api_password=moifire
+#EXTINF:-1 group-title="Champions League1/4 de Final" tvg-name="▶ LIGA DE CAMPEONES 3",21:00 | Liverpool vs PSG | ▶ LIGA DE CAMPEONES 3
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=07976f79d17a439d7aff46cf0d4cfdf80311caf5&api_password=moifire
+#EXTINF:-1 group-title="Champions League1/4 de Final" tvg-name="▶ LIGA DE CAMPEONES 3",21:00 | Liverpool vs PSG | ▶ LIGA DE CAMPEONES 3
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=66b373c0da20ac615996dbd1c340087f50a9a39e&api_password=moifire
+#EXTINF:-1 group-title="Champions League1/4 de Final" tvg-name="▶ LIGA DE CAMPEONES 3",21:00 | Liverpool vs PSG | ▶ LIGA DE CAMPEONES 3
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=5b7f54b12e0f96ceba1299f44eac4b0f97403e4e&api_password=moifire
+#EXTINF:-1 group-title="Champions League1/4 de Final" tvg-name="▶ LIGA DE CAMPEONES 3",21:00 | Liverpool vs PSG | ▶ LIGA DE CAMPEONES 3
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=cfc371890bfb502737a26de5215e50929c52d0f9&api_password=moifire
+#EXTINF:-1 group-title="Champions League1/4 de Final" tvg-name="▶ LIGA DE CAMPEONES 3",21:00 | Liverpool vs PSG | ▶ LIGA DE CAMPEONES 3
+http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373&api_password=moifire
 
 # RESUMEN FINAL DE EVENTOS
-# 001. 01:00 | Racing Avellaneda vs River Plate
-# 002. 11:00 | A. Rinderknech vs A. Michelsen
-# 003. 11:00 | I. Buse vs C. Moutet
-# 004. 12:30 | JL. Struff vs F. Cerúndolo
-# 005. 12:30 | TM. Etcheverry vs J. Draper
-# 006. 14:00 | E. Nava vs B. Shelton
-# 007. 14:00 | R. Opelka vs E. Quinn
-# 008. 15:30 | A. Blockx vs Y. Hanfmann
-# 009. 15:30 | M. Trungelliti vs H. Medjedovic
-# 010. 16:00 | C. Norrie vs S. Wawrinka
-# 011. 17:00 | N. Borges vs A. Mannarino
-# 012. 17:30 | J. Munar vs R. Jodar
-# 013. 20:30 | Real Valladolid vs Eibar
-# 014. 21:00 | Levante vs Getafe
-# 015. 21:00 | Manchester Utd. vs Leeds Utd
+# 001. 11:00 | A. De Miñaur vs S. Ofner
+# 002. 11:00 | A. Tabilo vs J. Fonseca
+# 003. 11:00 | P. Martínez vs L. Sonego
+# 004. 12:30 | A. Zverev vs M. Kecmanovic
+# 005. 12:30 | C. Ugo Carabelli vs K. Khachanov
+# 006. 12:30 | M. Landaluce vs L. Musetti
+# 007. 14:00 | A. Molcan vs A. Bublik
+# 008. 14:00 | T. Machac vs S. Báez
+# 009. 15:30 | Etapa 1Torre de Hércules › Torre de Hércules (14,8 km) vs HBO MAXDAZN (Ver en directo)TVG (Galicia)ETB1 (País Vasco)Eurosport 1
+# 010. 15:30 | F. Marozsan vs S. Tsitsipas
+# 011. 16:00 | B. Nakashima vs JM. Cerúndolo
+# 012. 16:00 | C. Alcaraz vs O. Virtanen
+# 013. 17:00 | RM Castilla vs Ourense CF
+# 014. 17:30 | A. Fils vs T. Atmane
+# 015. 17:30 | M. Navone vs A. Rublev
+# 016. 20:00 | Al Qadisiya vs Al Shabab FC
+# 017. 20:00 | Inglaterra vs España
+# 018. 21:00 | At. Madrid vs FC Barcelona
+# 019. 21:00 | Liverpool vs PSG
