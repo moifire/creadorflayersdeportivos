@@ -1,1 +1,91 @@
+#EXTM3U
+#EXTINF:-1 ,TNT Sports ARG
+https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
+#EXTINF:-1 ,TyC Sports ARG
+https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
+#EXTINF:-1 ,ESPN LAT
+http://181.191.141.7/Live/51334cbb88db0e050c59ef2d28c53491/local-espnlat_720.m3u8
+#EXTINF:-1 ,ESPN ARG
+http://181.191.141.7/Live/51334cbb88db0e050c59ef2d28c53491/local-espnar_lng.m3u8
+#EXTINF:-1 ,ESPN 2
+http://181.191.141.7/Live/51334cbb88db0e050c59ef2d28c53491/local-espn2ar_lng.m3u8
+#EXTINF:-1 ,ESPN 3
+http://181.191.141.7/Live/51334cbb88db0e050c59ef2d28c53491/local-espn3ar_lng.m3u8
+#EXTINF:-1 ,ESPN 3 720p
+http://181.191.141.7/Live/51334cbb88db0e050c59ef2d28c53491/local-espn3lat_720.m3u8
+#EXTINF:-1 ,ESPN 4 720p
+http://181.191.141.7/Live/51334cbb88db0e050c59ef2d28c53491/local-espn4lat_720.m3u8
+#EXTINF:-1 ,ESPN 4
+http://181.191.141.7/Live/51334cbb88db0e050c59ef2d28c53491/local-espn4lat.playlist.m3u8
+#EXTINF:-1 ,ESPN 5 720p
+http://181.191.141.7/Live/51334cbb88db0e050c59ef2d28c53491/local-espn5lat_720.m3u8
+#EXTINF:-1 ,ESPN 6
+http://181.191.141.7/Live/51334cbb88db0e050c59ef2d28c53491/local-espn6lat_720.m3u8
+#EXTINF:-1 ,ESPN 7
+http://181.191.141.7/Live/51334cbb88db0e050c59ef2d28c53491/local-espn7lt_720.m3u8
+#EXTINF:-1 ,ESPN PREMIUM
+http://181.191.141.7/Live/51334cbb88db0e050c59ef2d28c53491/local-espnpremar_lng.m3u8
+#EXTINF:-1 ,ESPN PREMIUM 720p
+http://181.191.141.7/Live/51334cbb88db0e050c59ef2d28c53491/local-espnpremlat_720.m3u8
+#EXTINF:-1 ,FOX SPORTS
+http://181.191.141.7/Live/51334cbb88db0e050c59ef2d28c53491/local-fox1ar_720.m3u8
+#EXTINF:-1 ,FOX SPORT 2
+http://181.191.141.7/Live/51334cbb88db0e050c59ef2d28c53491/local-fox2ar.playlist.m3u8
+#EXTINF:-1 ,win
+http://8.243.126.131:8000/play/a025/index.m3u8
+#EXTINF:-1 ,Win Sports
+http://181.78.17.52:8000/play/a0pw/index.m3u8
+#EXTINF:-1 ,WIN SPORTS
+http://181.78.71.71:18000/play/a03p/index.m3u8
+#EXTINF:-1 ,win+
+http://190.60.37.154:45000/play/a00q/index.m3u8
+#EXTINF:-1 ,TYC
+http://190.60.37.154:45000/play/a05a/index.m3u8
+#EXTINF:-1 ,DSPORTS 1 🇦🇷
+http://190.117.20.37:8000/play/a08d/index.m3u8
+#EXTINF:-1 ,DSports
+http://205.235.6.29:8000/play/a0nq/index.m3u8
+#EXTINF:-1 ,espn premium
+http://205.235.6.29:8000/play/a0pz/index.m3u8
+#EXTINF:-1 ,tnt sport
+http://205.235.6.29:8000/play/a0xa/index.m3u8
+#EXTINF:-1 ,tnt sport premium
+http://205.235.6.29:8000/play/a104/index.m3u8
+#EXTINF:-1 ,espn
+http://205.235.6.29:8000/play/a0zf/index.m3u8
+#EXTINF:-1 ,espn 7
+http://205.235.6.29:8000/play/a0zv/index.m3u8
+#EXTINF:-1 ,WIN
+http://217.26.190.76:8888/play/a06a/index.m3u8
+#EXTINF:-1 ,DSPORTS +
+http://217.26.190.76:8888/play/a0jb/index.m3u8
+#EXTINF:-1 ,DIRECTV SPORTS
+http://217.26.190.76:8888/play/a0co/index.m3u8
+#EXTINF:-1 ,DSports
+http://38.226.210.46:8000/play/A008/index.m3u8
+#EXTINF:-1 ,dsport
+http://jumangis.cloud:2082/JairoVargas/5T5wLJjTbu/117708
+#EXTINF:-1 ,TUDN USA
+http://m3u.tvcluboficial.com/m/m/957.m3u8
+#EXTINF:-1 ,win sport
+http://m3u.tvcluboficial.com/m/m/1039.m3u8
+#EXTINF:-1 ,win sports+
+http://m3u.tvcluboficial.com/m/m/1042.m3u8
+#EXTINF:-1 ,ADRENALINA SPORTS
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/98.m3u8
+#EXTINF:-1 ,CLARO SPORTS
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/103.m3u8
+#EXTINF:-1 ,TNT SPORTS CHILE
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/462.m3u8
+#EXTINF:-1 ,EUROSPORT 1
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/618.m3u8
+#EXTINF:-1 ,EUROSPORT 2
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/619.m3u8
+#EXTINF:-1 ,BEIN SPORTS Ñ
+https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,DAZN F1
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/374.m3u8
+#EXTINF:-1 ,TUDN 1
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/128.m3u8
+#EXTINF:-1 ,ESPN DEPORTES
 
