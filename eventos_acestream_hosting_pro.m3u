@@ -1,1 +1,91 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/0bcd62a5a0d397b5.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/0bcd62a5a0d397b5_bg.png",TNT Sports ARG
+https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/dd86a3885e16c2d6.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/dd86a3885e16c2d6_bg.png",TyC Sports ARG
+https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/f675d0ad97da42ea.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/f675d0ad97da42ea_bg.png",ESPN LAT
+http://181.191.141.7/Live/51334cbb88db0e050c59ef2d28c53491/local-espnlat_720.m3u8
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/782a7fe4194b27d5.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/782a7fe4194b27d5_bg.png",ESPN ARG
+http://181.191.141.7/Live/51334cbb88db0e050c59ef2d28c53491/local-espnar_lng.m3u8
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/49bf961085a7f54d.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/49bf961085a7f54d_bg.png",ESPN 2
+http://181.191.141.7/Live/51334cbb88db0e050c59ef2d28c53491/local-espn2ar_lng.m3u8
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/cb635dc3460885fe.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/cb635dc3460885fe_bg.png",ESPN 3
+http://181.191.141.7/Live/51334cbb88db0e050c59ef2d28c53491/local-espn3ar_lng.m3u8
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/50c571ba8eddf648.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/50c571ba8eddf648_bg.png",ESPN 3 720p
+http://181.191.141.7/Live/51334cbb88db0e050c59ef2d28c53491/local-espn3lat_720.m3u8
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/1f9f746ec5c679f2.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/1f9f746ec5c679f2_bg.png",ESPN 4 720p
+http://181.191.141.7/Live/51334cbb88db0e050c59ef2d28c53491/local-espn4lat_720.m3u8
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/00d0f79c141c05d1.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/00d0f79c141c05d1_bg.png",ESPN 4
+http://181.191.141.7/Live/51334cbb88db0e050c59ef2d28c53491/local-espn4lat.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/4f23917890a4c810.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/4f23917890a4c810_bg.png",ESPN 5 720p
+http://181.191.141.7/Live/51334cbb88db0e050c59ef2d28c53491/local-espn5lat_720.m3u8
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/4cbfcce674d542cc.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/4cbfcce674d542cc_bg.png",ESPN 6
+http://181.191.141.7/Live/51334cbb88db0e050c59ef2d28c53491/local-espn6lat_720.m3u8
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/353d1e3208be2210.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/353d1e3208be2210_bg.png",ESPN 7
+http://181.191.141.7/Live/51334cbb88db0e050c59ef2d28c53491/local-espn7lt_720.m3u8
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/56f253ce382f15f4.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/56f253ce382f15f4_bg.png",ESPN PREMIUM
+http://181.191.141.7/Live/51334cbb88db0e050c59ef2d28c53491/local-espnpremar_lng.m3u8
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/8a00af1cae815a05.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/8a00af1cae815a05_bg.png",ESPN PREMIUM 720p
+http://181.191.141.7/Live/51334cbb88db0e050c59ef2d28c53491/local-espnpremlat_720.m3u8
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/4bd26da4e6000631.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/4bd26da4e6000631_bg.png",FOX SPORTS
+http://181.191.141.7/Live/51334cbb88db0e050c59ef2d28c53491/local-fox1ar_720.m3u8
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/a1dc55994bcb455d.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/a1dc55994bcb455d_bg.png",FOX SPORT 2
+http://181.191.141.7/Live/51334cbb88db0e050c59ef2d28c53491/local-fox2ar.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/e601f6e241433523.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/e601f6e241433523_bg.png",win
+http://8.243.126.131:8000/play/a025/index.m3u8
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/eac5054b4586ae69.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/eac5054b4586ae69_bg.png",Win Sports
+http://181.78.17.52:8000/play/a0pw/index.m3u8
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/f959abc1741324ec.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/f959abc1741324ec_bg.png",WIN SPORTS
+http://181.78.71.71:18000/play/a03p/index.m3u8
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/9a013414af672c87.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/9a013414af672c87_bg.png",win+
+http://190.60.37.154:45000/play/a00q/index.m3u8
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/7b96cd5dc19da281.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/7b96cd5dc19da281_bg.png",TYC
+http://190.60.37.154:45000/play/a05a/index.m3u8
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/422f8f4533d6a55d.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/422f8f4533d6a55d_bg.png",DSPORTS 1 🇦🇷
+http://190.117.20.37:8000/play/a08d/index.m3u8
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/1d3e5d2419f2a7fc.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/1d3e5d2419f2a7fc_bg.png",DSports
+http://205.235.6.29:8000/play/a0nq/index.m3u8
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/d1fd0600b3b415ef.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/d1fd0600b3b415ef_bg.png",espn premium
+http://205.235.6.29:8000/play/a0pz/index.m3u8
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/9e097d1572730e16.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/9e097d1572730e16_bg.png",tnt sport
+http://205.235.6.29:8000/play/a0xa/index.m3u8
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/be99af2931d8a35c.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/be99af2931d8a35c_bg.png",tnt sport premium
+http://205.235.6.29:8000/play/a104/index.m3u8
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/94ddbba2efeb40b6.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/94ddbba2efeb40b6_bg.png",espn
+http://205.235.6.29:8000/play/a0zf/index.m3u8
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/043d8a7dbe675832.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/043d8a7dbe675832_bg.png",espn 7
+http://205.235.6.29:8000/play/a0zv/index.m3u8
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/20e24ecee4d6d8bf.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/20e24ecee4d6d8bf_bg.png",WIN
+http://217.26.190.76:8888/play/a06a/index.m3u8
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/fafc2ec85d9935d1.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/fafc2ec85d9935d1_bg.png",DSPORTS +
+http://217.26.190.76:8888/play/a0jb/index.m3u8
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/40221251c14a7933.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/40221251c14a7933_bg.png",DIRECTV SPORTS
+http://217.26.190.76:8888/play/a0co/index.m3u8
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/1d3e5d2419f2a7fc.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/1d3e5d2419f2a7fc_bg.png",DSports
+http://38.226.210.46:8000/play/A008/index.m3u8
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/272b9fe6b2c9698a.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/272b9fe6b2c9698a_bg.png",dsport
+http://jumangis.cloud:2082/JairoVargas/5T5wLJjTbu/117708
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/22e56398235a69b1.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/22e56398235a69b1_bg.png",TUDN USA
+http://m3u.tvcluboficial.com/m/m/957.m3u8
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/d6592d53a986f261.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/d6592d53a986f261_bg.png",win sport
+http://m3u.tvcluboficial.com/m/m/1039.m3u8
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/917b9a6e4d1da9c6.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/917b9a6e4d1da9c6_bg.png",win sports+
+http://m3u.tvcluboficial.com/m/m/1042.m3u8
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/4add653edacc48ef.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/4add653edacc48ef_bg.png",ADRENALINA SPORTS
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/98.m3u8
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/cf29c8023efb9fda.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/cf29c8023efb9fda_bg.png",CLARO SPORTS
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/103.m3u8
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/6566ab922a284b9c.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/6566ab922a284b9c_bg.png",TNT SPORTS CHILE
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/462.m3u8
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/f2695b38eabd6683.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/f2695b38eabd6683_bg.png",EUROSPORT 1
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/618.m3u8
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/5617953796070712.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/5617953796070712_bg.png",EUROSPORT 2
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/619.m3u8
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/6732b4c2c340add8.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/6732b4c2c340add8_bg.png",BEIN SPORTS Ñ
+https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/1c63b577c70f6e08.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/1c63b577c70f6e08_bg.png",DAZN F1
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/374.m3u8
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/525a4bb36e47e3c4.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/525a4bb36e47e3c4_bg.png",TUDN 1
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/128.m3u8
+#EXTINF:-1 tvg-logo="https://moifire.github.io/creadorflayersdeportivos/cards/835f9b67a52cbc23.png" tvg-background="https://moifire.github.io/creadorflayersdeportivos/backdrops/835f9b67a52cbc23_bg.png",ESPN DEPORTES
+
