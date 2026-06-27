@@ -1,17 +1,5 @@
 #EXTM3U
 #EXTINF:-1 group-title="⚽ FÚTBOL",28/06 01:00 | ⚽ FÚTBOL | COPA DO MUNDO | Jordânia x Argentina | cazetv
-http://95.216.209.252:3202/play?url=https://api.embehub.site/watch/cazetv
-#EXTINF:-1 group-title="⚽ FÚTBOL",28/06 01:00 | ⚽ FÚTBOL | COPA DO MUNDO | Jordânia x Argentina | cazetv2
-http://95.216.209.252:3202/play?url=https://api.embehub.site/watch/cazetv2
-#EXTINF:-1 group-title="⚽ FÚTBOL",28/06 01:00 | ⚽ FÚTBOL | COPA DO MUNDO | Jordânia x Argentina | cazetv3
-http://95.216.209.252:3202/play?url=https://api.embehub.site/watch/cazetv3
-#EXTINF:-1 group-title="⚽ FÚTBOL",28/06 01:00 | ⚽ FÚTBOL | COPA DO MUNDO | Jordânia x Argentina | cazetv4
-http://95.216.209.252:3202/play?url=https://api.embehub.site/watch/cazetv4
-#EXTINF:-1 group-title="⚽ FÚTBOL",28/06 01:00 | ⚽ FÚTBOL | COPA DO MUNDO | Jordânia x Argentina | cazetv5
-http://95.216.209.252:3202/play?url=https://api.embehub.site/watch/cazetv5
-#EXTINF:-1 group-title="⚽ FÚTBOL",28/06 01:00 | ⚽ FÚTBOL | COPA DO MUNDO | Jordânia x Argentina | dsports
-http://95.216.209.252:3202/play?url=https://api.embehub.site/watch/dsports
-#EXTINF:-1 group-title="⚽ FÚTBOL",28/06 01:00 | ⚽ FÚTBOL | COPA DO MUNDO | Jordânia x Argentina | dsports2
-http://95.216.209.252:3202/play?url=https://api.embehub.site/watch/dsports2
+
 
 
