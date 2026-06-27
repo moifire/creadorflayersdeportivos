@@ -1,5 +1,1532 @@
-#EXTM3U
-#EXTINF:-1 group-title="⚽ FÚTBOL",28/06 01:00 | ⚽ FÚTBOL | COPA DO MUNDO | Jordânia x Argentina | cazetv
-
-
-
+[
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "00:00",
+    "title": "MLS Next Pro Connecticut United FC New York City 2 OneFootball",
+    "subtitle": "",
+    "channel": "OneFootball"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "00:00",
+    "title": "MLS Next Pro Connecticut United FC New York City 2 OneFootball",
+    "subtitle": "",
+    "channel": "OneFootball"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "01:00",
+    "title": "NHL Draft 2026 Ronda 1 DAZN (Ver en directo)",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "01:30",
+    "title": "Primera División Futsal AFA Independiente Futsal 17 de Agosto Futsal LPF Play",
+    "subtitle": "",
+    "channel": "LPF Play"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "02:00",
+    "title": "FIFA Copa Mundial 2026 Fase de grupos Cabo Verde Arabia Saudí DAZN (Ver en directo) DAZN Mundial 2 (M58 O114) Ver en directo BarTV Mundial 2 (M301)",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "02:00",
+    "title": "FIFA Copa Mundial 2026 Fase de grupos Uruguay España DAZN (Ver en directo) DAZN Mundial (Ver en directo) La 2 Cat BarTV Mundial (M300) La 1 TVE Teledeporte RTVE Play",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "03:00",
+    "title": "Primera División Futsal AFA Club Glorias Barracas Central FS LPF Play",
+    "subtitle": "",
+    "channel": "LPF Play"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "03:00",
+    "title": "Primera División Futsal AFA Estudiantil Porteño FS Kimberley AC Futsal LPF Play",
+    "subtitle": "",
+    "channel": "LPF Play"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "05:00",
+    "title": "FIFA Copa Mundial 2026 Fase de grupos Egipto Irán DAZN (Ver en directo) DAZN Mundial 2 (M58 O114) Ver en directo BarTV Mundial 2 (M301)",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "05:00",
+    "title": "FIFA Copa Mundial 2026 Fase de grupos Nueva Zelanda Bélgica DAZN (Ver en directo) DAZN Mundial (Ver en directo) BarTV Mundial (M300)",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "06:54",
+    "title": "WRC Rally Rally de Acrópolis SS8 › SS13 DAZN (Ver en directo)",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "09:00",
+    "title": "Valladolid Open Semifinal Femenina Premier Padel Tour Red Bull TV M+ Vamos (8 y 50) M+ #Vamos Bar (304) M+ Deportes (63)",
+    "subtitle": "",
+    "channel": "Red Bull TV"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "09:30",
+    "title": "The Women's Amateur Championship Jornada 3 Movistar Golf 2 (M68) Movistar Golf (M68)",
+    "subtitle": "",
+    "channel": "Movistar Golf 2 (M68)"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "10:00",
+    "title": "Campeonato de España Sesión Matinal Palma de Mallorca Teledeporte RTVE Play",
+    "subtitle": "",
+    "channel": "Teledeporte"
+  },
+  {
+    "date": "Hoy",
+    "category": "F1",
+    "sport": "F1",
+    "time": "10:05",
+    "title": "FIA Fórmula 3 G.P. Austria (Red Bull Ring) Carrera 1 DAZN (Ver en directo) DAZN F1 (M70 O104)",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)"
+  },
+  {
+    "date": "Hoy",
+    "category": "MOTOGP",
+    "sport": "MOTOGP",
+    "time": "10:10",
+    "title": "MotoGP G.P. Holanda (Assen) Libres 2 MotoGP Videopass DAZN (Ver en directo) DAZN MotoGP (M71 O105)",
+    "subtitle": "",
+    "channel": "MotoGP Videopass"
+  },
+  {
+    "date": "Hoy",
+    "category": "MOTOGP",
+    "sport": "MOTOGP",
+    "time": "10:50",
+    "title": "MotoGP G.P. Holanda (Assen) Clasificación MotoGP Videopass DAZN (Ver en directo) DAZN MotoGP (M71 O105)",
+    "subtitle": "",
+    "channel": "MotoGP Videopass"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "11:00",
+    "title": "FIBA Mundial Sub-17 Fase de grupos Canadá Lituania FIBA YouTube Eurovision Sports TV",
+    "subtitle": "",
+    "channel": "FIBA YouTube"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "11:00",
+    "title": "Valladolid Open Semifinal Femenina Premier Padel Tour Red Bull TV M+ Deportes (63)",
+    "subtitle": "",
+    "channel": "Red Bull TV"
+  },
+  {
+    "date": "Hoy",
+    "category": "TENIS",
+    "sport": "TENIS",
+    "time": "11:10",
+    "title": "WTA Torneo de Bad Homburg Final WTA 500 K. Muchova N. Osaka WTA TV Tennis Channel - Orange TV (131)",
+    "subtitle": "",
+    "channel": "WTA TV"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "11:30",
+    "title": "FIBA Mundial Sub-17 Fase de grupos Camerún China FIBA YouTube Eurovision Sports TV",
+    "subtitle": "",
+    "channel": "FIBA YouTube"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "12:00",
+    "title": "Primera Federación Femenina Playoff Final At. Navalcarnero FS Torreblanca Melilla Teledeporte RTVE Play TV Melilla",
+    "subtitle": "",
+    "channel": "Teledeporte"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "12:15",
+    "title": "Campeonato de España Carrera Femenina Sabiñánigo › Sabiñánigo (129,7 km) HBO MAX DAZN (Ver en directo) Aragón Deporte RTVE Play Eurosport 1",
+    "subtitle": "",
+    "channel": "HBO MAX"
+  },
+  {
+    "date": "Hoy",
+    "category": "F1",
+    "sport": "F1",
+    "time": "12:30",
+    "title": "Fórmula 1 G.P. Austria (Red Bull Ring) Libres 3 DAZN (Ver en directo) DAZN F1 (M70 O104)",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)"
+  },
+  {
+    "date": "Hoy",
+    "category": "MOTOGP",
+    "sport": "MOTOGP",
+    "time": "12:45",
+    "title": "Moto3 G.P. Holanda (Assen) Clasificación MotoGP Videopass DAZN (Ver en directo) DAZN MotoGP (M71 O105)",
+    "subtitle": "",
+    "channel": "MotoGP Videopass"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "13:00",
+    "title": "Veikkausliiga FC Ilves SJK Seinäjoki OneFootball PPV",
+    "subtitle": "",
+    "channel": "OneFootball PPV"
+  },
+  {
+    "date": "Hoy",
+    "category": "TENIS",
+    "sport": "TENIS",
+    "time": "13:10",
+    "title": "WTA Torneo de Eastbourne Final WTA 250 T. Maria M. Keys WTA TV",
+    "subtitle": "",
+    "channel": "WTA TV"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "13:30",
+    "title": "Open de Italia Jornada 3 Movistar Golf (M68)",
+    "subtitle": "",
+    "channel": "Movistar Golf (M68)"
+  },
+  {
+    "date": "Hoy",
+    "category": "MOTOGP",
+    "sport": "MOTOGP",
+    "time": "13:40",
+    "title": "Moto2 G.P. Holanda (Assen) Clasificación MotoGP Videopass DAZN (Ver en directo) DAZN MotoGP (M71 O105)",
+    "subtitle": "",
+    "channel": "MotoGP Videopass"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "13:45",
+    "title": "Travelers Championship Jornada 3 PGA Tour HBO MAX",
+    "subtitle": "",
+    "channel": "HBO MAX"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "13:45",
+    "title": "FIBA Mundial Sub-17 Fase de grupos Australia Serbia FIBA YouTube Eurovision Sports TV",
+    "subtitle": "",
+    "channel": "FIBA YouTube"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "14:00",
+    "title": "Campeonato de Francia Carrera Femenina Les Vals du Dauphiné › Les Vals du Dauphiné (111,4 km) HBO MAX DAZN (Ver en directo) Eurosport 1",
+    "subtitle": "",
+    "channel": "HBO MAX"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "14:00",
+    "title": "Damallsvenskan Malmö FF Women Kristianstads DFF FANSEAT",
+    "subtitle": "",
+    "channel": "FANSEAT"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "14:15",
+    "title": "FIBA Mundial Sub-17 Fase de grupos Venezuela Costa de Marfil FIBA YouTube Eurovision Sports TV",
+    "subtitle": "",
+    "channel": "FIBA YouTube"
+  },
+  {
+    "date": "Hoy",
+    "category": "F1",
+    "sport": "F1",
+    "time": "14:15",
+    "title": "FIA Fórmula 2 G.P. Austria (Red Bull Ring) Carrera 1 DAZN (Ver en directo) DAZN F1 (M70 O104)",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "14:30",
+    "title": "The Women's Amateur Championship Jornada 3 Movistar Golf 2 (M68)",
+    "subtitle": "",
+    "channel": "Movistar Golf 2 (M68)"
+  },
+  {
+    "date": "Hoy",
+    "category": "MOTOGP",
+    "sport": "MOTOGP",
+    "time": "15:00",
+    "title": "MotoGP G.P. Holanda (Assen) Sprint MotoGP Videopass DAZN (Ver en directo) DAZN MotoGP (M71 O105)",
+    "subtitle": "",
+    "channel": "MotoGP Videopass"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "15:00",
+    "title": "Segunda Uruguay CA Atenas Tacuarembó Antel TV Internacional",
+    "subtitle": "",
+    "channel": "Antel TV Internacional"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "15:00",
+    "title": "Campeonato de Italia Carrera Masculina Asti › Cuneo (232,5 km) HBO MAX",
+    "subtitle": "",
+    "channel": "HBO MAX"
+  },
+  {
+    "date": "Hoy",
+    "category": "TENIS",
+    "sport": "TENIS",
+    "time": "15:10",
+    "title": "Torneo de Mallorca Final ATP 250 E. Quinn A. Davidovich ATP Tennis TV M+ Vamos (8 y 50) M+ #Vamos Bar (304) RTVE Play M+ Deportes 2 (64)",
+    "subtitle": "",
+    "channel": "ATP Tennis TV"
+  },
+  {
+    "date": "Hoy",
+    "category": "TENIS",
+    "sport": "TENIS",
+    "time": "15:30",
+    "title": "Torneo Exhibición Hurlingham F. Cobolli TM. Etcheverry Giorgio Armani Tennis Classic YouTube",
+    "subtitle": "",
+    "channel": "Giorgio Armani Tennis Classic YouTube"
+  },
+  {
+    "date": "Hoy",
+    "category": "F1",
+    "sport": "F1",
+    "time": "16:00",
+    "title": "Fórmula 1 G.P. Austria (Red Bull Ring) Clasificación DAZN (Ver en directo) DAZN F1 (M70 O104)",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "16:00",
+    "title": "Campeonato Femenino SAT Femenino Lanús LPF Play",
+    "subtitle": "",
+    "channel": "LPF Play"
+  },
+  {
+    "date": "Hoy",
+    "category": "COMBATE",
+    "sport": "COMBATE",
+    "time": "16:00",
+    "title": "UFC UFC Fight Night R. Fiziev M. Torres HBO MAX",
+    "subtitle": "",
+    "channel": "HBO MAX"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "16:00",
+    "title": "Veikkausliiga HJK Helsinki KuPS OneFootball PPV",
+    "subtitle": "",
+    "channel": "OneFootball PPV"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "16:00",
+    "title": "Veikkausliiga IFK Mariehamn FC Inter Turku OneFootball PPV",
+    "subtitle": "",
+    "channel": "OneFootball PPV"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "16:30",
+    "title": "FIBA Mundial Sub-17 Fase de grupos Estados Unidos Francia FIBA YouTube Eurovision Sports TV",
+    "subtitle": "",
+    "channel": "FIBA YouTube"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "16:45",
+    "title": "Campeonato de España Carrera Sub-23 Masculina Sabiñánigo › Sabiñánigo (157,7 km) RFEC YouTube Aragón Deporte SPORTPUBLIC TV YouTube",
+    "subtitle": "",
+    "channel": "RFEC YouTube"
+  },
+  {
+    "date": "Hoy",
+    "category": "MOTOGP",
+    "sport": "MOTOGP",
+    "time": "16:50",
+    "title": "Red Bull MotoGP Rookies Cup G.P. Holanda (Assen) Carrera 1 Red Bull TV DAZN (Ver en directo)",
+    "subtitle": "",
+    "channel": "Red Bull TV"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "17:00",
+    "title": "NHL Draft 2026 Ronda 2-7 DAZN (Ver en directo)",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "17:00",
+    "title": "FIBA Mundial Sub-17 Fase de grupos Italia Japón FIBA YouTube Eurovision Sports TV",
+    "subtitle": "",
+    "channel": "FIBA YouTube"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "17:00",
+    "title": "Torneo Proyección 1/4 de Final River Plate Reserva Lanús Reserva LPF Play",
+    "subtitle": "",
+    "channel": "LPF Play"
+  },
+  {
+    "date": "Hoy",
+    "category": "TENIS",
+    "sport": "TENIS",
+    "time": "17:00",
+    "title": "Torneo Exhibición Hurlingham L. Darderi S. Tsitsipas Giorgio Armani Tennis Classic YouTube",
+    "subtitle": "",
+    "channel": "Giorgio Armani Tennis Classic YouTube"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "17:30",
+    "title": "Campeonato de España Sesión Vespertina Palma de Mallorca Teledeporte RTVE Play",
+    "subtitle": "",
+    "channel": "Teledeporte"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "18:00",
+    "title": "Primera B Argentina Villa Dálmine Deportivo Camioneros LPF Play",
+    "subtitle": "",
+    "channel": "LPF Play"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "18:00",
+    "title": "Primera B Argentina Real Pilar San Martín Burzaco LPF Play",
+    "subtitle": "",
+    "channel": "LPF Play"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "18:00",
+    "title": "Primera C Sacachispas CA Lugano LPF Play",
+    "subtitle": "",
+    "channel": "LPF Play"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "18:00",
+    "title": "Segunda Uruguay Uruguay Montevideo CA Fénix Antel TV Internacional",
+    "subtitle": "",
+    "channel": "Antel TV Internacional"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "18:00",
+    "title": "Valladolid Open Semifinal Masculina Premier Padel Tour Red Bull TV M+ Deportes (63)",
+    "subtitle": "",
+    "channel": "Red Bull TV"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "18:00",
+    "title": "Veikkausliiga Gnistan VPS OneFootball PPV",
+    "subtitle": "",
+    "channel": "OneFootball PPV"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "18:00",
+    "title": "Veikkausliiga TPS FF Jaro OneFootball PPV",
+    "subtitle": "",
+    "channel": "OneFootball PPV"
+  },
+  {
+    "date": "Hoy",
+    "category": "TENIS",
+    "sport": "TENIS",
+    "time": "18:30",
+    "title": "Torneo de Eastbourne Final ATP 250 Z. Bergs U. Humbert ATP Tennis TV M+ Deportes 3 (65)",
+    "subtitle": "",
+    "channel": "ATP Tennis TV"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "19:15",
+    "title": "FIBA Mundial Sub-17 Fase de grupos Nueva Zelanda Turquía FIBA YouTube Eurovision Sports TV",
+    "subtitle": "",
+    "channel": "FIBA YouTube"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "19:45",
+    "title": "FIBA Mundial Sub-17 Fase de grupos Eslovenia Puerto Rico FIBA YouTube Eurovision Sports TV",
+    "subtitle": "",
+    "channel": "FIBA YouTube"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "20:00",
+    "title": "Primera B Argentina Brown de Adrogué Flandria LPF Play",
+    "subtitle": "",
+    "channel": "LPF Play"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "20:00",
+    "title": "Primera B Argentina CA Talleres Defensores Unidos LPF Play",
+    "subtitle": "",
+    "channel": "LPF Play"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "20:00",
+    "title": "Primera B Argentina Excursionistas Deportivo Merlo LPF Play",
+    "subtitle": "",
+    "channel": "LPF Play"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "20:00",
+    "title": "Primera C Central Córdoba R Muñiz LPF Play",
+    "subtitle": "",
+    "channel": "LPF Play"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "20:00",
+    "title": "Primera C CDS Juventud Unida Argentino Rosario LPF Play",
+    "subtitle": "",
+    "channel": "LPF Play"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "20:00",
+    "title": "Primera C El Porvenir Leones de Rosario LPF Play",
+    "subtitle": "",
+    "channel": "LPF Play"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "20:00",
+    "title": "Torneo Proyección 1/4 de Final Independiente Reserva Racing Avellaneda Reserva LPF Play",
+    "subtitle": "",
+    "channel": "LPF Play"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "20:00",
+    "title": "Campeonato Femenino Banfield Femenino Gimnasia LP Femenino LPF Play",
+    "subtitle": "",
+    "channel": "LPF Play"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "20:00",
+    "title": "Valladolid Open Semifinal Masculina Premier Padel Tour Red Bull TV M+ Vamos (8 y 50) M+ #Vamos Bar (304) M+ Deportes (63)",
+    "subtitle": "",
+    "channel": "Red Bull TV"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "20:00",
+    "title": "Veikkausliiga AC Oulu Lahti FC OneFootball PPV",
+    "subtitle": "",
+    "channel": "OneFootball PPV"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "20:00",
+    "title": "Torneo Promocional Amateur Club Náutico Hacoaj Estrella de Berisso LPF Play",
+    "subtitle": "",
+    "channel": "LPF Play"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "20:00",
+    "title": "Women's PGA Championship Jornada 3 Movistar Golf (M68)",
+    "subtitle": "",
+    "channel": "Movistar Golf (M68)"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "20:30",
+    "title": "Primera B Argentina Dep. Armenio Ituzaingó LPF Play",
+    "subtitle": "",
+    "channel": "LPF Play"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "21:00",
+    "title": "Top 14 Stade Toulouse Montpellier HR M+ Deportes 2 (64)",
+    "subtitle": "",
+    "channel": "M+ Deportes 2 (64)"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "21:00",
+    "title": "Segunda Uruguay Huracán FC CA Rentistas Antel TV Internacional",
+    "subtitle": "",
+    "channel": "Antel TV Internacional"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "21:00",
+    "title": "Primera División Futsal AFA Deportivo Camioneros FS Newell's Old Boys FS LPF Play",
+    "subtitle": "",
+    "channel": "LPF Play"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "22:00",
+    "title": "MLS Next Pro Portland Timbers 2 The Town FC OneFootball",
+    "subtitle": "",
+    "channel": "OneFootball"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "23:00",
+    "title": "FIFA Copa Mundial 2026 Fase de grupos Croacia Ghana DAZN (Ver en directo) DAZN Mundial 2 (M58 O114) Ver en directo BarTV Mundial 2 (M301)",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "23:00",
+    "title": "FIFA Copa Mundial 2026 Fase de grupos Panamá Inglaterra DAZN (Ver en directo) DAZN Mundial (Ver en directo) BarTV Mundial (M300)",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "00:00",
+    "title": "Segunda Uruguay Paysandú FC Miramar Misiones Antel TV Internacional",
+    "subtitle": "",
+    "channel": "Antel TV Internacional"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "00:00",
+    "title": "Segunda Uruguay Paysandú FC Miramar Misiones Antel TV Internacional",
+    "subtitle": "",
+    "channel": "Antel TV Internacional"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "00:15",
+    "title": "Título Mundial Peso Superwélter X. Zayas J. Ennis DAZN (Ver en directo)",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "01:00",
+    "title": "MLS Next Pro Chattanooga FC Chicago Fire 2 OneFootball",
+    "subtitle": "",
+    "channel": "OneFootball"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "01:00",
+    "title": "MLS Next Pro Atlanta United 2 Crown Legacy FC OneFootball",
+    "subtitle": "",
+    "channel": "OneFootball"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "01:30",
+    "title": "FIFA Copa Mundial 2026 Fase de grupos R.D. Congo Uzbekistán DAZN (Ver en directo) DAZN Mundial 2 (M58 O114) Ver en directo BarTV Mundial 2 (M301)",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "01:30",
+    "title": "FIFA Copa Mundial 2026 Fase de grupos Colombia Portugal DAZN (Ver en directo) DAZN Mundial (Ver en directo) La 2 Cat BarTV Mundial (M300) La 1 TVE RTVE Play",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "02:00",
+    "title": "MLS Next Pro Colorado Rapids 2 Vancouver Whitecaps 2 OneFootball",
+    "subtitle": "",
+    "channel": "OneFootball"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "02:00",
+    "title": "Velada Professional Fighters League San Diego (Estados Unidos) M+ Vamos (8 y 50) M+ #Vamos Bar (304) M+ Deportes (63)",
+    "subtitle": "",
+    "channel": "M+ Vamos (8 y 50)"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "04:00",
+    "title": "FIFA Copa Mundial 2026 Fase de grupos Argelia Austria DAZN (Ver en directo) DAZN Mundial 2 (M58 O114) Ver en directo BarTV Mundial 2 (M301)",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "04:00",
+    "title": "FIFA Copa Mundial 2026 Fase de grupos Jordania Argentina DAZN (Ver en directo) DAZN Mundial (Ver en directo) BarTV Mundial (M300)",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "04:00",
+    "title": "MLS Next Pro Ventura County Real Monarchs OneFootball",
+    "subtitle": "",
+    "channel": "OneFootball"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "07:28",
+    "title": "WRC Rally Rally de Acrópolis DAZN (Ver en directo)",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)"
+  },
+  {
+    "date": "Hoy",
+    "category": "MOTOGP",
+    "sport": "MOTOGP",
+    "time": "08:35",
+    "title": "Red Bull MotoGP Rookies Cup G.P. Holanda (Assen) Carrera 2 Red Bull TV DAZN (Ver en directo)",
+    "subtitle": "",
+    "channel": "Red Bull TV"
+  },
+  {
+    "date": "Hoy",
+    "category": "F1",
+    "sport": "F1",
+    "time": "08:40",
+    "title": "FIA Fórmula 3 G.P. Austria (Red Bull Ring) Carrera 2 DAZN (Ver en directo) DAZN F1 (M70 O104)",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "09:30",
+    "title": "Campeonato de Gran Bretaña Carrera Femenina Aberystwyth › Aberystwyth (128 km) HBO MAX",
+    "subtitle": "",
+    "channel": "HBO MAX"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "10:00",
+    "title": "Campeonato de España Sesión Matinal Palma de Mallorca Teledeporte RTVE Play",
+    "subtitle": "",
+    "channel": "Teledeporte"
+  },
+  {
+    "date": "Hoy",
+    "category": "F1",
+    "sport": "F1",
+    "time": "10:10",
+    "title": "FIA Fórmula 2 G.P. Austria (Red Bull Ring) Carrera 2 DAZN (Ver en directo) DAZN F1 (M70 O104)",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)"
+  },
+  {
+    "date": "Hoy",
+    "category": "MOTOGP",
+    "sport": "MOTOGP",
+    "time": "11:00",
+    "title": "Moto3 G.P. Holanda (Assen) Carrera MotoGP Videopass DAZN (Ver en directo) DAZN MotoGP (M71 O105)",
+    "subtitle": "",
+    "channel": "MotoGP Videopass"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "11:00",
+    "title": "FIBA Mundial Sub-17 Fase de grupos Serbia Venezuela FIBA YouTube Eurovision Sports TV",
+    "subtitle": "",
+    "channel": "FIBA YouTube"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "11:30",
+    "title": "FIBA Mundial Sub-17 Fase de grupos Costa de Marfil Australia FIBA YouTube Eurovision Sports TV",
+    "subtitle": "",
+    "channel": "FIBA YouTube"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "12:00",
+    "title": "Open de Italia Jornada 4 Movistar Golf (M68)",
+    "subtitle": "",
+    "channel": "Movistar Golf (M68)"
+  },
+  {
+    "date": "Hoy",
+    "category": "MOTOGP",
+    "sport": "MOTOGP",
+    "time": "12:15",
+    "title": "Moto2 G.P. Holanda (Assen) Carrera MotoGP Videopass DAZN (Ver en directo) DAZN MotoGP (M71 O105)",
+    "subtitle": "",
+    "channel": "MotoGP Videopass"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "12:30",
+    "title": "Amistoso Cataluña Gran Bretaña TV3 (Cataluña)",
+    "subtitle": "",
+    "channel": "TV3 (Cataluña)"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "13:30",
+    "title": "Campeonato de España Carrera Masculina Sabiñánigo › Sabiñánigo (211 km) HBO MAX DAZN (Ver en directo) Aragón Deporte RTVE Play Aragón TV Eurosport 1",
+    "subtitle": "",
+    "channel": "HBO MAX"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "13:45",
+    "title": "Travelers Championship Jornada 4 PGA Tour HBO MAX",
+    "subtitle": "",
+    "channel": "HBO MAX"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "13:45",
+    "title": "FIBA Mundial Sub-17 Fase de grupos Japón Estados Unidos FIBA YouTube Eurovision Sports TV",
+    "subtitle": "",
+    "channel": "FIBA YouTube"
+  },
+  {
+    "date": "Hoy",
+    "category": "MOTOGP",
+    "sport": "MOTOGP",
+    "time": "14:00",
+    "title": "MotoGP G.P. Holanda (Assen) Carrera MotoGP Videopass DAZN (Ver en directo) DAZN MotoGP (M71 O105)",
+    "subtitle": "",
+    "channel": "MotoGP Videopass"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "14:00",
+    "title": "Europeo Sub-19 Femenino Fase de grupos Suiza España Teledeporte RTVE Play",
+    "subtitle": "",
+    "channel": "Teledeporte"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "14:15",
+    "title": "FIBA Mundial Sub-17 Fase de grupos Francia Italia FIBA YouTube Eurovision Sports TV",
+    "subtitle": "",
+    "channel": "FIBA YouTube"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "14:30",
+    "title": "Campeonato de Gran Bretaña Carrera Masculina Aberystwyth › Aberystwyth (187 km) HBO MAX",
+    "subtitle": "",
+    "channel": "HBO MAX"
+  },
+  {
+    "date": "Hoy",
+    "category": "F1",
+    "sport": "F1",
+    "time": "15:00",
+    "title": "Fórmula 1 G.P. Austria (Red Bull Ring) Carrera DAZN (Ver en directo) DAZN F1 (M70 O104)",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "15:00",
+    "title": "Torneo Promocional Amateur Atlético Pilar SAT LPF Play",
+    "subtitle": "",
+    "channel": "LPF Play"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "15:15",
+    "title": "Campeonato de Francia Carrera Masculina Les Vals du Dauphiné › Les Vals du Dauphiné (241,8 km) HBO MAX DAZN (Ver en directo) Eurosport 1",
+    "subtitle": "",
+    "channel": "HBO MAX"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "16:00",
+    "title": "Torneo Proyección 1/4 de Final Vélez Sarsfield Reserva Newell's Old Boys Reserva LPF Play",
+    "subtitle": "",
+    "channel": "LPF Play"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "16:30",
+    "title": "FIBA Mundial Sub-17 Fase de grupos Lituania Camerún FIBA YouTube Eurovision Sports TV",
+    "subtitle": "",
+    "channel": "FIBA YouTube"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "17:00",
+    "title": "FIBA Mundial Sub-17 Fase de grupos China Canadá FIBA YouTube Eurovision Sports TV",
+    "subtitle": "",
+    "channel": "FIBA YouTube"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "17:00",
+    "title": "Segunda Uruguay River Plate M. La Luz FC Antel TV Internacional",
+    "subtitle": "",
+    "channel": "Antel TV Internacional"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "17:00",
+    "title": "Valladolid Open Final Femenina Premier Padel Tour Red Bull TV M+ Vamos (8 y 50) M+ #Vamos Bar (304) M+ Deportes (63)",
+    "subtitle": "",
+    "channel": "Red Bull TV"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "17:30",
+    "title": "Campeonato de España Sesión Vespertina Palma de Mallorca Teledeporte RTVE Play",
+    "subtitle": "",
+    "channel": "Teledeporte"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "18:00",
+    "title": "IAAF Diamond League París (Francia) M+ Deportes 2 (64)",
+    "subtitle": "",
+    "channel": "M+ Deportes 2 (64)"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "18:00",
+    "title": "Primera B Argentina Laferrere Argentinos Quilmes LPF Play",
+    "subtitle": "",
+    "channel": "LPF Play"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "18:00",
+    "title": "Primera B Argentina UAI Urquiza Sportivo Italiano LPF Play",
+    "subtitle": "",
+    "channel": "LPF Play"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "18:00",
+    "title": "Primera B Argentina CSD Liniers Villa San Carlos LPF Play",
+    "subtitle": "",
+    "channel": "LPF Play"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "18:00",
+    "title": "Primera C Sportivo Barracas Luján LPF Play",
+    "subtitle": "",
+    "channel": "LPF Play"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "19:00",
+    "title": "Europeo Sub-19 Fase de grupos Gales España Teledeporte RTVE Play",
+    "subtitle": "",
+    "channel": "Teledeporte"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "19:00",
+    "title": "Torneo Proyección 1/4 de Final Boca Juniors Reserva Atlético Tucumán Reserva LPF Play",
+    "subtitle": "",
+    "channel": "LPF Play"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "19:00",
+    "title": "Valladolid Open Final Masculina Premier Padel Tour Red Bull TV M+ Vamos (8 y 50) M+ #Vamos Bar (304) M+ Deportes (63)",
+    "subtitle": "",
+    "channel": "Red Bull TV"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "19:00",
+    "title": "Liga Premier Islandia FH Hafnarfjördur ÍBV OneFootball PPV",
+    "subtitle": "",
+    "channel": "OneFootball PPV"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "19:00",
+    "title": "Liga Premier Islandia Stjarnan KA Akureyri OneFootball PPV",
+    "subtitle": "",
+    "channel": "OneFootball PPV"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "19:00",
+    "title": "Liga Premier Islandia Keflavík IK KR Reykjavík OneFootball PPV",
+    "subtitle": "",
+    "channel": "OneFootball PPV"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "19:00",
+    "title": "Liga Premier Islandia Thor Akureyri Valur Reykjavík OneFootball PPV",
+    "subtitle": "",
+    "channel": "OneFootball PPV"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "19:00",
+    "title": "Women's PGA Championship Jornada 4 Movistar Golf (M68)",
+    "subtitle": "",
+    "channel": "Movistar Golf (M68)"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "19:15",
+    "title": "FIBA Mundial Sub-17 Fase de grupos Turquía Eslovenia FIBA YouTube Eurovision Sports TV",
+    "subtitle": "",
+    "channel": "FIBA YouTube"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "19:45",
+    "title": "FIBA Mundial Sub-17 Fase de grupos Puerto Rico Nueva Zelanda FIBA YouTube Eurovision Sports TV",
+    "subtitle": "",
+    "channel": "FIBA YouTube"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "20:00",
+    "title": "Primera B Argentina Arsenal Sarandí Dock Sud LPF Play",
+    "subtitle": "",
+    "channel": "LPF Play"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "20:00",
+    "title": "Primera B Argentina Argentino Merlo Comunicaciones LPF Play",
+    "subtitle": "",
+    "channel": "LPF Play"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "20:00",
+    "title": "Primera C Cambaceres Estrella del Sur LPF Play",
+    "subtitle": "",
+    "channel": "LPF Play"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "20:00",
+    "title": "Segunda Uruguay Cerrito Plaza Colonia Antel TV Internacional",
+    "subtitle": "",
+    "channel": "Antel TV Internacional"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "20:00",
+    "title": "Campeonato Femenino Unión Santa Fe Femenino Ferro Carril Oeste Femenino LPF Play",
+    "subtitle": "",
+    "channel": "LPF Play"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "21:00",
+    "title": "FIFA Copa Mundial 2026 1/16 de Final Sudáfrica Canadá DAZN (Ver en directo) DAZN Mundial (Ver en directo) BarTV Mundial (M300) La 2 Cat La 1 TVE RTVE Play",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "21:00",
+    "title": "MLS Next Pro Toronto FC II New England Revolution II OneFootball",
+    "subtitle": "",
+    "channel": "OneFootball"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "21:15",
+    "title": "Liga Premier Islandia Breidablik UBK Víkingur R OneFootball PPV",
+    "subtitle": "",
+    "channel": "OneFootball PPV"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "21:30",
+    "title": "NASCAR Cup Series Sonoma Raceway Carrera DAZN (Ver en directo)",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "23:00",
+    "title": "Segunda Uruguay Oriental Colón FC Antel TV Internacional",
+    "subtitle": "",
+    "channel": "Antel TV Internacional"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "23:00",
+    "title": "Campeonato Femenino San Luis FC Boca Juniors Femenino LPF Play",
+    "subtitle": "",
+    "channel": "LPF Play"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "00:00",
+    "title": "MLS Next Pro FC Cincinnati 2 Inter Miami CF II OneFootball",
+    "subtitle": "",
+    "channel": "OneFootball"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "00:00",
+    "title": "MLS Next Pro FC Cincinnati 2 Inter Miami CF II OneFootball",
+    "subtitle": "",
+    "channel": "OneFootball"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "00:00",
+    "title": "MLS Next Pro Carolina Core FC Huntsville City FC OneFootball",
+    "subtitle": "",
+    "channel": "OneFootball"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "01:00",
+    "title": "MLS Next Pro Orlando City B Columbus Crew 2 OneFootball",
+    "subtitle": "",
+    "channel": "OneFootball"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "01:00",
+    "title": "MLS Next Pro New York RB II Philadelphia Union II OneFootball",
+    "subtitle": "",
+    "channel": "OneFootball"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "01:00",
+    "title": "MLS Next Pro St. Louis City SC 2 Austin FC II OneFootball",
+    "subtitle": "",
+    "channel": "OneFootball"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "02:00",
+    "title": "MLS Next Pro Minnesota Utd. 2 Tacoma Defiance OneFootball",
+    "subtitle": "",
+    "channel": "OneFootball"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "04:00",
+    "title": "MLS Next Pro Los Angeles FC 2 Houston Dynamo 2 OneFootball",
+    "subtitle": "",
+    "channel": "OneFootball"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "12:05",
+    "title": "Wimbledon 1ª Ronda Grand Slam Movistar Plus+ (M7): VER PARTIDO M+ Deportes 8 (M195) M+ Wimbledon UHD (444) M+ Deportes (63) M+ Deportes 2 (64) M+ Deportes 3 (65) M+ Deportes 4 (66) M+ Deportes 5 (192) M+ Deportes 6 (193) M+ Deportes 7 (194)",
+    "subtitle": "",
+    "channel": "Movistar Plus+ (M7): VER PARTIDO"
+  },
+  {
+    "date": "Hoy",
+    "category": "TENIS",
+    "sport": "TENIS",
+    "time": "12:05",
+    "title": "Wimbledon WTA 1ª Ronda Grand Slam Movistar Plus+ (M7): VER PARTIDO M+ Deportes 8 (M195) M+ Wimbledon UHD (444) M+ Deportes (63) M+ Deportes 2 (64) M+ Deportes 3 (65) M+ Deportes 4 (66) M+ Deportes 5 (192) M+ Deportes 6 (193) M+ Deportes 7 (194)",
+    "subtitle": "",
+    "channel": "Movistar Plus+ (M7): VER PARTIDO"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "15:30",
+    "title": "FIBA Copa Mundial Irán Siria DAZN (Ver en directo)",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "17:00",
+    "title": "Superliga de Letonia FK Auda Riga FC OneFootball PPV",
+    "subtitle": "",
+    "channel": "OneFootball PPV"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "17:00",
+    "title": "Superliga de Letonia FK Jelgava SC Grobiņa OneFootball PPV",
+    "subtitle": "",
+    "channel": "OneFootball PPV"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "18:00",
+    "title": "FIBA Copa Mundial Catar Arabia Saudí DAZN (Ver en directo)",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "18:30",
+    "title": "FIBA Copa Mundial Irak Jordania DAZN (Ver en directo)",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "19:00",
+    "title": "FIFA Copa Mundial 2026 1/16 de Final Brasil Japón DAZN (Ver en directo) DAZN Mundial (Ver en directo) BarTV Mundial (M300) La 2 Cat La 1 TVE RTVE Play",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "20:00",
+    "title": "FIBA Copa Mundial Líbano India DAZN (Ver en directo)",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "20:00",
+    "title": "Primera C Club Fénix General Lamadrid LPF Play",
+    "subtitle": "",
+    "channel": "LPF Play"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "21:15",
+    "title": "Liga Premier Islandia ÍA Akraness Fram Reykjavík OneFootball PPV",
+    "subtitle": "",
+    "channel": "OneFootball PPV"
+  },
+  {
+    "date": "Hoy",
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "22:00",
+    "title": "Campeonato Femenino CA Huracán Femenino San Lorenzo Femenino LPF Play",
+    "subtitle": "",
+    "channel": "LPF Play"
+  },
+  {
+    "date": "Hoy",
+    "category": "FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "22:30",
+    "title": "FIFA Copa Mundial 2026 1/16 de Final Alemania Paraguay DAZN (Ver en directo) DAZN Mundial (Ver en directo) BarTV Mundial (M300)",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)"
+  }
+]
