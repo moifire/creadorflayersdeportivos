@@ -1,1 +1,1505 @@
-[]
+[
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 00:00",
+    "title": "MLS Next Pro",
+    "subtitle": "",
+    "channel": "OneFootball",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 01:00",
+    "title": "NHL",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 01:30",
+    "title": "Primera División Futsal AFA",
+    "subtitle": "",
+    "channel": "LPF Play",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 02:00",
+    "title": "Fase de grupos",
+    "subtitle": "FIFA Copa Mundial 2026",
+    "channel": "DAZN (Ver en directo)",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 02:00",
+    "title": "Fase de grupos",
+    "subtitle": "FIFA Copa Mundial 2026",
+    "channel": "DAZN (Ver en directo)",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 03:00",
+    "title": "Primera División Futsal AFA",
+    "subtitle": "",
+    "channel": "LPF Play",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 03:00",
+    "title": "Primera División Futsal AFA",
+    "subtitle": "",
+    "channel": "LPF Play",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 05:00",
+    "title": "Fase de grupos",
+    "subtitle": "FIFA Copa Mundial 2026",
+    "channel": "DAZN (Ver en directo)",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 05:00",
+    "title": "Fase de grupos",
+    "subtitle": "FIFA Copa Mundial 2026",
+    "channel": "DAZN (Ver en directo)",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 06:54",
+    "title": "WRC Rally",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 09:00",
+    "title": "Valladolid Open",
+    "subtitle": "",
+    "channel": "Red Bull TV",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 09:30",
+    "title": "The Women's Amateur Championship",
+    "subtitle": "",
+    "channel": "Movistar Golf 2 (M68)",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 10:00",
+    "title": "Campeonato de España",
+    "subtitle": "",
+    "channel": "Teledeporte",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 10:05",
+    "title": "FIA Fórmula 3",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "MOTOGP",
+    "sport": "MOTOGP",
+    "time": "27/06 10:10",
+    "title": "MotoGP",
+    "subtitle": "",
+    "channel": "MotoGP Videopass",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/motogp_bg.png"
+  },
+  {
+    "category": "MOTOGP",
+    "sport": "MOTOGP",
+    "time": "27/06 10:50",
+    "title": "MotoGP",
+    "subtitle": "",
+    "channel": "MotoGP Videopass",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/motogp_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 11:00",
+    "title": "Fase de grupos",
+    "subtitle": "FIBA Mundial Sub-17",
+    "channel": "FIBA YouTube",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 11:00",
+    "title": "Valladolid Open",
+    "subtitle": "",
+    "channel": "Red Bull TV",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "TENIS",
+    "sport": "TENIS",
+    "time": "27/06 11:10",
+    "title": "WTA 500",
+    "subtitle": "WTA Torneo de Bad Homburg",
+    "channel": "WTA TV",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/tenis_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 11:30",
+    "title": "Fase de grupos",
+    "subtitle": "FIBA Mundial Sub-17",
+    "channel": "FIBA YouTube",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 12:00",
+    "title": "Playoff Final",
+    "subtitle": "Primera Federación Femenina",
+    "channel": "Teledeporte",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 12:15",
+    "title": "Campeonato de España",
+    "subtitle": "",
+    "channel": "HBO MAX",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 12:30",
+    "title": "Fórmula 1",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "MOTOGP",
+    "sport": "MOTOGP",
+    "time": "27/06 12:45",
+    "title": "Moto3",
+    "subtitle": "",
+    "channel": "MotoGP Videopass",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/motogp_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 13:00",
+    "title": "Veikkausliiga",
+    "subtitle": "",
+    "channel": "OneFootball PPV",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "TENIS",
+    "sport": "TENIS",
+    "time": "27/06 13:10",
+    "title": "WTA 250",
+    "subtitle": "WTA Torneo de Eastbourne",
+    "channel": "WTA TV",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/tenis_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 13:30",
+    "title": "Open de Italia",
+    "subtitle": "",
+    "channel": "Movistar Golf (M68)",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "MOTOGP",
+    "sport": "MOTOGP",
+    "time": "27/06 13:40",
+    "title": "Moto2",
+    "subtitle": "",
+    "channel": "MotoGP Videopass",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/motogp_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 13:45",
+    "title": "Travelers Championship",
+    "subtitle": "",
+    "channel": "HBO MAX",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 13:45",
+    "title": "Fase de grupos",
+    "subtitle": "FIBA Mundial Sub-17",
+    "channel": "FIBA YouTube",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 14:00",
+    "title": "Campeonato de Francia",
+    "subtitle": "",
+    "channel": "HBO MAX",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 14:00",
+    "title": "Damallsvenskan",
+    "subtitle": "",
+    "channel": "FANSEAT",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 14:15",
+    "title": "Fase de grupos",
+    "subtitle": "FIBA Mundial Sub-17",
+    "channel": "FIBA YouTube",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 14:15",
+    "title": "FIA Fórmula 2",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 14:30",
+    "title": "The Women's Amateur Championship",
+    "subtitle": "",
+    "channel": "Movistar Golf 2 (M68)",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "MOTOGP",
+    "sport": "MOTOGP",
+    "time": "27/06 15:00",
+    "title": "MotoGP",
+    "subtitle": "",
+    "channel": "MotoGP Videopass",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/motogp_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 15:00",
+    "title": "Segunda Uruguay",
+    "subtitle": "",
+    "channel": "Antel TV Internacional",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 15:00",
+    "title": "Campeonato de Italia",
+    "subtitle": "",
+    "channel": "HBO MAX",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "TENIS",
+    "sport": "TENIS",
+    "time": "27/06 15:10",
+    "title": "ATP 250",
+    "subtitle": "Torneo de Mallorca",
+    "channel": "ATP Tennis TV",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/tenis_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 15:30",
+    "title": "Torneo Exhibición Hurlingham",
+    "subtitle": "",
+    "channel": "Giorgio Armani Tennis Classic YouTube",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 16:00",
+    "title": "Fórmula 1",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 16:00",
+    "title": "Campeonato Femenino",
+    "subtitle": "",
+    "channel": "LPF Play",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "COMBATE",
+    "sport": "COMBATE",
+    "time": "27/06 16:00",
+    "title": "UFC Fight Night",
+    "subtitle": "UFC",
+    "channel": "HBO MAX",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/combate_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 16:00",
+    "title": "Veikkausliiga",
+    "subtitle": "",
+    "channel": "OneFootball PPV",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 16:00",
+    "title": "Veikkausliiga",
+    "subtitle": "",
+    "channel": "OneFootball PPV",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 16:30",
+    "title": "Fase de grupos",
+    "subtitle": "FIBA Mundial Sub-17",
+    "channel": "FIBA YouTube",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 16:45",
+    "title": "Campeonato de España",
+    "subtitle": "",
+    "channel": "RFEC YouTube",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "MOTOGP",
+    "sport": "MOTOGP",
+    "time": "27/06 16:50",
+    "title": "Red Bull MotoGP Rookies Cup",
+    "subtitle": "",
+    "channel": "Red Bull TV",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/motogp_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 17:00",
+    "title": "NHL",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 17:00",
+    "title": "Fase de grupos",
+    "subtitle": "FIBA Mundial Sub-17",
+    "channel": "FIBA YouTube",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 17:00",
+    "title": "1/4 de Final",
+    "subtitle": "Torneo Proyección",
+    "channel": "LPF Play",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 17:00",
+    "title": "Torneo Exhibición Hurlingham",
+    "subtitle": "",
+    "channel": "Giorgio Armani Tennis Classic YouTube",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 17:30",
+    "title": "Campeonato de España",
+    "subtitle": "",
+    "channel": "Teledeporte",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 18:00",
+    "title": "Primera B Argentina",
+    "subtitle": "",
+    "channel": "LPF Play",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 18:00",
+    "title": "Primera B Argentina",
+    "subtitle": "",
+    "channel": "LPF Play",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 18:00",
+    "title": "Primera C",
+    "subtitle": "",
+    "channel": "LPF Play",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 18:00",
+    "title": "Segunda Uruguay",
+    "subtitle": "",
+    "channel": "Antel TV Internacional",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 18:00",
+    "title": "Valladolid Open",
+    "subtitle": "",
+    "channel": "Red Bull TV",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 18:00",
+    "title": "Veikkausliiga",
+    "subtitle": "",
+    "channel": "OneFootball PPV",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 18:00",
+    "title": "Veikkausliiga",
+    "subtitle": "",
+    "channel": "OneFootball PPV",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "TENIS",
+    "sport": "TENIS",
+    "time": "27/06 18:30",
+    "title": "ATP 250",
+    "subtitle": "Torneo de Eastbourne",
+    "channel": "ATP Tennis TV",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/tenis_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 19:15",
+    "title": "Fase de grupos",
+    "subtitle": "FIBA Mundial Sub-17",
+    "channel": "FIBA YouTube",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 19:45",
+    "title": "Fase de grupos",
+    "subtitle": "FIBA Mundial Sub-17",
+    "channel": "FIBA YouTube",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 20:00",
+    "title": "Primera B Argentina",
+    "subtitle": "",
+    "channel": "LPF Play",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 20:00",
+    "title": "Primera B Argentina",
+    "subtitle": "",
+    "channel": "LPF Play",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 20:00",
+    "title": "Primera B Argentina",
+    "subtitle": "",
+    "channel": "LPF Play",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 20:00",
+    "title": "Primera C",
+    "subtitle": "",
+    "channel": "LPF Play",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 20:00",
+    "title": "Primera C",
+    "subtitle": "",
+    "channel": "LPF Play",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 20:00",
+    "title": "Primera C",
+    "subtitle": "",
+    "channel": "LPF Play",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 20:00",
+    "title": "1/4 de Final",
+    "subtitle": "Torneo Proyección",
+    "channel": "LPF Play",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 20:00",
+    "title": "Campeonato Femenino",
+    "subtitle": "",
+    "channel": "LPF Play",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 20:00",
+    "title": "Valladolid Open",
+    "subtitle": "",
+    "channel": "Red Bull TV",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 20:00",
+    "title": "Veikkausliiga",
+    "subtitle": "",
+    "channel": "OneFootball PPV",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 20:00",
+    "title": "Torneo Promocional Amateur",
+    "subtitle": "",
+    "channel": "LPF Play",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 20:00",
+    "title": "Women's PGA Championship",
+    "subtitle": "",
+    "channel": "Movistar Golf (M68)",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 20:30",
+    "title": "Primera B Argentina",
+    "subtitle": "",
+    "channel": "LPF Play",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 21:00",
+    "title": "Top 14",
+    "subtitle": "",
+    "channel": "M+ Deportes 2 (64)",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 21:00",
+    "title": "Segunda Uruguay",
+    "subtitle": "",
+    "channel": "Antel TV Internacional",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 21:00",
+    "title": "Primera División Futsal AFA",
+    "subtitle": "",
+    "channel": "LPF Play",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 22:00",
+    "title": "MLS Next Pro",
+    "subtitle": "",
+    "channel": "OneFootball",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 23:00",
+    "title": "Fase de grupos",
+    "subtitle": "FIFA Copa Mundial 2026",
+    "channel": "DAZN (Ver en directo)",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 23:00",
+    "title": "Fase de grupos",
+    "subtitle": "FIFA Copa Mundial 2026",
+    "channel": "DAZN (Ver en directo)",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 00:00",
+    "title": "Segunda Uruguay",
+    "subtitle": "",
+    "channel": "Antel TV Internacional",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 00:15",
+    "title": "Peso Superwélter",
+    "subtitle": "Título Mundial",
+    "channel": "DAZN (Ver en directo)",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 01:00",
+    "title": "MLS Next Pro",
+    "subtitle": "",
+    "channel": "OneFootball",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 01:00",
+    "title": "MLS Next Pro",
+    "subtitle": "",
+    "channel": "OneFootball",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 01:30",
+    "title": "Fase de grupos",
+    "subtitle": "FIFA Copa Mundial 2026",
+    "channel": "DAZN (Ver en directo)",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 01:30",
+    "title": "Fase de grupos",
+    "subtitle": "FIFA Copa Mundial 2026",
+    "channel": "DAZN (Ver en directo)",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 02:00",
+    "title": "MLS Next Pro",
+    "subtitle": "",
+    "channel": "OneFootball",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 02:00",
+    "title": "Velada",
+    "subtitle": "",
+    "channel": "M+ Vamos (8 y 50)",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 04:00",
+    "title": "Fase de grupos",
+    "subtitle": "FIFA Copa Mundial 2026",
+    "channel": "DAZN (Ver en directo)",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 04:00",
+    "title": "Fase de grupos",
+    "subtitle": "FIFA Copa Mundial 2026",
+    "channel": "DAZN (Ver en directo)",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 04:00",
+    "title": "MLS Next Pro",
+    "subtitle": "",
+    "channel": "OneFootball",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 07:28",
+    "title": "WRC Rally",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "MOTOGP",
+    "sport": "MOTOGP",
+    "time": "27/06 08:35",
+    "title": "Red Bull MotoGP Rookies Cup",
+    "subtitle": "",
+    "channel": "Red Bull TV",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/motogp_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 08:40",
+    "title": "FIA Fórmula 3",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 09:30",
+    "title": "Campeonato de Gran Bretaña",
+    "subtitle": "",
+    "channel": "HBO MAX",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 10:00",
+    "title": "Campeonato de España",
+    "subtitle": "",
+    "channel": "Teledeporte",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 10:10",
+    "title": "FIA Fórmula 2",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "MOTOGP",
+    "sport": "MOTOGP",
+    "time": "27/06 11:00",
+    "title": "Moto3",
+    "subtitle": "",
+    "channel": "MotoGP Videopass",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/motogp_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 11:00",
+    "title": "Fase de grupos",
+    "subtitle": "FIBA Mundial Sub-17",
+    "channel": "FIBA YouTube",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 11:30",
+    "title": "Fase de grupos",
+    "subtitle": "FIBA Mundial Sub-17",
+    "channel": "FIBA YouTube",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 12:00",
+    "title": "Open de Italia",
+    "subtitle": "",
+    "channel": "Movistar Golf (M68)",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "MOTOGP",
+    "sport": "MOTOGP",
+    "time": "27/06 12:15",
+    "title": "Moto2",
+    "subtitle": "",
+    "channel": "MotoGP Videopass",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/motogp_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 12:30",
+    "title": "Amistoso",
+    "subtitle": "",
+    "channel": "TV3 (Cataluña)",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 13:30",
+    "title": "Campeonato de España",
+    "subtitle": "",
+    "channel": "HBO MAX",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 13:45",
+    "title": "Travelers Championship",
+    "subtitle": "",
+    "channel": "HBO MAX",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 13:45",
+    "title": "Fase de grupos",
+    "subtitle": "FIBA Mundial Sub-17",
+    "channel": "FIBA YouTube",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "MOTOGP",
+    "sport": "MOTOGP",
+    "time": "27/06 14:00",
+    "title": "MotoGP",
+    "subtitle": "",
+    "channel": "MotoGP Videopass",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/motogp_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 14:00",
+    "title": "Fase de grupos",
+    "subtitle": "Europeo Sub-19 Femenino",
+    "channel": "Teledeporte",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 14:15",
+    "title": "Fase de grupos",
+    "subtitle": "FIBA Mundial Sub-17",
+    "channel": "FIBA YouTube",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 14:30",
+    "title": "Campeonato de Gran Bretaña",
+    "subtitle": "",
+    "channel": "HBO MAX",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 15:00",
+    "title": "Fórmula 1",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 15:00",
+    "title": "Torneo Promocional Amateur",
+    "subtitle": "",
+    "channel": "LPF Play",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 15:15",
+    "title": "Campeonato de Francia",
+    "subtitle": "",
+    "channel": "HBO MAX",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 16:00",
+    "title": "1/4 de Final",
+    "subtitle": "Torneo Proyección",
+    "channel": "LPF Play",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 16:30",
+    "title": "Fase de grupos",
+    "subtitle": "FIBA Mundial Sub-17",
+    "channel": "FIBA YouTube",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 17:00",
+    "title": "Fase de grupos",
+    "subtitle": "FIBA Mundial Sub-17",
+    "channel": "FIBA YouTube",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 17:00",
+    "title": "Segunda Uruguay",
+    "subtitle": "",
+    "channel": "Antel TV Internacional",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 17:00",
+    "title": "Valladolid Open",
+    "subtitle": "",
+    "channel": "Red Bull TV",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 17:30",
+    "title": "Campeonato de España",
+    "subtitle": "",
+    "channel": "Teledeporte",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 18:00",
+    "title": "IAAF Diamond League",
+    "subtitle": "",
+    "channel": "M+ Deportes 2 (64)",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 18:00",
+    "title": "Primera B Argentina",
+    "subtitle": "",
+    "channel": "LPF Play",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 18:00",
+    "title": "Primera B Argentina",
+    "subtitle": "",
+    "channel": "LPF Play",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 18:00",
+    "title": "Primera B Argentina",
+    "subtitle": "",
+    "channel": "LPF Play",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 18:00",
+    "title": "Primera C",
+    "subtitle": "",
+    "channel": "LPF Play",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 19:00",
+    "title": "Fase de grupos",
+    "subtitle": "Europeo Sub-19",
+    "channel": "Teledeporte",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 19:00",
+    "title": "1/4 de Final",
+    "subtitle": "Torneo Proyección",
+    "channel": "LPF Play",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 19:00",
+    "title": "Valladolid Open",
+    "subtitle": "",
+    "channel": "Red Bull TV",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 19:00",
+    "title": "Liga Premier Islandia",
+    "subtitle": "",
+    "channel": "OneFootball PPV",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 19:00",
+    "title": "Liga Premier Islandia",
+    "subtitle": "",
+    "channel": "OneFootball PPV",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 19:00",
+    "title": "Liga Premier Islandia",
+    "subtitle": "",
+    "channel": "OneFootball PPV",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 19:00",
+    "title": "Liga Premier Islandia",
+    "subtitle": "",
+    "channel": "OneFootball PPV",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 19:00",
+    "title": "Women's PGA Championship",
+    "subtitle": "",
+    "channel": "Movistar Golf (M68)",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 19:15",
+    "title": "Fase de grupos",
+    "subtitle": "FIBA Mundial Sub-17",
+    "channel": "FIBA YouTube",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 19:45",
+    "title": "Fase de grupos",
+    "subtitle": "FIBA Mundial Sub-17",
+    "channel": "FIBA YouTube",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 20:00",
+    "title": "Primera B Argentina",
+    "subtitle": "",
+    "channel": "LPF Play",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 20:00",
+    "title": "Primera B Argentina",
+    "subtitle": "",
+    "channel": "LPF Play",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 20:00",
+    "title": "Primera C",
+    "subtitle": "",
+    "channel": "LPF Play",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 20:00",
+    "title": "Segunda Uruguay",
+    "subtitle": "",
+    "channel": "Antel TV Internacional",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 20:00",
+    "title": "Campeonato Femenino",
+    "subtitle": "",
+    "channel": "LPF Play",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 21:00",
+    "title": "1/16 de Final",
+    "subtitle": "FIFA Copa Mundial 2026",
+    "channel": "DAZN (Ver en directo)",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 21:00",
+    "title": "MLS Next Pro",
+    "subtitle": "",
+    "channel": "OneFootball",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 21:15",
+    "title": "Liga Premier Islandia",
+    "subtitle": "",
+    "channel": "OneFootball PPV",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 21:30",
+    "title": "NASCAR Cup Series",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 23:00",
+    "title": "Segunda Uruguay",
+    "subtitle": "",
+    "channel": "Antel TV Internacional",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 23:00",
+    "title": "Campeonato Femenino",
+    "subtitle": "",
+    "channel": "LPF Play",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 00:00",
+    "title": "MLS Next Pro",
+    "subtitle": "",
+    "channel": "OneFootball",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 00:00",
+    "title": "MLS Next Pro",
+    "subtitle": "",
+    "channel": "OneFootball",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 01:00",
+    "title": "MLS Next Pro",
+    "subtitle": "",
+    "channel": "OneFootball",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 01:00",
+    "title": "MLS Next Pro",
+    "subtitle": "",
+    "channel": "OneFootball",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 01:00",
+    "title": "MLS Next Pro",
+    "subtitle": "",
+    "channel": "OneFootball",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 02:00",
+    "title": "MLS Next Pro",
+    "subtitle": "",
+    "channel": "OneFootball",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 04:00",
+    "title": "MLS Next Pro",
+    "subtitle": "",
+    "channel": "OneFootball",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "TENIS",
+    "sport": "TENIS",
+    "time": "27/06 12:05",
+    "title": "Wimbledon",
+    "subtitle": "",
+    "channel": "Movistar Plus+ (M7): VER PARTIDO",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/tenis_bg.png"
+  },
+  {
+    "category": "TENIS",
+    "sport": "TENIS",
+    "time": "27/06 12:05",
+    "title": "Wimbledon WTA",
+    "subtitle": "",
+    "channel": "Movistar Plus+ (M7): VER PARTIDO",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/tenis_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 15:30",
+    "title": "FIBA Copa Mundial",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 17:00",
+    "title": "Superliga de Letonia",
+    "subtitle": "",
+    "channel": "OneFootball PPV",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 17:00",
+    "title": "Superliga de Letonia",
+    "subtitle": "",
+    "channel": "OneFootball PPV",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 18:00",
+    "title": "FIBA Copa Mundial",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 18:30",
+    "title": "FIBA Copa Mundial",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 19:00",
+    "title": "1/16 de Final",
+    "subtitle": "FIFA Copa Mundial 2026",
+    "channel": "DAZN (Ver en directo)",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 20:00",
+    "title": "FIBA Copa Mundial",
+    "subtitle": "",
+    "channel": "DAZN (Ver en directo)",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 20:00",
+    "title": "Primera C",
+    "subtitle": "",
+    "channel": "LPF Play",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 21:15",
+    "title": "Liga Premier Islandia",
+    "subtitle": "",
+    "channel": "OneFootball PPV",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  },
+  {
+    "category": "OTROS",
+    "sport": "OTROS",
+    "time": "27/06 22:00",
+    "title": "Campeonato Femenino",
+    "subtitle": "",
+    "channel": "LPF Play",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/otros_bg.png"
+  },
+  {
+    "category": "⚽ FÚTBOL",
+    "sport": "FÚTBOL",
+    "time": "27/06 22:30",
+    "title": "1/16 de Final",
+    "subtitle": "FIFA Copa Mundial 2026",
+    "channel": "DAZN (Ver en directo)",
+    "backdrop": "https://moifire.github.io/creadorflayersdeportivos/backdrops/futbol_bg.png"
+  }
+]
